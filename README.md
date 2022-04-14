@@ -1,4 +1,4 @@
-<center><h1>Awesome Cloud Security 云安全资源收集</h1></center>
+<center><h1> Awesome-cloud-security 云安全资源汇总 </h1></center>
 
 ---
 
@@ -6,10 +6,10 @@
 
 ## 1 综合类
 
-* 国内首个云安全社区 [火线 Zone](https://zone.huoxian.cn/?sort=newest)
-* [awesome-cloud-security](https://github.com/teamssix/awesome-cloud-security) :fire: ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security)
-* [awesome-cloud-native-security1](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
-* [awesome-cloud-native-security2](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
+* 国内首个云安全社区——火线 Zone [地址](https://zone.huoxian.cn/?sort=newest)
+* 云安全资源汇总 awesome-cloud-security [地址](https://github.com/teamssix/awesome-cloud-security) :fire: ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security)
+* awesome-cloud-native-security [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
+* awesome-cloud-native-security2 [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
 
 ## 2 云服务
 
@@ -49,34 +49,31 @@
 
 ### 辅助工具
 
-* 在线搜索目标网站下的 AWS 资产 [recon.cloud](https://recon.cloud/)
-* 在线搜索公开的 S3 Bucket [buckets.grayhatwarfare.com](https://buckets.grayhatwarfare.com/)
-* 多云基线扫描工具 [ScoutSuite](https://github.com/nccgroup/ScoutSuite) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite)
-* S3 策略扫描工具 [S3Scanner](https://github.com/sa7mon/S3Scanner) ![GitHub stars](https://img.shields.io/github/stars/sa7mon/S3Scanner)
-* 云服务资源枚举工具 [cloud_enum](https://github.com/initstring/cloud_enum) ![GitHub stars](https://img.shields.io/github/stars/initstring/cloud_enum)
-* 多云对象存储扫描工具 [Cloud-Bucket-Leak-Detection-Tools](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) ![GitHub stars](https://img.shields.io/github/stars/UzJu/Cloud-Bucket-Leak-Detection-Tools)
+* 在线搜索目标网站下的 AWS 资产 recon.cloud [地址](https://recon.cloud/)
+* 在线搜索公开的 S3 存储桶 buckets.grayhatwarfare.com [地址](https://buckets.grayhatwarfare.com/)
+* 多云基线扫描工具 ScoutSuite [地址](https://github.com/nccgroup/ScoutSuite) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite)
+* S3 策略扫描工具 S3Scanner [地址](https://github.com/sa7mon/S3Scanner) ![GitHub stars](https://img.shields.io/github/stars/sa7mon/S3Scanner)
+* 云服务资源枚举工具 cloud_enum [地址](https://github.com/initstring/cloud_enum) ![GitHub stars](https://img.shields.io/github/stars/initstring/cloud_enum)
+* 多云对象存储扫描工具 Cloud-Bucket-Leak-Detection-Tools [地址](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) ![GitHub stars](https://img.shields.io/github/stars/UzJu/Cloud-Bucket-Leak-Detection-Tools)
 
 ### 利用工具
 
-* AWS 综合利用工具 [pacu](https://github.com/RhinoSecurityLabs/pacu) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/pacu)
-* 腾讯云 AccessKey 利用工具 [Tencent_Yun_tools](https://github.com/freeFV/Tencent_Yun_tools)![GitHub stars](https://img.shields.io/github/stars/freeFV/Tencent_Yun_tools)
+* AWS 综合利用工具 pacu [地址](https://github.com/RhinoSecurityLabs/pacu) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/pacu)
+* 腾讯云 AccessKey 利用工具 Tencent_Yun_tools [地址](https://github.com/freeFV/Tencent_Yun_tools)![GitHub stars](https://img.shields.io/github/stars/freeFV/Tencent_Yun_tools)
 
 ## 2 云原生
 
 ### 辅助工具
 
-* 容器逃逸检测工具 :fire: [container-escape-check](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check)
+* 容器逃逸检测工具 :fire: container-escape-check [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check)
 
 
 ### 利用工具
 
-* 容器渗透工具集 [CDK](https://github.com/cdk-team/CDK) ![GitHub stars](https://img.shields.io/github/stars/cdk-team/CDK)
+* 容器渗透工具集 CDK [地址](https://github.com/cdk-team/CDK) ![GitHub stars](https://img.shields.io/github/stars/cdk-team/CDK)
 
 # 0x03 靶场
 
-* 在线收费的包含云安全实验的靶场 [Attack Defense](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
-* AWS 靶场部署工具 [cloudgoat](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
-* 云原生靶场部署工具 :fire: [metarget](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
-
-
-<Vssue />
+* 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
+* AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
+* 云原生靶场部署工具 :fire: metarget [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
