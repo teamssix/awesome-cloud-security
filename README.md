@@ -7,6 +7,7 @@
 ## 1 综合类
 
 * 国内首个云安全社区——火线 Zone [地址](https://zone.huoxian.cn/?sort=newest)
+* Hacking The Cloud（英文） [地址](https://hackingthe.cloud/)
 * 云安全资源汇总 awesome-cloud-security :fire: [地址](https://github.com/teamssix/awesome-cloud-security) ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) `其实就是本项目`:hear_no_evil:
 * awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
 * awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
@@ -30,14 +31,17 @@
 * 浅谈云上攻防——对象存储服务访问策略评估机制研究 [地址](https://mp.weixin.qq.com/s/ncWGrMsIAvh9HEK1QC5IGQ)
 * 红队视角下的公有云基础组件安全 [地址](https://mp.weixin.qq.com/s/r0DuASP6gH_48b5sJ1DCTw)
 * 红队视角下的公有云基础组件安全（二）[地址](https://mp.weixin.qq.com/s/lL32lywlrnuyhJkQk5NAEw)
+* 利用 AWS RDS 读取实例凭证（英文）[地址](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
+* 利用 AWS RDS 读取实例凭证（中文翻译）[地址](https://mp.weixin.qq.com/s/q447kIZoHZ1SdUpZi4D5SQ)
+* 风险最高的10种AWS配置错误 [地址](https://mp.weixin.qq.com/s/quIpapbkFNay0JtUK4wODQ) 
 
 ## 3 云原生
 
 * 特权模式下 Docker 逃逸手法总结 :fire: [地址](https://zone.huoxian.cn/d/1071-docker)
 * 容器逃逸方法检测指北（附检测脚本）[地址](https://zone.huoxian.cn/d/990)
-* 利用 AWS RDS 读取实例凭证（英文）[地址](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
 * Terraform 中文教程 :fire: [地址](https://lonegunmanb.github.io/introduction-terraform/)
 * 利用gateway-api，我支配了kubernetes [地址](https://mp.weixin.qq.com/s/Y4F72s0JSyvjLBN3iNyUZg)
+* 红蓝对抗中的云原生漏洞挖掘及利用实录 [地址](https://security.tencent.com/index.php/blog/msg/183)
 
 ## 4 公众号
 
