@@ -1,8 +1,8 @@
 <center><h1> Awesome Cloud Security 云安全资源汇总 </h1></center>
 
 ---
-
-# 0x01 文章
+![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) [![img](https://img.shields.io/github/followers/TeamsSix?style=social)](https://github.com/teamssix) [![Twitter](https://img.shields.io/twitter/follow/teamssix?style=social)](https://twitter.com/teamssix)
+# 0x01 资料
 
 ## 1 综合类
 
@@ -34,6 +34,10 @@
 ## 3 云原生
 
 * 特权模式下 Docker 逃逸手法总结 :fire: [地址](https://zone.huoxian.cn/d/1071-docker)
+* 容器逃逸方法检测指北（附检测脚本）[地址](https://zone.huoxian.cn/d/990)
+* 利用 AWS RDS 读取实例凭证（英文）[地址](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
+* Terraform 中文教程 :fire: [地址](https://lonegunmanb.github.io/introduction-terraform/)
+* 利用gateway-api，我支配了kubernetes [地址](https://mp.weixin.qq.com/s/Y4F72s0JSyvjLBN3iNyUZg)
 
 ## 4 公众号
 
@@ -42,6 +46,10 @@
 * 云鼎实验室
 * 绿盟科技研究通讯
 * 默安逐日实验室
+
+## 5 书籍
+
+《云原生安全-攻防实践与体系构建》:fire: 
 
 # 0x02 工具
 
@@ -77,3 +85,4 @@
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
 * 云原生靶场部署工具 metarget :fire: [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
+
