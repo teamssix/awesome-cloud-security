@@ -8,8 +8,8 @@
 
 * 国内首个云安全社区——火线 Zone [地址](https://zone.huoxian.cn/?sort=newest)
 * 云安全资源汇总 awesome-cloud-security :fire: [地址](https://github.com/teamssix/awesome-cloud-security) ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) `其实就是本项目`:hear_no_evil:
-* awesome-cloud-native-security1 [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
-* awesome-cloud-native-security2 [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
+* awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
+* awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
 
 ## 2 云服务
 
@@ -79,10 +79,10 @@
 ### 利用工具
 
 * 容器渗透工具集 CDK [地址](https://github.com/cdk-team/CDK) ![GitHub stars](https://img.shields.io/github/stars/cdk-team/CDK)
+* 容器安全工具集 veinmind-tools [地址](https://github.com/chaitin/veinmind-tools) ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools)
 
 # 0x03 靶场
 
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
 * 云原生靶场部署工具 metarget :fire: [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
-
