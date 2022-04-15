@@ -6,8 +6,11 @@
 
 ## 1 综合类
 
-* 国内首个云安全社区——火线 Zone [地址](https://zone.huoxian.cn/?sort=newest)
+* 国内首个云安全社区 —— 火线 Zone 云安全社区 :fire: [地址](https://zone.huoxian.cn/?sort=newest)
+* 可能是国内首个云安全知识文库？ —— T Wiki 云安全知识文库 :fire: [地址](https://wiki.teamssix.com/)
 * Hacking The Cloud（英文） [地址](https://hackingthe.cloud/)
+* Lightspin Blog（英文）[地址](https://blog.lightspin.io/)
+* Sysdig 云安全报告（英文）[地址](https://sysdig.com/resources/reports/)
 * 云安全资源汇总 awesome-cloud-security :fire: [地址](https://github.com/teamssix/awesome-cloud-security) ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) `其实就是本项目`:hear_no_evil:
 * awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
 * awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
@@ -90,6 +93,7 @@
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
 * 云原生靶场部署工具 metarget :fire: [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
+
 
 # 云安全交流群
 <img width="400" src="./WechatGroup.jpeg">
