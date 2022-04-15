@@ -1,6 +1,5 @@
-<center><h1> Awesome Cloud Security 云安全资源汇总 </h1></center>
+# Awesome Cloud Security 云安全资源汇总
 
----
 ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) [![img](https://img.shields.io/github/followers/TeamsSix?style=social)](https://github.com/teamssix) [![Twitter](https://img.shields.io/twitter/follow/teamssix?style=social)](https://twitter.com/teamssix)
 # 0x01 资料
 
