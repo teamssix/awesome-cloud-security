@@ -92,4 +92,4 @@
 * 云原生靶场部署工具 metarget :fire: [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
 
 # 云安全交流群
-![](./WechatGroup.jpeg)
+<img width="400" src="./WechatGroup.jpeg">
