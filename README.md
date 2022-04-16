@@ -6,7 +6,7 @@
 ## 1 综合类
 
 * 国内首个云安全社区 —— 火线 Zone 云安全社区 :fire: [地址](https://zone.huoxian.cn/?sort=newest)
-* 可能是国内首个云安全知识文库？ —— T Wiki 云安全知识文库 :fire: [地址](https://wiki.teamssix.com/)
+* 可能是国内首个云安全知识文库？ —— T Wiki 云安全知识文库 :fire: [地址](https://wiki.teamssix.com/) `笔者自己搭建的知识库，大力推荐` :+1:
 * Hacking The Cloud（英文） [地址](https://hackingthe.cloud/)
 * Lightspin Blog（英文）[地址](https://blog.lightspin.io/)
 * Sysdig 云安全报告（英文）[地址](https://sysdig.com/resources/reports/)
@@ -65,14 +65,17 @@
 
 * 在线搜索目标网站下的 AWS 资产 recon.cloud [地址](https://recon.cloud/)
 * 在线搜索公开的 S3 存储桶 buckets.grayhatwarfare.com [地址](https://buckets.grayhatwarfare.com/)
+* 在线多云管理平台 行云管家 [地址](https://www.cloudbility.com/) `由「半人间丶」师傅补充，感谢支持`
 * 多云基线扫描工具 ScoutSuite [地址](https://github.com/nccgroup/ScoutSuite) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite)
 * S3 策略扫描工具 S3Scanner [地址](https://github.com/sa7mon/S3Scanner) ![GitHub stars](https://img.shields.io/github/stars/sa7mon/S3Scanner)
+* 云存储管理客户端 qiniuClient [地址](https://github.com/willnewii/qiniuClient) ![GitHub stars](https://img.shields.io/github/stars/willnewii/qiniuClient) `由「半人间丶」师傅补充，感谢支持`
 * 云服务资源枚举工具 cloud_enum [地址](https://github.com/initstring/cloud_enum) ![GitHub stars](https://img.shields.io/github/stars/initstring/cloud_enum)
 * 多云对象存储扫描工具 Cloud-Bucket-Leak-Detection-Tools [地址](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) ![GitHub stars](https://img.shields.io/github/stars/UzJu/Cloud-Bucket-Leak-Detection-Tools)
 
 ### 利用工具
 
 * AWS 综合利用工具 pacu [地址](https://github.com/RhinoSecurityLabs/pacu) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/pacu)
+* AWS 云平台 AccessKey 泄漏利用工具 awsKeyTools [地址](https://github.com/Aabyss-Team/awsKeyTools)  ![GitHub stars](https://img.shields.io/github/stars/Aabyss-Team/awsKeyTools) `由「1derian」和「ShangRui-hash」师傅联合补充，感谢支持`
 * 腾讯云 AccessKey 利用工具 Tencent_Yun_tools [地址](https://github.com/freeFV/Tencent_Yun_tools)![GitHub stars](https://img.shields.io/github/stars/freeFV/Tencent_Yun_tools)
 
 ## 2 云原生
