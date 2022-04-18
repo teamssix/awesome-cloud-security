@@ -36,6 +36,7 @@
 * 利用 AWS RDS 读取实例凭证（英文）[地址](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
 * 利用 AWS RDS 读取实例凭证（中文翻译）[地址](https://mp.weixin.qq.com/s/q447kIZoHZ1SdUpZi4D5SQ)
 * 风险最高的10种AWS配置错误 [地址](https://mp.weixin.qq.com/s/quIpapbkFNay0JtUK4wODQ) 
+* 公有云 IP 重用的威胁和防御方法分析 Paper（英文）[地址](https://arxiv.org/pdf/2204.05122.pdf)
 
 ## 3 云原生
 
