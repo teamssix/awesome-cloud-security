@@ -97,6 +97,7 @@
 # 0x03 靶场
 
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
+* K8s 靶场部署工具 Kubernetes Goat [地址](https://github.com/madhuakula/kubernetes-goat) ![GitHub stars](https://img.shields.io/github/stars/madhuakula/kubernetes-goat) `由「UzJu」师傅补充，感谢支持`
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
 * 云原生靶场部署工具 metarget :fire: [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
 
