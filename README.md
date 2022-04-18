@@ -1,6 +1,6 @@
 # Awesome Cloud Security 云安全资源汇总
 
-![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) [![img](https://img.shields.io/github/followers/TeamsSix?style=social)](https://github.com/teamssix) [![Twitter](https://img.shields.io/twitter/follow/teamssix?style=social)](https://twitter.com/teamssix) [![](https://img.shields.io/badge/T%20Wiki%20-%E4%BA%91%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](https://wiki.teamssix.com/)
+![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) [![](https://img.shields.io/badge/T%20Wiki%20-%E4%BA%91%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](https://wiki.teamssix.com/) [![img](https://img.shields.io/github/followers/TeamsSix?style=social)](https://github.com/teamssix) [![Twitter](https://img.shields.io/twitter/follow/teamssix?style=social)](https://twitter.com/teamssix)
 # 0x01 资料
 
 ## 1 综合类
