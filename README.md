@@ -104,15 +104,10 @@
 * 云原生靶场部署工具 metarget :fire: [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
 
 
-# 云安全交流群
-<img width="400" src="./WechatGroup.jpeg">
-
-> 如果群满了，不会有二群，只创这一个群，对于群里不活跃的或者发布恶意广告的会踢出。
-
-如果群二维码失效了，可以添加 WgpSecBot 微信，搜索微信号 WgpSecBot 或扫描以下二维码可以添加它，添加后发送`云安全`就可以进群了
+# 云安全交流群:cloud:
+添加 WgpSecBot 微信可以加入`云安全交流群`，搜索微信号 WgpSecBot 或扫描以下二维码可以添加它，添加后发送`云安全`就可以进群了
 
    <img width="400" src="./1649988782.png"><br>
-
-   <img width="700" src="./1650010640.png">
+<img width="700" src="./1650010640.png">
 
 如果想加入`狼组安全团队交流群`，可以直接和 WgpSecBot 说`加群`，WgpSecBot  就会把你拉到狼组交流群了。
