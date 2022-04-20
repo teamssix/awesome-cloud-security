@@ -46,6 +46,7 @@
 * Terraform 中文教程 :fire: [地址](https://lonegunmanb.github.io/introduction-terraform/)
 * 利用gateway-api，我支配了kubernetes [地址](https://mp.weixin.qq.com/s/Y4F72s0JSyvjLBN3iNyUZg)
 * 红蓝对抗中的云原生漏洞挖掘及利用实录 [地址](https://security.tencent.com/index.php/blog/msg/183)
+* 利用 AWS 官方对 log4j 漏洞的热补丁实现容器逃逸（英文）[地址](https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/)
 
 ## 4 公众号
 
