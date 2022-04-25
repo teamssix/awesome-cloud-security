@@ -95,8 +95,8 @@
 ### 利用工具
 
 * 容器渗透工具集 CDK [地址](https://github.com/cdk-team/CDK) ![GitHub stars](https://img.shields.io/github/stars/cdk-team/CDK)
-* K8s 渗透测试工具 Peirates [地址](https://github.com/inguardians/peirates) ![GitHub stars](https://img.shields.io/github/stars/inguardians/peirates) `由「ldle Life」师傅补充，感谢支持`
-* 容器渗透测试工具 BOtB [地址](https://github.com/brompwnie/botb) ![GitHub stars](https://img.shields.io/github/stars/brompwnie/botb) `由「ldle Life」师傅补充，感谢支持`
+* K8s 渗透测试工具 Peirates [地址](https://github.com/inguardians/peirates) ![GitHub stars](https://img.shields.io/github/stars/inguardians/peirates) `由「Idle Life」师傅补充，感谢支持`
+* 容器渗透测试工具 BOtB [地址](https://github.com/brompwnie/botb) ![GitHub stars](https://img.shields.io/github/stars/brompwnie/botb) `由「Idle Life」师傅补充，感谢支持`
 * 容器安全工具集 veinmind-tools [地址](https://github.com/chaitin/veinmind-tools) ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools)
 
 # 0x03 靶场
