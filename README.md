@@ -123,7 +123,7 @@
 
 # 云安全交流群 :cloud:
 
-添加 WgpSecBot 微信可以加入`云安全交流群`，搜索微信号`WgpSecBot`或扫描以下二维码可以添加它，添加后发送`云安全`就可以进群了
+添加 WgpSecBot 微信可以加入`云安全交流群`，搜索微信号`WgpSecBot`或扫描以下二维码可以添加它，添加后发送`云安全`就可以进群了。
 
 <div align=center><img width="250" src="./img/1649988782.png"></div>
 
