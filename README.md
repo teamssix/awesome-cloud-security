@@ -126,8 +126,6 @@
 添加 WgpSecBot 微信可以加入`云安全交流群`，搜索微信号`WgpSecBot`或扫描以下二维码可以添加它，添加后发送`云安全`就可以进群了
 
    <img width="250" src="./img/1649988782.png">
-
-<br>
 <img width="600" src="./img/1650010640.png">
 
 如果想加入`狼组安全团队交流群`，可以直接和 WgpSecBot 说`加群`，WgpSecBot  就会把你拉到狼组交流群了。
