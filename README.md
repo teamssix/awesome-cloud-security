@@ -1,7 +1,7 @@
 # Awesome Cloud Security 云安全资源汇总
 
 [![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security)](https://github.com/teamssix/awesome-cloud-security)  [![](https://img.shields.io/badge/T%20Wiki%20-%E4%BA%91%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](https://wiki.teamssix.com/) [![](https://img.shields.io/badge/%E7%8B%BC%E7%BB%84%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](https://wiki.wgpsec.org/) [![](https://img.shields.io/badge/PeiQi-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](http://wiki.peiqi.tech/) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/teamssix.svg?style=social&label=Follow%20the%20author)](https://twitter.com/teamssix) [![img](https://img.shields.io/github/followers/TeamsSix?style=social)](https://github.com/teamssix)
-# 0x01 资料
+# 0x01 资料 :books:
 
 ## 1 综合类
 
@@ -61,7 +61,7 @@
 
 《云原生安全-攻防实践与体系构建》:fire: 
 
-# 0x02 工具
+# 0x02 工具 :hammer_and_wrench:
 
 ## 1 云服务
 
@@ -106,75 +106,22 @@
 * 容器安全工具集 veinmind-tools [地址](https://github.com/chaitin/veinmind-tools) ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools)
 * 容器利用工具 CCAT [地址](https://github.com/RhinoSecurityLabs/ccat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/ccat) `由「民」师傅补充，感谢支持`
 
-# 0x03 靶场
+# 0x03 靶场 :dart:
 
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
 * K8s 靶场部署工具 Kubernetes Goat [地址](https://github.com/madhuakula/kubernetes-goat) ![GitHub stars](https://img.shields.io/github/stars/madhuakula/kubernetes-goat) `由「UzJu」师傅补充，感谢支持`
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
 * 云原生靶场部署工具 metarget :fire: [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
 
-# 贡献者
+# 贡献者 :confetti_ball:
 
 感谢你们的支持 ~
 
-<p></p>
-
-<a-tooltip placement="bottom">
-
-  <template slot="title">
-    TeamsSix
-  </template>
-  <a-avatar src="/img/logo.svg" :size="54"/>
-</a-tooltip>
-&ensp;
-<a-tooltip placement="bottom">
-  <template slot="title">
-    1derian
-  </template>
-  <a-avatar src="/img/1650108029.jpeg" :size="54"/>
-</a-tooltip> 
-&ensp;
-<a-tooltip placement="bottom">
-  <template slot="title">
-    ShangRui-hash
-  </template>
-  <a-avatar src="/img/1650108092.jpeg" :size="54"/>
-</a-tooltip>  
-&ensp;
-<a-tooltip placement="bottom">
-  <template slot="title">
-    半人间丶
-  </template>
-  <a-avatar src="/img/1650108207.jpeg" :size="54"/>
-</a-tooltip> 
-&ensp;
-<a-tooltip placement="bottom">
-  <template slot="title">
-    UzJu
-  </template>
-  <a-avatar src="/img/1650253985.jpeg" :size="54"/>
-</a-tooltip> 
-&ensp;
-<a-tooltip placement="bottom">
-  <template slot="title">
-    Idle Life
-  </template>
-  <a-avatar src="/img/1650865577.jpeg" :size="54"/>
-</a-tooltip> 
-&ensp;
-<a-tooltip placement="bottom">
-  <template slot="title">
-    民
-  </template>
-  <a-avatar src="/img/1650939551.jpeg" :size="54"/>
-</a-tooltip> 
-<p>&nbsp; </p>  
+<a href="https://wiki.teamssix.com" target="_blank"><img width="600" src="./img/1650940531.png"></a>
 
 [想要一起补充？](https://wiki.teamssix.com/About/Contribute.html)
 
-<p>&nbsp; </p> 
-
-# 云安全交流群:cloud:
+# 云安全交流群 :cloud:
 
 添加 WgpSecBot 微信可以加入`云安全交流群`，搜索微信号`WgpSecBot`或扫描以下二维码可以添加它，添加后发送`云安全`就可以进群了
 
