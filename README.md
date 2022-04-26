@@ -47,7 +47,7 @@
 * 利用gateway-api，我支配了kubernetes [地址](https://mp.weixin.qq.com/s/Y4F72s0JSyvjLBN3iNyUZg)
 * 红蓝对抗中的云原生漏洞挖掘及利用实录 [地址](https://security.tencent.com/index.php/blog/msg/183)
 * 利用 AWS 官方对 log4j 漏洞的热补丁实现容器逃逸（英文）[地址](https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/)
-* CIS 基准检测手册（英文） [地址](https://www.cisecurity.org/benchmark/kubernetes) `由「民」师傅补充，感谢支持`
+* CIS 基准检测手册（英文） [地址](https://www.cisecurity.org/benchmark/kubernetes) `由「zhengjim」师傅补充，感谢支持`
 
 ## 4 公众号
 
@@ -90,11 +90,11 @@
 
 ### 辅助工具
 
-* CIS 基准检测工具 kube bench [地址](https://github.com/aquasecurity/kube-bench)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-bench) `由「民」师傅补充，感谢支持`
-* k8s 集群安全漏洞发现工具 kube hunter [地址](https://github.com/aquasecurity/kube-hunter)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-hunter) `由「民」师傅补充，感谢支持`
+* CIS 基准检测工具 kube bench [地址](https://github.com/aquasecurity/kube-bench)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-bench) `由「zhengjim」师傅补充，感谢支持`
+* k8s 集群安全漏洞发现工具 kube hunter [地址](https://github.com/aquasecurity/kube-hunter)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-hunter) `由「zhengjim」师傅补充，感谢支持`
 * k8s 集群风险权限扫描工具 KubiScan [地址](https://github.com/cyberark/KubiScan) ![GitHub stars](https://img.shields.io/github/stars/cyberark/KubiScan) `由「UzJu」师傅补充，感谢支持`
-* k8s 安全审计工具 kubestriker [地址](https://github.com/vchinnipilli/kubestriker) ![GitHub stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker) `由「民」师傅补充，感谢支持`
-* 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「民」师傅补充，感谢支持`
+* k8s 安全审计工具 kubestriker [地址](https://github.com/vchinnipilli/kubestriker) ![GitHub stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker) `由「zhengjim」师傅补充，感谢支持`
+* 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「zhengjim」师傅补充，感谢支持`
 * 容器逃逸检测工具 container-escape-check :fire: [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check) `自己写的工具，表哥速来 Star`:star2:
 
 
@@ -104,7 +104,7 @@
 * k8s 渗透测试工具 Peirates [地址](https://github.com/inguardians/peirates) ![GitHub stars](https://img.shields.io/github/stars/inguardians/peirates) `由「Idle Life」师傅补充，感谢支持`
 * 容器渗透测试工具 BOtB [地址](https://github.com/brompwnie/botb) ![GitHub stars](https://img.shields.io/github/stars/brompwnie/botb) `由「Idle Life」师傅补充，感谢支持`
 * 容器安全工具集 veinmind-tools [地址](https://github.com/chaitin/veinmind-tools) ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools)
-* 容器利用工具 CCAT [地址](https://github.com/RhinoSecurityLabs/ccat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/ccat) `由「民」师傅补充，感谢支持`
+* 容器利用工具 CCAT [地址](https://github.com/RhinoSecurityLabs/ccat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/ccat) `由「zhengjim」师傅补充，感谢支持`
 
 # 0x03 靶场 :dart:
 
