@@ -117,7 +117,7 @@
 
 感谢你们的支持 ~
 
-<a href="https://wiki.teamssix.com" target="_blank"><img width="500" src="./img/1650940531.png"></a>
+<a href="https://wiki.teamssix.com" target="_blank"><img width="500" src="./img/1650943017.png"></a>
 
 [想要一起补充？](https://wiki.teamssix.com/About/Contribute.html)
 
