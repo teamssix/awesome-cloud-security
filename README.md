@@ -130,3 +130,7 @@
 <div align=center><img width="600" src="./img/1650010640.png" div align=center/></div>
 
 如果想加入`狼组安全团队交流群`，可以直接和 WgpSecBot 说`加群`，WgpSecBot  就会把你拉到狼组交流群了。
+
+[![Stargazers over time](https://starchart.cc/teamssix/awesome-cloud-security.svg)](https://wiki.teamssix.com/)
+
+师傅都看到这了，还不点个 Star :star2: 再走吗 ~
