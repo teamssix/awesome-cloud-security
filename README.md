@@ -2,19 +2,48 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security)](https://github.com/teamssix/awesome-cloud-security)  [![](https://img.shields.io/badge/T%20Wiki%20-%E4%BA%91%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](https://wiki.teamssix.com/) [![](https://img.shields.io/badge/%E7%8B%BC%E7%BB%84%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](https://wiki.wgpsec.org/) [![](https://img.shields.io/badge/PeiQi-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](http://wiki.peiqi.tech/) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/teamssix.svg?style=social&label=Follow%20the%20author)](https://twitter.com/teamssix) [![img](https://img.shields.io/github/followers/TeamsSix?style=social)](https://github.com/teamssix)
 # 0x01 资料 :books:
+* 云安全资源汇总 awesome-cloud-security :fire: [地址](https://github.com/teamssix/awesome-cloud-security) ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) `其实就是本项目`:hear_no_evil:
 
-## 1 综合类
+## 1 博客
 
 * 国内首个云安全社区 —— 火线 Zone 云安全社区 :fire: [地址](https://zone.huoxian.cn/?sort=newest)
 * 可能是国内首个云安全知识文库？ —— T Wiki 云安全知识文库 :fire: [地址](https://wiki.teamssix.com/) `笔者自己搭建的知识库，大力推荐` :+1:
 * Hacking The Cloud（英文） [地址](https://hackingthe.cloud/)
 * Lightspin Blog（英文）[地址](https://blog.lightspin.io/)
 * Sysdig 云安全报告（英文）[地址](https://sysdig.com/resources/reports/)
-* 云安全资源汇总 awesome-cloud-security :fire: [地址](https://github.com/teamssix/awesome-cloud-security) ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) `其实就是本项目`:hear_no_evil:
-* awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
-* awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
+* Sysdig 博客（英文）[地址](https://sysdig.com/blog/)
+* 容器相关期刊（英文）[地址](https://containerjournal.com/)
+* DevOps 安全博客（英文）[地址](https://www.conjur.org/blog/)
+* Aqua 博客（英文）[地址](https://blog.aquasec.com/)
+* Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
+* CNCF 博客（英文）[地址](https://www.cncf.io/blog/)
 
-## 2 云服务
+
+## 2 公众号
+
+* 火线 Zone :fire: 
+
+* TeamsSix
+
+* 云鼎实验室
+
+* 绿盟科技研究通讯
+
+* 默安逐日实验室
+
+* Linux 云计算网络 `由「zxynull」师傅补充，感谢支持`
+
+* 腾讯玄武实验室 `由「zxynull」师傅补充，感谢支持`
+
+* 云原生技术社区 `由「zxynull」师傅补充，感谢支持`
+
+* 进击云原生 `由「zxynull」师傅补充，感谢支持`
+
+## 3 书籍
+
+《云原生安全-攻防实践与体系构建》:fire: 
+
+## 4 云服务
 
 * AWS S3 对象存储攻防 :fire: [地址](https://zone.huoxian.cn/d/907-aws-s3)
 * AWS EC2 弹性计算服务攻防 [地址](https://zone.huoxian.cn/d/1022-aws-ec2)
@@ -39,7 +68,7 @@
 * 公有云 IP 重用的威胁和防御方法分析 Paper（英文）[地址](https://arxiv.org/pdf/2204.05122.pdf)
 * 华为云 CTF cloud 非预期解之 k8s 渗透实战 [地址](https://annevi.cn/2020/12/21/%E5%8D%8E%E4%B8%BA%E4%BA%91ctf-cloud%E9%9D%9E%E9%A2%84%E6%9C%9F%E8%A7%A3%E4%B9%8Bk8s%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98/)
 
-## 3 云原生
+## 5 云原生
 
 * 特权模式下 Docker 逃逸手法总结 :fire: [地址](https://zone.huoxian.cn/d/1071-docker)
 * 容器逃逸方法检测指北（附检测脚本）[地址](https://zone.huoxian.cn/d/990)
@@ -48,18 +77,15 @@
 * 红蓝对抗中的云原生漏洞挖掘及利用实录 [地址](https://security.tencent.com/index.php/blog/msg/183)
 * 利用 AWS 官方对 log4j 漏洞的热补丁实现容器逃逸（英文）[地址](https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/)
 * CIS 基准检测手册（英文） [地址](https://www.cisecurity.org/benchmark/kubernetes) `由「zhengjim」师傅补充，感谢支持`
+* Docker 核心技术与实现原理 [地址](https://draveness.me/docker/)  `由「zxynull」师傅补充，感谢支持`
+* 浅谈 Linux Cgroup机制 [地址](https://zhuanlan.zhihu.com/p/81668069)  `由「zxynull」师傅补充，感谢支持`
+* 使用eBPF逃逸容器技术分析与实践 [地址 ](https://security.tencent.com/index.php/blog/msg/206) `由「zxynull」师傅补充，感谢支持`
+* 内核态eBPF程序实现容器逃逸与隐藏账号rootkit [地址 ](https://www.cnxct.com/container-escape-in-linux-kernel-space-by-ebpf/?f=wb&continueFlag=0ba98c50fdecece390192b7dd4adf11d) `由「zxynull」师傅补充，感谢支持`
+* 基于 eBPF 实现容器运行时安全 [地址](https://www.ebpf.top/post/ebpf_container_security/)  `由「zxynull」师傅补充，感谢支持`
+* 容器安全清单 container-security-checklist（英文）[地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
+* awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
+* awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
 
-## 4 公众号
-
-* 火线 Zone :fire: 
-* TeamsSix
-* 云鼎实验室
-* 绿盟科技研究通讯
-* 默安逐日实验室
-
-## 5 书籍
-
-《云原生安全-攻防实践与体系构建》:fire: 
 
 # 0x02 工具 :hammer_and_wrench:
 
@@ -90,12 +116,21 @@
 
 ### 辅助工具
 
+* 容器镜像分析工具 DIVE [地址](https://github.com/wagoodman/dive) ![GitHub stars](https://img.shields.io/github/stars/wagoodman/dive) `由「zxynull」师傅补充，感谢支持`
+* 可以检测镜像、文件系统、git 存储库的漏洞以及配置问题的镜像扫描工具 trivy [地址](https://github.com/aquasecurity/trivy) ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy) `由「zxynull」师傅补充，感谢支持`
+* 容器镜像漏洞静态扫描工具 Clair [地址](https://github.com/quay/clair) ![GitHub stars](https://img.shields.io/github/stars/quay/clair) `由「zxynull」师傅补充，感谢支持`
+* 带有多个自动化测试的脚本，用于检查在生产环境中部署容器的最佳实践 Docker_Bench_Security [地址](https://github.com/docker/docker-bench-security) ![GitHub stars](https://img.shields.io/github/stars/docker/docker-bench-security) `由「zxynull」师傅补充，感谢支持`
+* 原生支持容器的系统可见性工具 sysdig [地址](https://github.com/draios/sysdig) ![GitHub stars](https://img.shields.io/github/stars/draios/sysdig) `由「zxynull」师傅补充，感谢支持`
+* 检测在 Kubernetes 上运行的主机和容器中的异常活动 Falco [地址](https://github.com/falcosecurity/falco) ![GitHub stars](https://img.shields.io/github/stars/falcosecurity/falco) `由「zxynull」师傅补充，感谢支持`
 * CIS 基准检测工具 kube bench [地址](https://github.com/aquasecurity/kube-bench)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-bench) `由「zhengjim」师傅补充，感谢支持`
 * k8s 集群安全漏洞发现工具 kube hunter [地址](https://github.com/aquasecurity/kube-hunter)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-hunter) `由「zhengjim」师傅补充，感谢支持`
+* 用于深度分析docker镜像，扫描容器镜像和文件系统中的漏洞的工具 Anchore [地址](https://github.com/anchore/syft/) ![GitHub stars](https://img.shields.io/github/stars/anchore/syft) `由「zxynull」师傅补充，感谢支持`
 * k8s 集群风险权限扫描工具 KubiScan [地址](https://github.com/cyberark/KubiScan) ![GitHub stars](https://img.shields.io/github/stars/cyberark/KubiScan) `由「UzJu」师傅补充，感谢支持`
 * k8s 安全审计工具 kubestriker [地址](https://github.com/vchinnipilli/kubestriker) ![GitHub stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker) `由「zhengjim」师傅补充，感谢支持`
 * 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「zhengjim」师傅补充，感谢支持`
+* 用于对 docker 镜像和容器中的木马、恶意软件、病毒等已知漏洞进行静态分析工具 Dagda [地址](https://github.com/eliasgranderubio/dagda/) ![GitHub stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) `由「zxynull」师傅补充，感谢支持`
 * 容器逃逸检测工具 container-escape-check :fire: [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check) `自己写的工具，表哥速来 Star`:star2:
+* 一个支持在线分析容器镜像的网站 contains [地址](https://contains.dev/) `由「zxynull」师傅补充，感谢支持`
 
 
 ### 利用工具
@@ -117,7 +152,7 @@
 
 感谢你们的支持 ~
 
-<a href="https://wiki.teamssix.com" target="_blank"><img width="500" src="./img/1650943017.png"></a>
+<a href="https://wiki.teamssix.com" target="_blank"><img width="600" src="./img/1651147358.png"></a>
 
 [想要一起补充？](https://wiki.teamssix.com/About/Contribute.html)
 
