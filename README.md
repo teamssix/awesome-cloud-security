@@ -17,6 +17,7 @@
 * Aqua 博客（英文）[地址](https://blog.aquasec.com/)
 * Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
 * CNCF 博客（英文）[地址](https://www.cncf.io/blog/)
+* WIZ 博客（英文）[地址](https://www.wiz.io/blog/)
 
 
 ## 2 公众号
