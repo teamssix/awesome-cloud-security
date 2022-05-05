@@ -124,7 +124,7 @@
 * k8s 集群风险权限扫描工具 KubiScan [地址](https://github.com/cyberark/KubiScan) ![GitHub stars](https://img.shields.io/github/stars/cyberark/KubiScan) `由「UzJu」师傅补充，感谢支持`
 * k8s 安全审计工具 kubestriker [地址](https://github.com/vchinnipilli/kubestriker) ![GitHub stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker) `由「zhengjim」师傅补充，感谢支持`
 * 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「zhengjim」师傅补充，感谢支持`
-* k8s 安全风险检测工具 StackRox [地址](https://github.com/stackrox/stackrox) ![GitHub stars](https://img.shields.io/github/stars/stackrox/stackrox) [工具介绍](https://www.stackrox.io/blog/open-source-stackrox-is-now-available/) `由「m4d3bug」师傅补充，感谢支持`
+* k8s 安全风险检测工具 StackRox [地址](https://github.com/stackrox/stackrox) [工具介绍](https://www.stackrox.io/blog/open-source-stackrox-is-now-available/) ![GitHub stars](https://img.shields.io/github/stars/stackrox/stackrox) `由「m4d3bug」师傅补充，感谢支持`
 * 开源云原生安全防护平台 neuvector [地址](https://github.com/neuvector/neuvector) ![GitHub stars](https://img.shields.io/github/stars/neuvector/neuvector) `由「Idle Life」师傅补充，感谢支持`
 * 容器逃逸检测工具 container-escape-check [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check)
 * 一个支持在线分析容器镜像的网站 contains [地址](https://contains.dev/) `由「zxynull」师傅补充，感谢支持`
@@ -153,28 +153,29 @@
 <table>
     <tr>
         <td align="center"><img alt="TeamsSix"
-                    src="./img/1651741861.jpg" style="width: 100px; border-radius:50%; "/><br />TeamsSix</td>
+                    src="/img/1651741861.png" style="width: 100px;"/><br />TeamsSix</td>
         <td align="center"><img alt="1derian"
-                    src="./img/1650108029.jpeg"  style="width: 100px; border-radius:50%; " /><br />1derian</td>
+                    src="/img/1650108029.png"  style="width: 100px;" /><br />1derian</td>
         <td align="center"><img alt="ShangRui-hash"
-                    src="./img/1650108092.jpeg"  style="width: 100px; border-radius:50%; " /><br />ShangRui-hash</td>
+                    src="/img/1650108092.png"  style="width: 100px;" /><br />ShangRui-hash</td>
         <td align="center"><img alt="半人间丶"
-                    src="./img/1650108207.jpeg"  style="width: 100px; border-radius:50%; " /><br />半人间丶</td>
+                    src="/img/1650108207.png"  style="width: 100px;" /><br />半人间丶</td>
         <td align="center"><img alt="UzJu"
-                    src="./img/1650253985.jpeg"  style="width: 100px; border-radius:50%; " /><br />UzJu</a>
+                    src="/img/1650253985.png"  style="width: 100px;" /><br />UzJu</a>
         </td>
         <td align="center"><img alt="Idle Life"
-                    src="./img/1650865577.jpeg"  style="width: 100px; border-radius:50%; " /><br />Idle Life</td>
+                    src="/img/1650865577.png"  style="width: 100px;" /><br />Idle Life</td>
     </tr>
     <tr>
         <td align="center"><img alt="zhengjim"
-                    src="./img/1650942808.jpeg"  style="width: 100px; border-radius:50%; " /><br />zhengjim</a></td>
+                    src="/img/1650942808.png"  style="width: 100px;" /><br />zhengjim</a></td>
         <td align="center"><img alt="zxynull"
-                    src="./img/1651146804.jpeg"  style="width: 100px; border-radius:50%; " /><br />zxynull</a></td>
+                    src="/img/1651146804.png"  style="width: 100px;" /><br />zxynull</a></td>
         <td align="center"><img alt="m4d3bug"
-                    src="./img/1651740464.jpeg"  style="width: 100px; border-radius:50%; " /><br />m4d3bug</a></td>
+                    src="/img/1651740464.png"  style="width: 100px;" /><br />m4d3bug</a></td>
     </tr>
 </table>
+
 
 [想要一起补充？](https://wiki.teamssix.com/About/Contribute.html)
 
