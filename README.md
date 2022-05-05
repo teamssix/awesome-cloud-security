@@ -9,6 +9,7 @@
 * 火线 Zone 云安全社区 :fire: [地址](https://zone.huoxian.cn/?sort=newest)
 * 火线云安全知识库 [地址](https://cloudsec.huoxian.cn/)
 * T Wiki 云安全知识文库 [地址](https://wiki.teamssix.com/)
+* Cloud Security Wiki（英文）[地址](https://cloudsecwiki.com/index.html)
 * Hacking The Cloud（英文） [地址](https://hackingthe.cloud/)
 * Lightspin Blog（英文）[地址](https://blog.lightspin.io/)
 * Sysdig 云安全报告（英文）[地址](https://sysdig.com/resources/reports/)
@@ -102,8 +103,8 @@
 * AWS 综合利用工具 pacu [地址](https://github.com/RhinoSecurityLabs/pacu) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/pacu)
 * 阿里云 AccessKey 利用工具 aliyun-accesskey-Tools [地址](https://github.com/mrknow001/aliyun-accesskey-Tools) ![GitHub stars](https://img.shields.io/github/stars/mrknow001/aliyun-accesskey-Tools) `由「半人间丶」师傅补充，感谢支持`
 * 阿里云 ECS、策略组辅助小工具 alicloud-tools [地址](https://github.com/iiiusky/alicloud-tools) ![GitHub stars](https://img.shields.io/github/stars/iiiusky/alicloud-tools) `由「半人间丶」师傅补充，感谢支持`
-* 阿里云 AccessKey 泄漏利用工具 AliyunAccessKeyTools [地址](https://github.com/NS-Sp4ce/AliyunAccessKeyTools) ![GitHub stars](https://img.shields.io/github/stars/NS-Sp4ce/AliyunAccessKeyTools) `由「半人间丶」师傅补充，感谢支持`
 * AWS 云平台 AccessKey 泄漏利用工具 awsKeyTools [地址](https://github.com/Aabyss-Team/awsKeyTools)  ![GitHub stars](https://img.shields.io/github/stars/Aabyss-Team/awsKeyTools) `由「1derian」和「ShangRui-hash」师傅联合补充，感谢支持`
+* 阿里云 AccessKey 泄漏利用工具 AliyunAccessKeyTools [地址](https://github.com/NS-Sp4ce/AliyunAccessKeyTools) ![GitHub stars](https://img.shields.io/github/stars/NS-Sp4ce/AliyunAccessKeyTools) `由「半人间丶」师傅补充，感谢支持`
 * 腾讯云 AccessKey 利用工具 Tencent_Yun_tools [地址](https://github.com/freeFV/Tencent_Yun_tools) ![GitHub stars](https://img.shields.io/github/stars/freeFV/Tencent_Yun_tools)
 
 ## 2 云原生
@@ -115,7 +116,7 @@
 * 容器镜像漏洞静态扫描工具 Clair [地址](https://github.com/quay/clair) ![GitHub stars](https://img.shields.io/github/stars/quay/clair) `由「zxynull」师傅补充，感谢支持`
 * 检查生产环境中部署容器的最佳实践 Docker_Bench_Security [地址](https://github.com/docker/docker-bench-security) ![GitHub stars](https://img.shields.io/github/stars/docker/docker-bench-security) `由「zxynull」师傅补充，感谢支持`
 * 原生支持容器的系统可见性工具 sysdig [地址](https://github.com/draios/sysdig) ![GitHub stars](https://img.shields.io/github/stars/draios/sysdig) `由「zxynull」师傅补充，感谢支持`
-* Kubernetes 异常活动检测工具 Falco [地址](https://github.com/falcosecurity/falco) ![GitHub stars](https://img.shields.io/github/stars/falcosecurity/falco) `由「zxynull」师傅补充，感谢支持`
+* k8s 异常活动检测工具 Falco [地址](https://github.com/falcosecurity/falco) ![GitHub stars](https://img.shields.io/github/stars/falcosecurity/falco) `由「zxynull」师傅补充，感谢支持`
 * CIS 基准检测工具 kube bench [地址](https://github.com/aquasecurity/kube-bench)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-bench) `由「zhengjim」师傅补充，感谢支持`
 * k8s 集群安全漏洞发现工具 kube hunter [地址](https://github.com/aquasecurity/kube-hunter)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-hunter) `由「zhengjim」师傅补充，感谢支持`
 * Docker 镜像扫描工具 Anchore [地址](https://github.com/anchore/syft/) ![GitHub stars](https://img.shields.io/github/stars/anchore/syft) `由「zxynull」师傅补充，感谢支持`
@@ -123,6 +124,7 @@
 * k8s 集群风险权限扫描工具 KubiScan [地址](https://github.com/cyberark/KubiScan) ![GitHub stars](https://img.shields.io/github/stars/cyberark/KubiScan) `由「UzJu」师傅补充，感谢支持`
 * k8s 安全审计工具 kubestriker [地址](https://github.com/vchinnipilli/kubestriker) ![GitHub stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker) `由「zhengjim」师傅补充，感谢支持`
 * 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「zhengjim」师傅补充，感谢支持`
+* k8s 安全风险检测工具 StackRox [地址](https://github.com/stackrox/stackrox) ![GitHub stars](https://img.shields.io/github/stars/stackrox/stackrox) [工具介绍](https://www.stackrox.io/blog/open-source-stackrox-is-now-available/) `由「m4d3bug」师傅补充，感谢支持`
 * 开源云原生安全防护平台 neuvector [地址](https://github.com/neuvector/neuvector) ![GitHub stars](https://img.shields.io/github/stars/neuvector/neuvector) `由「Idle Life」师傅补充，感谢支持`
 * 容器逃逸检测工具 container-escape-check [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check)
 * 一个支持在线分析容器镜像的网站 contains [地址](https://contains.dev/) `由「zxynull」师傅补充，感谢支持`
@@ -148,15 +150,38 @@
 
 感谢你们的支持 ~
 
-<a href="https://wiki.teamssix.com" target="_blank"><img width="600" src="./img/1651147358.png"></a>
-
+<table>
+    <tr>
+        <td align="center"><img alt="TeamsSix"
+                    src="./img/1651741861.jpg" style="width: 100px; border-radius:50%; "/><br />TeamsSix</td>
+        <td align="center"><img alt="1derian"
+                    src="./img/1650108029.jpeg"  style="width: 100px; border-radius:50%; " /><br />1derian</td>
+        <td align="center"><img alt="ShangRui-hash"
+                    src="./img/1650108092.jpeg"  style="width: 100px; border-radius:50%; " /><br />ShangRui-hash</td>
+        <td align="center"><img alt="半人间丶"
+                    src="./img/1650108207.jpeg"  style="width: 100px; border-radius:50%; " /><br />半人间丶</td>
+        <td align="center"><img alt="UzJu"
+                    src="./img/1650253985.jpeg"  style="width: 100px; border-radius:50%; " /><br />UzJu</a>
+        </td>
+        <td align="center"><img alt="Idle Life"
+                    src="./img/1650865577.jpeg"  style="width: 100px; border-radius:50%; " /><br />Idle Life</td>
+    </tr>
+    <tr>
+        <td align="center"><img alt="zhengjim"
+                    src="./img/1650942808.jpeg"  style="width: 100px; border-radius:50%; " /><br />zhengjim</a></td>
+        <td align="center"><img alt="zxynull"
+                    src="./img/1651146804.jpeg"  style="width: 100px; border-radius:50%; " /><br />zxynull</a></td>
+        <td align="center"><img alt="m4d3bug"
+                    src="./img/1651740464.jpeg"  style="width: 100px; border-radius:50%; " /><br />m4d3bug</a></td>
+    </tr>
+</table>
 [想要一起补充？](https://wiki.teamssix.com/About/Contribute.html)
 
 # 云安全交流群 :cloud:
 
 添加 WgpSecBot 微信可以加入`云安全交流群`，搜索微信号`WgpSecBot`或扫描以下二维码可以添加它，添加后发送`云安全`就可以进群了。
 
-<div align=center><img width="250" src="./img/1649988782.png"></div>
+<div align=center><img width="300" src="./img/1649988782.png"></div>
 
 <div align=center><img width="600" src="./img/1650010640.png" div align=center/></div>
 
