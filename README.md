@@ -6,8 +6,9 @@
 
 ## 1 博客
 
-* 国内首个云安全社区 —— 火线 Zone 云安全社区 :fire: [地址](https://zone.huoxian.cn/?sort=newest)
-* 可能是国内首个云安全知识文库？ —— T Wiki 云安全知识文库 :fire: [地址](https://wiki.teamssix.com/) `笔者自己搭建的知识库，大力推荐` :+1:
+* 火线 Zone 云安全社区 :fire: [地址](https://zone.huoxian.cn/?sort=newest)
+* 火线云安全知识库 [地址](https://cloudsec.huoxian.cn/)
+* T Wiki 云安全知识文库 [地址](https://wiki.teamssix.com/)
 * Hacking The Cloud（英文） [地址](https://hackingthe.cloud/)
 * Lightspin Blog（英文）[地址](https://blog.lightspin.io/)
 * Sysdig 云安全报告（英文）[地址](https://sysdig.com/resources/reports/)
@@ -110,19 +111,20 @@
 ### 辅助工具
 
 * 容器镜像分析工具 DIVE [地址](https://github.com/wagoodman/dive) ![GitHub stars](https://img.shields.io/github/stars/wagoodman/dive) `由「zxynull」师傅补充，感谢支持`
-* 可以检测镜像、文件系统、git 存储库的漏洞以及配置问题的镜像扫描工具 trivy [地址](https://github.com/aquasecurity/trivy) ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy) `由「zxynull」师傅补充，感谢支持`
+* 镜像扫描工具 trivy [地址](https://github.com/aquasecurity/trivy) ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy) `由「zxynull」师傅补充，感谢支持`
 * 容器镜像漏洞静态扫描工具 Clair [地址](https://github.com/quay/clair) ![GitHub stars](https://img.shields.io/github/stars/quay/clair) `由「zxynull」师傅补充，感谢支持`
-* 带有多个自动化测试的脚本，用于检查在生产环境中部署容器的最佳实践 Docker_Bench_Security [地址](https://github.com/docker/docker-bench-security) ![GitHub stars](https://img.shields.io/github/stars/docker/docker-bench-security) `由「zxynull」师傅补充，感谢支持`
+* 检查生产环境中部署容器的最佳实践 Docker_Bench_Security [地址](https://github.com/docker/docker-bench-security) ![GitHub stars](https://img.shields.io/github/stars/docker/docker-bench-security) `由「zxynull」师傅补充，感谢支持`
 * 原生支持容器的系统可见性工具 sysdig [地址](https://github.com/draios/sysdig) ![GitHub stars](https://img.shields.io/github/stars/draios/sysdig) `由「zxynull」师傅补充，感谢支持`
-* 检测在 Kubernetes 上运行的主机和容器中的异常活动 Falco [地址](https://github.com/falcosecurity/falco) ![GitHub stars](https://img.shields.io/github/stars/falcosecurity/falco) `由「zxynull」师傅补充，感谢支持`
+* Kubernetes 异常活动检测工具 Falco [地址](https://github.com/falcosecurity/falco) ![GitHub stars](https://img.shields.io/github/stars/falcosecurity/falco) `由「zxynull」师傅补充，感谢支持`
 * CIS 基准检测工具 kube bench [地址](https://github.com/aquasecurity/kube-bench)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-bench) `由「zhengjim」师傅补充，感谢支持`
 * k8s 集群安全漏洞发现工具 kube hunter [地址](https://github.com/aquasecurity/kube-hunter)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-hunter) `由「zhengjim」师傅补充，感谢支持`
-* 用于深度分析docker镜像，扫描容器镜像和文件系统中的漏洞的工具 Anchore [地址](https://github.com/anchore/syft/) ![GitHub stars](https://img.shields.io/github/stars/anchore/syft) `由「zxynull」师傅补充，感谢支持`
+* Docker 镜像扫描工具 Anchore [地址](https://github.com/anchore/syft/) ![GitHub stars](https://img.shields.io/github/stars/anchore/syft) `由「zxynull」师傅补充，感谢支持`
+* Docker 静态分析工具 Dagda [地址](https://github.com/eliasgranderubio/dagda/) ![GitHub stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) `由「zxynull」师傅补充，感谢支持`
 * k8s 集群风险权限扫描工具 KubiScan [地址](https://github.com/cyberark/KubiScan) ![GitHub stars](https://img.shields.io/github/stars/cyberark/KubiScan) `由「UzJu」师傅补充，感谢支持`
 * k8s 安全审计工具 kubestriker [地址](https://github.com/vchinnipilli/kubestriker) ![GitHub stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker) `由「zhengjim」师傅补充，感谢支持`
 * 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「zhengjim」师傅补充，感谢支持`
-* 用于对 docker 镜像和容器中的木马、恶意软件、病毒等已知漏洞进行静态分析工具 Dagda [地址](https://github.com/eliasgranderubio/dagda/) ![GitHub stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) `由「zxynull」师傅补充，感谢支持`
-* 容器逃逸检测工具 container-escape-check :fire: [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check) `自己写的工具，表哥速来 Star`:star2:
+* 开源云原生安全防护平台 neuvector [地址](https://github.com/neuvector/neuvector) ![GitHub stars](https://img.shields.io/github/stars/neuvector/neuvector) `由「Idle Life」师傅补充，感谢支持`
+* 容器逃逸检测工具 container-escape-check [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check)
 * 一个支持在线分析容器镜像的网站 contains [地址](https://contains.dev/) `由「zxynull」师傅补充，感谢支持`
 
 
@@ -139,7 +141,8 @@
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
 * K8s 靶场部署工具 Kubernetes Goat [地址](https://github.com/madhuakula/kubernetes-goat) ![GitHub stars](https://img.shields.io/github/stars/madhuakula/kubernetes-goat) `由「UzJu」师傅补充，感谢支持`
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
-* 云原生靶场部署工具 metarget :fire: [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
+* 云原生靶场部署工具 metarget [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
+* 多云靶场搭建工具 TerraformGoat :fire: [地址](https://github.com/HuoCorp/TerraformGoat) ![GitHub stars](https://img.shields.io/github/stars/HuoCorp/TerraformGoat)
 
 # 贡献者 :confetti_ball:
 
