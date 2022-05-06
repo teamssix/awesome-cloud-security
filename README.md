@@ -20,6 +20,7 @@
 * Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
 * CNCF 博客（英文）[地址](https://www.cncf.io/blog/)
 * WIZ 博客（英文）[地址](https://www.wiz.io/blog/)
+* Rhino Security Labs Blog（英文）[地址](https://rhinosecuritylabs.com/blog/?category=cloud-security)
 
 
 ## 2 公众号
@@ -94,7 +95,7 @@
 * 多云基线扫描工具 ScoutSuite [地址](https://github.com/nccgroup/ScoutSuite) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite)
 * 阿里云官方 OSS 浏览工具 [地址](https://github.com/aliyun/oss-browser) ![GitHub stars](https://img.shields.io/github/stars/aliyun/oss-browser) `由「半人间丶」师傅补充，感谢支持`
 * S3 策略扫描工具 S3Scanner [地址](https://github.com/sa7mon/S3Scanner) ![GitHub stars](https://img.shields.io/github/stars/sa7mon/S3Scanner)
-* 云存储管理客户端 qiniuClient [地址](https://github.com/willnewii/qiniuClient) ![GitHub stars](https://img.shields.io/github/stars/willnewii/qiniuClient) `由「半人间丶」师傅补充，感谢支持`
+* 支持多家国内的云厂商的云存储管理客户端 qiniuClient [地址](https://github.com/willnewii/qiniuClient) ![GitHub stars](https://img.shields.io/github/stars/willnewii/qiniuClient) `由「半人间丶」师傅补充，感谢支持`
 * 云服务资源枚举工具 cloud_enum [地址](https://github.com/initstring/cloud_enum) ![GitHub stars](https://img.shields.io/github/stars/initstring/cloud_enum)
 * 多云对象存储扫描工具 Cloud-Bucket-Leak-Detection-Tools [地址](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) ![GitHub stars](https://img.shields.io/github/stars/UzJu/Cloud-Bucket-Leak-Detection-Tools)
 
@@ -189,6 +190,6 @@
 
 如果想加入`狼组安全团队交流群`，可以直接和 WgpSecBot 说`加群`，WgpSecBot  就会把你拉到狼组交流群了。
 
-[![Stargazers over time](https://starchart.cc/teamssix/awesome-cloud-security.svg)](https://wiki.teamssix.com/)
+[![Star History Chart](https://api.star-history.com/svg?repos=teamssix/awesome-cloud-security&type=Timeline)](https://wiki.teamssix.com/)
 
 师傅都看到这了，还不点个 Star :star2: 再走吗 ~
