@@ -1,6 +1,11 @@
 # Awesome Cloud Security 云安全资源汇总
 
 [![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security)](https://github.com/teamssix/awesome-cloud-security)  [![](https://img.shields.io/badge/T%20Wiki%20-%E4%BA%91%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](https://wiki.teamssix.com/) [![](https://img.shields.io/badge/%E7%8B%BC%E7%BB%84%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](https://wiki.wgpsec.org/) [![](https://img.shields.io/badge/PeiQi-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](http://wiki.peiqi.tech/) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/teamssix.svg?style=social&label=Follow%20the%20author)](https://twitter.com/teamssix) [![img](https://img.shields.io/github/followers/TeamsSix?style=social)](https://github.com/teamssix)
+
+Awesome Cloud Security 项目是从 T Wiki 云安全知识文库独立出来的一个项目， T Wiki 云安全知识文库中包含了自己在云安全方向的学习笔记以及大家一起贡献补充的云安全资源， T Wiki 云安全知识文库地址：[wiki.teamssix.com](https://wiki.teamssix.com)
+
+The Awesome Cloud Security project is from the T Wiki cloud security knowledge base, The T Wiki cloud security knowledge base contains my learning notes on cloud security and cloud security resources contributed by everyone, T Wiki cloud security knowledge base site: [wiki.teamssix.com](https://wiki.teamssix.com)
+
 # 0x01 资料 :books:
 * 云安全资源汇总 awesome-cloud-security :fire: [地址](https://github.com/teamssix/awesome-cloud-security) ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) `其实就是本项目`:hear_no_evil:
 
