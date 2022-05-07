@@ -102,9 +102,12 @@
 ### 利用工具
 
 * AWS 综合利用工具 pacu [地址](https://github.com/RhinoSecurityLabs/pacu) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/pacu)
+* 云安全态势管理工具 CloudSploit [地址](https://github.com/aquasecurity/cloudsploit) ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/cloudsploit) `由「da Vinci【达文西】」师傅补充，感谢支持`
+* Azure 红队利用工具 Stormspotter [地址](https://github.com/Azure/Stormspotter) ![GitHub stars](https://img.shields.io/github/stars/Azure/Stormspotter) `由「da Vinci【达文西】」师傅补充，感谢支持`
 * 阿里云 AccessKey 利用工具 aliyun-accesskey-Tools [地址](https://github.com/mrknow001/aliyun-accesskey-Tools) ![GitHub stars](https://img.shields.io/github/stars/mrknow001/aliyun-accesskey-Tools) `由「半人间丶」师傅补充，感谢支持`
 * 阿里云 ECS、策略组辅助小工具 alicloud-tools [地址](https://github.com/iiiusky/alicloud-tools) ![GitHub stars](https://img.shields.io/github/stars/iiiusky/alicloud-tools) `由「半人间丶」师傅补充，感谢支持`
-* AWS 云平台 AccessKey 泄漏利用工具 awsKeyTools [地址](https://github.com/Aabyss-Team/awsKeyTools)  ![GitHub stars](https://img.shields.io/github/stars/Aabyss-Team/awsKeyTools) `由「1derian」和「ShangRui-hash」师傅联合补充，感谢支持`
+* GCP IAM 权限提升方法 GCP-IAM-Privilege-Escalation [地址](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) `由「da Vinci【达文西】」师傅补充，感谢支持`
+* AWS AccessKey 泄漏利用工具 awsKeyTools [地址](https://github.com/Aabyss-Team/awsKeyTools)  ![GitHub stars](https://img.shields.io/github/stars/Aabyss-Team/awsKeyTools) `由「1derian」和「ShangRui-hash」师傅联合补充，感谢支持`
 * 阿里云 AccessKey 泄漏利用工具 AliyunAccessKeyTools [地址](https://github.com/NS-Sp4ce/AliyunAccessKeyTools) ![GitHub stars](https://img.shields.io/github/stars/NS-Sp4ce/AliyunAccessKeyTools) `由「半人间丶」师傅补充，感谢支持`
 * 腾讯云 AccessKey 利用工具 Tencent_Yun_tools [地址](https://github.com/freeFV/Tencent_Yun_tools) ![GitHub stars](https://img.shields.io/github/stars/freeFV/Tencent_Yun_tools)
 
@@ -174,6 +177,8 @@
                     src="/img/1651146804.png"  style="width: 100px;" /><br />zxynull</a></td>
         <td align="center"><img alt="m4d3bug"
                     src="/img/1651740464.png"  style="width: 100px;" /><br />m4d3bug</a></td>
+        <td align="center"><img alt="da Vinci【达文西】"
+                    src="/img/1651917214.png"  style="width: 100px;" /><br />da Vinci【达文西】</a></td>
     </tr>
 </table>
 
