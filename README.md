@@ -200,6 +200,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 如果想加入`狼组安全团队交流群`，可以直接和 WgpSecBot 说`加群`，WgpSecBot  就会把你拉到狼组交流群了。
 
-[![Star History Chart](https://api.star-history.com/svg?repos=teamssix/awesome-cloud-security&type=Timeline)](https://wiki.teamssix.com/)
+<div align=center><img width="700" src="https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png" div align=center/></div>
+
+<div align=center><img src="https://api.star-history.com/svg?repos=teamssix/awesome-cloud-security&type=Timeline" div align=center/></div>
 
 师傅都看到这了，还不点个 Star :star2: 再走吗 ~
