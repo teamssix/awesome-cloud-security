@@ -198,7 +198,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 <div align=center><img width="600" src="./img/1650010640.png" div align=center/></div>
 
-如果想加入`狼组安全团队交流群`，可以直接和 WgpSecBot 说`加群`，WgpSecBot  就会把你拉到狼组交流群了。
+如果想加入`狼组安全团队交流群`，可以直接和 WgpSecBot 说 `加群`，WgpSecBot  就会把你拉到狼组交流群了。
+
+我的个人微信公众号：`TeamsSix` 欢迎你来关注
 
 <div align=center><img width="700" src="https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png" div align=center/></div>
 
