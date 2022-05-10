@@ -1,10 +1,10 @@
-# Awesome Cloud Security 云安全资源汇总
+# Awesome Cloud Security 云安全资源汇总 :dizzy:
 
 [![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security)](https://github.com/teamssix/awesome-cloud-security)  [![](https://img.shields.io/badge/T%20Wiki%20-%E4%BA%91%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](https://wiki.teamssix.com/) [![](https://img.shields.io/badge/%E7%8B%BC%E7%BB%84%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](https://wiki.wgpsec.org/) [![](https://img.shields.io/badge/PeiQi-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue)](http://wiki.peiqi.tech/) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/teamssix.svg?style=social&label=Follow%20the%20author)](https://twitter.com/teamssix) [![img](https://img.shields.io/github/followers/TeamsSix?style=social)](https://github.com/teamssix)
 
-Awesome Cloud Security 项目是从 T Wiki 云安全知识文库独立出来的一个项目， T Wiki 云安全知识文库中包含了自己在云安全方向的学习笔记以及大家一起贡献补充的云安全资源， T Wiki 云安全知识文库地址：[wiki.teamssix.com](https://wiki.teamssix.com){:target="_blank"}
+Awesome Cloud Security 项目是从 T Wiki 云安全知识文库独立出来的一个项目， T Wiki 云安全知识文库中包含了自己在云安全方向的学习笔记以及大家一起贡献补充的云安全资源， T Wiki 云安全知识文库地址：[wiki.teamssix.com](https://wiki.teamssix.com)
 
-The Awesome Cloud Security project is from the T Wiki cloud security knowledge base, The T Wiki cloud security knowledge base contains my learning notes on cloud security and cloud security resources contributed by everyone, T Wiki cloud security knowledge base site: <a href="https://wiki.teamssix.com" target="_blank">wiki.teamssix.com</a>
+The Awesome Cloud Security project is from the T Wiki cloud security knowledge base, The T Wiki cloud security knowledge base contains my learning notes on cloud security and cloud security resources contributed by everyone, T Wiki cloud security knowledge base site: [wiki.teamssix.com](https://wiki.teamssix.com)
 
 # 0x01 资料 :books:
 * 云安全资源汇总 awesome-cloud-security :fire: [地址](https://github.com/teamssix/awesome-cloud-security) ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) `其实就是本项目`:hear_no_evil:
@@ -186,7 +186,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
                     src="/img/1651917214.png"  style="width: 100px;" /><br />da Vinci【达文西】</a></td>
     </tr>
 </table>
-<a href="https://wiki.teamssix.com/About/Contribute.html" target="_blank">想要一起补充？</a>
+[想要一起补充？](https://wiki.teamssix.com/About/Contribute.html)
 
 # 云安全交流群 :cloud:
 
@@ -198,13 +198,11 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 如果想加入`狼组安全团队交流群`，可以直接和 WgpSecBot 说 `加群`，WgpSecBot  就会把你拉到狼组交流群了。
 
-# 更新日志
+# 更新日志 :calendar:
 
-T Wiki 云安全文库的更新日志中，记录了 Awesome Cloud Security 项目和文库的更新情况，在 <a href="https://wiki.teamssix.com/Changelog/" target="_blank">wiki.teamssix.com/Changelog</a> 这里可以查看。
+在 T Wiki 云安全文库的更新日志中，记录了 Awesome Cloud Security 项目和文库的更新情况，在 [wiki.teamssix.com/Changelog](https://wiki.teamssix.com/Changelog) 这里可以查看。
 
-# 其他
-
-我的个人微信公众号：`TeamsSix` 欢迎你来关注
+另外我的个人微信公众号：`TeamsSix` 欢迎你来关注
 
 <div align=center><img width="700" src="https://cdn.jsdelivr.net/gh/teamssix/BlogImages/imgs/202204152148071.png" div align=center/></div>
 
