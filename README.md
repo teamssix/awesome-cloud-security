@@ -8,7 +8,7 @@
 <a href="https://twitter.com/teamssix"><img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/teamssix.svg?style=social&label=Follow%20the%20author" /></a>
 <a href="https://github.com/teamssix"><img alt="Github" src="https://img.shields.io/github/followers/TeamsSix?style=social" /></a>
 </p>
-<div align=center><img src="./img/1652152524.png" div align=center/></div></br>
+<div align=center><img src="./img/16521525242.png" div align=center/></div></br>
 
 
 Awesome Cloud Security 项目是从 T Wiki 云安全知识文库独立出来的一个项目， T Wiki 云安全知识文库中包含了自己在云安全方向的学习笔记以及大家一起贡献补充的云安全资源， T Wiki 云安全知识文库地址：[wiki.teamssix.com](https://wiki.teamssix.com)
