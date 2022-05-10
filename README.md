@@ -6,7 +6,10 @@ Awesome Cloud Security 项目是从 T Wiki 云安全知识文库独立出来的�
 
 The Awesome Cloud Security project is from the T Wiki cloud security knowledge base, The T Wiki cloud security knowledge base contains my learning notes on cloud security and cloud security resources contributed by everyone, T Wiki cloud security knowledge base site: [wiki.teamssix.com](https://wiki.teamssix.com)
 
+> 提示：Mac 按住 command 键，Windows 或 Linux 按住 ctrl 键，然后再点击链接可以在新标签页中打开
+
 # 0x01 资料 :books:
+
 * 云安全资源汇总 awesome-cloud-security :fire: [地址](https://github.com/teamssix/awesome-cloud-security) ![GitHub stars](https://img.shields.io/github/stars/teamssix/awesome-cloud-security) `其实就是本项目`:hear_no_evil:
 
 ## 1 博客
@@ -186,6 +189,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
                     src="/img/1651917214.png"  style="width: 100px;" /><br />da Vinci【达文西】</a></td>
     </tr>
 </table>
+
+
 [想要一起补充？](https://wiki.teamssix.com/About/Contribute.html)
 
 # 云安全交流群 :cloud:
