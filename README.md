@@ -31,13 +31,15 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Lightspin Blog（英文）[地址](https://blog.lightspin.io/)
 * Sysdig 云安全报告（英文）[地址](https://sysdig.com/resources/reports/)
 * Sysdig 博客（英文）[地址](https://sysdig.com/blog/)
-* 容器相关期刊（英文）[地址](https://containerjournal.com/)
+* 容器杂志（英文）[地址](https://containerjournal.com/)
 * DevOps 安全博客（英文）[地址](https://www.conjur.org/blog/)
 * Aqua 博客（英文）[地址](https://blog.aquasec.com/)
 * Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
 * CNCF 博客（英文）[地址](https://www.cncf.io/blog/)
 * WIZ 博客（英文）[地址](https://www.wiz.io/blog/)
 * Rhino Security Labs Blog（英文）[地址](https://rhinosecuritylabs.com/blog/?category=cloud-security)
+* Bridgecrew Blog（英文）[地址](https://bridgecrew.io/blog/)
+* Trend Micro Blog（英文）[地址](https://www.trendmicro.com/en_us/devops.html)
 
 
 ## 2 公众号
@@ -80,6 +82,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 风险最高的10种AWS配置错误 [地址](https://mp.weixin.qq.com/s/quIpapbkFNay0JtUK4wODQ) 
 * 公有云 IP 重用的威胁和防御方法分析 Paper（英文）[地址](https://arxiv.org/pdf/2204.05122.pdf)
 * 华为云 CTF cloud 非预期解之 k8s 渗透实战 [地址](https://annevi.cn/2020/12/21/%E5%8D%8E%E4%B8%BA%E4%BA%91ctf-cloud%E9%9D%9E%E9%A2%84%E6%9C%9F%E8%A7%A3%E4%B9%8Bk8s%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98/)
+* 企业迁移到公有云之前要问的5个问题 [地址](http://www.d1net.com/cloud/news/574569.html)
+* 在 AWS 下查看自己所拥有的权限 [地址](https://wiki.teamssix.com/CloudService/IAM/list-attached-user-policies.html)
 
 ## 5 云原生
 
@@ -98,6 +102,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 容器安全清单 container-security-checklist（英文）[地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
 * awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
 * awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
+* 浅析K8S各种未授权攻击方法 [地址](https://zone.huoxian.cn/d/1153-k8s)
+* APISIX CVE-2022-29266 漏洞分析与复现 [地址](https://mp.weixin.qq.com/s/Un-9y_UhWDw9svHKb-JQVQ)
+* 保障云和容器安全的十个注意事项（英文）[地址](https://sysdig.com/blog/considerations-securing-cloud-containers/)
 
 
 # 0x02 工具 :hammer_and_wrench:
@@ -147,6 +154,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「zhengjim」师傅补充，感谢支持`
 * k8s 安全风险检测工具 StackRox [地址](https://github.com/stackrox/stackrox) [工具介绍](https://www.stackrox.io/blog/open-source-stackrox-is-now-available/) ![GitHub stars](https://img.shields.io/github/stars/stackrox/stackrox) `由「m4d3bug」师傅补充，感谢支持`
 * 开源云原生安全防护平台 neuvector [地址](https://github.com/neuvector/neuvector) ![GitHub stars](https://img.shields.io/github/stars/neuvector/neuvector) `由「Idle Life」师傅补充，感谢支持`
+* k8s 调试辅助工具 validkube [地址](https://github.com/komodorio/validkube) ![GitHub stars](https://img.shields.io/github/stars/komodorio/validkube)
 * 容器逃逸检测工具 container-escape-check [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check)
 * 一个支持在线分析容器镜像的网站 contains [地址](https://contains.dev/) `由「zxynull」师傅补充，感谢支持`
 
