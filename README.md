@@ -84,6 +84,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 华为云 CTF cloud 非预期解之 k8s 渗透实战 [地址](https://annevi.cn/2020/12/21/%E5%8D%8E%E4%B8%BA%E4%BA%91ctf-cloud%E9%9D%9E%E9%A2%84%E6%9C%9F%E8%A7%A3%E4%B9%8Bk8s%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98/)
 * 企业迁移到公有云之前要问的5个问题 [地址](http://www.d1net.com/cloud/news/574569.html)
 * 在 AWS 下查看自己所拥有的权限 [地址](https://wiki.teamssix.com/CloudService/IAM/list-attached-user-policies.html)
+* 云上攻防：RED TEAMING FOR CLOUD [地址](http://avfisher.win/archives/1175)
+* 云上攻防二三事（续）[地址](http://avfisher.win/archives/1331)
 
 ## 5 云原生
 
@@ -129,9 +131,11 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云安全态势管理工具 CloudSploit [地址](https://github.com/aquasecurity/cloudsploit) ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/cloudsploit) `由「da Vinci【达文西】」师傅补充，感谢支持`
 * Azure 红队利用工具 Stormspotter [地址](https://github.com/Azure/Stormspotter) ![GitHub stars](https://img.shields.io/github/stars/Azure/Stormspotter) `由「da Vinci【达文西】」师傅补充，感谢支持`
 * 阿里云 AccessKey 利用工具 aliyun-accesskey-Tools [地址](https://github.com/mrknow001/aliyun-accesskey-Tools) ![GitHub stars](https://img.shields.io/github/stars/mrknow001/aliyun-accesskey-Tools) `由「半人间丶」师傅补充，感谢支持`
+* 云上公开资产枚举 CloudBrute [地址](https://github.com/0xsha/CloudBrute) ![GitHub stars](https://img.shields.io/github/stars/0xsha/CloudBrute)
 * 阿里云 ECS、策略组辅助小工具 alicloud-tools [地址](https://github.com/iiiusky/alicloud-tools) ![GitHub stars](https://img.shields.io/github/stars/iiiusky/alicloud-tools) `由「半人间丶」师傅补充，感谢支持`
 * GCP IAM 权限提升方法 GCP-IAM-Privilege-Escalation [地址](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) `由「da Vinci【达文西】」师傅补充，感谢支持`
 * AWS AccessKey 泄漏利用工具 awsKeyTools [地址](https://github.com/Aabyss-Team/awsKeyTools)  ![GitHub stars](https://img.shields.io/github/stars/Aabyss-Team/awsKeyTools) `由「1derian」和「ShangRui-hash」师傅联合补充，感谢支持`
+* AWS 控制台接管利用工具 aws_consoler [地址](https://github.com/NetSPI/aws_consoler) ![GitHub stars](https://img.shields.io/github/stars/NetSPI/aws_consoler)
 * 阿里云 AccessKey 泄漏利用工具 AliyunAccessKeyTools [地址](https://github.com/NS-Sp4ce/AliyunAccessKeyTools) ![GitHub stars](https://img.shields.io/github/stars/NS-Sp4ce/AliyunAccessKeyTools) `由「半人间丶」师傅补充，感谢支持`
 * 腾讯云 AccessKey 利用工具 Tencent_Yun_tools [地址](https://github.com/freeFV/Tencent_Yun_tools) ![GitHub stars](https://img.shields.io/github/stars/freeFV/Tencent_Yun_tools)
 
@@ -170,7 +174,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 # 0x03 靶场 :dart:
 
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
-* K8s 靶场部署工具 Kubernetes Goat [地址](https://github.com/madhuakula/kubernetes-goat) ![GitHub stars](https://img.shields.io/github/stars/madhuakula/kubernetes-goat) `由「UzJu」师傅补充，感谢支持`
+* k8s 靶场部署工具 Kubernetes Goat [地址](https://github.com/madhuakula/kubernetes-goat) ![GitHub stars](https://img.shields.io/github/stars/madhuakula/kubernetes-goat) `由「UzJu」师傅补充，感谢支持`
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
 * 云原生靶场部署工具 metarget [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
 * 多云靶场搭建工具 TerraformGoat :fire: [地址](https://github.com/HuoCorp/TerraformGoat) ![GitHub stars](https://img.shields.io/github/stars/HuoCorp/TerraformGoat)
