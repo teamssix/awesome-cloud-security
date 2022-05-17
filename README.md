@@ -78,7 +78,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 红队视角下的公有云基础组件安全 [地址](https://mp.weixin.qq.com/s/r0DuASP6gH_48b5sJ1DCTw)
 * 红队视角下的公有云基础组件安全（二）[地址](https://mp.weixin.qq.com/s/lL32lywlrnuyhJkQk5NAEw)
 * 利用 AWS RDS 读取实例凭证（英文）[地址](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
-* 利用 AWS RDS 读取实例凭证（中文翻译）[地址](https://mp.weixin.qq.com/s/q447kIZoHZ1SdUpZi4D5SQ)
+* 利用 AWS RDS 读取实例凭证（中文翻译）[地址](https://zone.huoxian.cn/d/1141-aws-rdsaws)
 * 风险最高的10种AWS配置错误 [地址](https://mp.weixin.qq.com/s/quIpapbkFNay0JtUK4wODQ) 
 * 公有云 IP 重用的威胁和防御方法分析 Paper（英文）[地址](https://arxiv.org/pdf/2204.05122.pdf)
 * 华为云 CTF cloud 非预期解之 k8s 渗透实战 [地址](https://annevi.cn/2020/12/21/%E5%8D%8E%E4%B8%BA%E4%BA%91ctf-cloud%E9%9D%9E%E9%A2%84%E6%9C%9F%E8%A7%A3%E4%B9%8Bk8s%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98/)
