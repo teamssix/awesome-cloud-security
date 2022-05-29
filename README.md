@@ -107,6 +107,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 浅析K8S各种未授权攻击方法 [地址](https://zone.huoxian.cn/d/1153-k8s)
 * APISIX CVE-2022-29266 漏洞分析与复现 [地址](https://mp.weixin.qq.com/s/Un-9y_UhWDw9svHKb-JQVQ)
 * 保障云和容器安全的十个注意事项（英文）[地址](https://sysdig.com/blog/considerations-securing-cloud-containers/)
+* CNCF 云原生安全白皮书 v2 [地址](https://github.com/cncf/tag-security/tree/main/security-whitepaper/v2)
 
 
 # 0x02 工具 :hammer_and_wrench:
@@ -118,6 +119,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 在线搜索目标网站下的 AWS 资产 recon.cloud [地址](https://recon.cloud/)
 * 在线搜索公开的 S3 存储桶 buckets.grayhatwarfare.com [地址](https://buckets.grayhatwarfare.com/)
 * 在线多云管理平台 行云管家 [地址](https://www.cloudbility.com/) `由「半人间丶」师傅补充，感谢支持`
+* 腾讯云轻量服务器管理工具 [地址](https://www.qqvps.com/d/1011) `由「tanger」师傅补充，感谢支持`
 * 多云基线扫描工具 ScoutSuite [地址](https://github.com/nccgroup/ScoutSuite) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite)
 * 阿里云官方 OSS 浏览工具 [地址](https://github.com/aliyun/oss-browser) ![GitHub stars](https://img.shields.io/github/stars/aliyun/oss-browser) `由「半人间丶」师傅补充，感谢支持`
 * S3 策略扫描工具 S3Scanner [地址](https://github.com/sa7mon/S3Scanner) ![GitHub stars](https://img.shields.io/github/stars/sa7mon/S3Scanner)
@@ -194,8 +196,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
         <td align="center"><img alt="半人间丶"
                     src="/img/1650108207.png"  style="width: 100px;" /><br />半人间丶</td>
         <td align="center"><img alt="UzJu"
-                    src="/img/1650253985.png"  style="width: 100px;" /><br />UzJu</a>
-        </td>
+                    src="/img/1650253985.png"  style="width: 100px;" /><br />UzJu</a></td>
         <td align="center"><img alt="Idle Life"
                     src="/img/1650865577.png"  style="width: 100px;" /><br />Idle Life</td>
     </tr>
@@ -208,8 +209,11 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
                     src="/img/1651740464.png"  style="width: 100px;" /><br />m4d3bug</a></td>
         <td align="center"><img alt="da Vinci【达文西】"
                     src="/img/1651917214.png"  style="width: 100px;" /><br />da Vinci【达文西】</a></td>
+        <td align="center"><img alt="tanger"
+                    src="/img/1653815174.png"  style="width: 100px;" /><br />tanger</a></td>
     </tr>
 </table>
+
 
 
 [想要一起补充？](https://wiki.teamssix.com/About/Contribute.html)
