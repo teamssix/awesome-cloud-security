@@ -86,6 +86,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 在 AWS 下查看自己所拥有的权限 [地址](https://wiki.teamssix.com/CloudService/IAM/list-attached-user-policies.html)
 * 云上攻防：RED TEAMING FOR CLOUD [地址](http://avfisher.win/archives/1175)
 * 云上攻防二三事（续）[地址](http://avfisher.win/archives/1331)
+* 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 
 ## 5 云原生
 
@@ -101,13 +102,13 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 使用eBPF逃逸容器技术分析与实践 [地址 ](https://security.tencent.com/index.php/blog/msg/206) `由「zxynull」师傅补充，感谢支持`
 * 内核态eBPF程序实现容器逃逸与隐藏账号rootkit [地址 ](https://www.cnxct.com/container-escape-in-linux-kernel-space-by-ebpf/?f=wb&continueFlag=0ba98c50fdecece390192b7dd4adf11d) `由「zxynull」师傅补充，感谢支持`
 * 基于 eBPF 实现容器运行时安全 [地址](https://www.ebpf.top/post/ebpf_container_security/)  `由「zxynull」师傅补充，感谢支持`
-* 容器安全清单 container-security-checklist（英文）[地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
-* awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
-* awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
 * 浅析K8S各种未授权攻击方法 [地址](https://zone.huoxian.cn/d/1153-k8s)
 * APISIX CVE-2022-29266 漏洞分析与复现 [地址](https://mp.weixin.qq.com/s/Un-9y_UhWDw9svHKb-JQVQ)
 * 保障云和容器安全的十个注意事项（英文）[地址](https://sysdig.com/blog/considerations-securing-cloud-containers/)
 * CNCF 云原生安全白皮书 v2 [地址](https://github.com/cncf/tag-security/tree/main/security-whitepaper/v2)
+* 容器安全清单 container-security-checklist（英文）[地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
+* awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
+* awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
 
 
 # 0x02 工具 :hammer_and_wrench:
@@ -146,6 +147,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 ### 辅助工具
 
 * 容器镜像分析工具 DIVE [地址](https://github.com/wagoodman/dive) ![GitHub stars](https://img.shields.io/github/stars/wagoodman/dive) `由「zxynull」师傅补充，感谢支持`
+* 基于终端 UI 的 k8s 集群管理工具 k9s [地址](https://github.com/derailed/k9s) ![GitHub stars](https://img.shields.io/github/stars/derailed/k9s)
 * 镜像扫描工具 trivy [地址](https://github.com/aquasecurity/trivy) ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy) `由「zxynull」师傅补充，感谢支持`
 * 容器镜像漏洞静态扫描工具 Clair [地址](https://github.com/quay/clair) ![GitHub stars](https://img.shields.io/github/stars/quay/clair) `由「zxynull」师傅补充，感谢支持`
 * 检查生产环境中部署容器的最佳实践 Docker_Bench_Security [地址](https://github.com/docker/docker-bench-security) ![GitHub stars](https://img.shields.io/github/stars/docker/docker-bench-security) `由「zxynull」师傅补充，感谢支持`
