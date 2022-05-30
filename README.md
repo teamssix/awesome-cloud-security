@@ -56,9 +56,16 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 ## 3 书籍
 
-《云原生安全-攻防实践与体系构建》:fire: 
+《云原生安全-攻防实践与体系构建》
 
-## 4 云服务
+《Hacking Kubernetes》
+
+## 4 视频
+
+* 火线云安全沙龙视频 [地址](https://space.bilibili.com/503330419/video)
+* KubeCon + CloudNativeCon Europe 2022 相关视频 [地址](https://www.youtube.com/c/cloudnativefdn/videos)
+
+## 5 云服务文章
 
 * AWS S3 对象存储攻防 :fire: [地址](https://zone.huoxian.cn/d/907-aws-s3)
 * AWS EC2 弹性计算服务攻防 [地址](https://zone.huoxian.cn/d/1022-aws-ec2)
@@ -88,7 +95,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云上攻防二三事（续）[地址](http://avfisher.win/archives/1331)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 
-## 5 云原生
+## 6 云原生文章
 
 * 特权模式下 Docker 逃逸手法总结 :fire: [地址](https://zone.huoxian.cn/d/1071-docker)
 * 容器逃逸方法检测指北（附检测脚本）[地址](https://zone.huoxian.cn/d/990)
@@ -107,7 +114,6 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 保障云和容器安全的十个注意事项（英文）[地址](https://sysdig.com/blog/considerations-securing-cloud-containers/)
 * CNCF 云原生安全白皮书 v2 [地址](https://github.com/cncf/tag-security/tree/main/security-whitepaper/v2)
 * 初探 eBPF [地址](https://mp.weixin.qq.com/s/GvWKY4M5YvorC4JF2ztUvQ)
-* KubeCon + CloudNativeCon Europe 2022 相关视频 [地址](https://www.youtube.com/c/cloudnativefdn/videos)
 * Terraform 使用入门以及在云上攻防中的作用 [地址](https://wiki.teamssix.com/CloudNative/Terraform/terraform-introductory.html)
 * 容器安全清单 container-security-checklist [地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
 * 从零开始的 Kubernetes 攻防 [地址](https://github.com/neargle/my-re0-k8s-security) ![GitHub stars](https://img.shields.io/github/stars/neargle/my-re0-k8s-security)
@@ -117,7 +123,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 # 0x02 工具 :hammer_and_wrench:
 
-## 1 云服务
+## 1 云服务工具
 
 ### 辅助工具
 
@@ -146,7 +152,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 阿里云 AccessKey 泄漏利用工具 AliyunAccessKeyTools [地址](https://github.com/NS-Sp4ce/AliyunAccessKeyTools) ![GitHub stars](https://img.shields.io/github/stars/NS-Sp4ce/AliyunAccessKeyTools) `由「半人间丶」师傅补充，感谢支持`
 * 腾讯云 AccessKey 利用工具 Tencent_Yun_tools [地址](https://github.com/freeFV/Tencent_Yun_tools) ![GitHub stars](https://img.shields.io/github/stars/freeFV/Tencent_Yun_tools)
 
-## 2 云原生
+## 2 云原生工具
 
 ### 辅助工具
 
@@ -163,8 +169,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Docker 静态分析工具 Dagda [地址](https://github.com/eliasgranderubio/dagda/) ![GitHub stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) `由「zxynull」师傅补充，感谢支持`
 * k8s 集群风险权限扫描工具 KubiScan [地址](https://github.com/cyberark/KubiScan) ![GitHub stars](https://img.shields.io/github/stars/cyberark/KubiScan) `由「UzJu」师傅补充，感谢支持`
 * k8s 安全审计工具 kubestriker [地址](https://github.com/vchinnipilli/kubestriker) ![GitHub stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker) `由「zhengjim」师傅补充，感谢支持`
-* 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「zhengjim」师傅补充，感谢支持`
 * k8s 安全风险检测工具 StackRox [地址](https://github.com/stackrox/stackrox) [工具介绍](https://www.stackrox.io/blog/open-source-stackrox-is-now-available/) ![GitHub stars](https://img.shields.io/github/stars/stackrox/stackrox) `由「m4d3bug」师傅补充，感谢支持`
+* 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「zhengjim」师傅补充，感谢支持`
 * 开源云原生安全防护平台 neuvector [地址](https://github.com/neuvector/neuvector) ![GitHub stars](https://img.shields.io/github/stars/neuvector/neuvector) `由「Idle Life」师傅补充，感谢支持`
 * k8s 调试辅助工具 validkube [地址](https://github.com/komodorio/validkube) ![GitHub stars](https://img.shields.io/github/stars/komodorio/validkube)
 * 容器逃逸检测工具 container-escape-check [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check)
