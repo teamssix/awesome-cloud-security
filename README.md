@@ -93,20 +93,23 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 特权模式下 Docker 逃逸手法总结 :fire: [地址](https://zone.huoxian.cn/d/1071-docker)
 * 容器逃逸方法检测指北（附检测脚本）[地址](https://zone.huoxian.cn/d/990)
 * Terraform 中文教程 :fire: [地址](https://lonegunmanb.github.io/introduction-terraform/)
-* 利用gateway-api，我支配了kubernetes [地址](https://mp.weixin.qq.com/s/Y4F72s0JSyvjLBN3iNyUZg)
+* 利用 gateway-api，我支配了 kubernetes [地址](https://mp.weixin.qq.com/s/Y4F72s0JSyvjLBN3iNyUZg)
 * 红蓝对抗中的云原生漏洞挖掘及利用实录 [地址](https://security.tencent.com/index.php/blog/msg/183)
 * 利用 AWS 官方对 log4j 漏洞的热补丁实现容器逃逸（英文）[地址](https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/)
 * CIS 基准检测手册（英文） [地址](https://www.cisecurity.org/benchmark/kubernetes) `由「zhengjim」师傅补充，感谢支持`
 * Docker 核心技术与实现原理 [地址](https://draveness.me/docker/)  `由「zxynull」师傅补充，感谢支持`
-* 浅谈 Linux Cgroup机制 [地址](https://zhuanlan.zhihu.com/p/81668069)  `由「zxynull」师傅补充，感谢支持`
-* 使用eBPF逃逸容器技术分析与实践 [地址 ](https://security.tencent.com/index.php/blog/msg/206) `由「zxynull」师傅补充，感谢支持`
-* 内核态eBPF程序实现容器逃逸与隐藏账号rootkit [地址 ](https://www.cnxct.com/container-escape-in-linux-kernel-space-by-ebpf/?f=wb&continueFlag=0ba98c50fdecece390192b7dd4adf11d) `由「zxynull」师傅补充，感谢支持`
+* 浅谈 Linux Cgroup 机制 [地址](https://zhuanlan.zhihu.com/p/81668069)  `由「zxynull」师傅补充，感谢支持`
+* 使用 eBPF 逃逸容器技术分析与实践 [地址 ](https://security.tencent.com/index.php/blog/msg/206) `由「zxynull」师傅补充，感谢支持`
+* 内核态 eBPF 程序实现容器逃逸与隐藏账号rootkit [地址 ](https://www.cnxct.com/container-escape-in-linux-kernel-space-by-ebpf/?f=wb&continueFlag=0ba98c50fdecece390192b7dd4adf11d) `由「zxynull」师傅补充，感谢支持`
 * 基于 eBPF 实现容器运行时安全 [地址](https://www.ebpf.top/post/ebpf_container_security/)  `由「zxynull」师傅补充，感谢支持`
-* 浅析K8S各种未授权攻击方法 [地址](https://zone.huoxian.cn/d/1153-k8s)
+* 浅析 k8s 各种未授权攻击方法 [地址](https://zone.huoxian.cn/d/1153-k8s)
 * APISIX CVE-2022-29266 漏洞分析与复现 [地址](https://mp.weixin.qq.com/s/Un-9y_UhWDw9svHKb-JQVQ)
 * 保障云和容器安全的十个注意事项（英文）[地址](https://sysdig.com/blog/considerations-securing-cloud-containers/)
 * CNCF 云原生安全白皮书 v2 [地址](https://github.com/cncf/tag-security/tree/main/security-whitepaper/v2)
+* 初探 eBPF [地址](https://mp.weixin.qq.com/s/GvWKY4M5YvorC4JF2ztUvQ)
+* KubeCon + CloudNativeCon Europe 2022 相关视频 [地址](https://www.youtube.com/c/cloudnativefdn/videos)
 * 容器安全清单 container-security-checklist（英文）[地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
+* 从零开始的Kubernetes攻防 [地址](https://github.com/neargle/my-re0-k8s-security) ![GitHub stars](https://img.shields.io/github/stars/neargle/my-re0-k8s-security)
 * awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
 * awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
 
