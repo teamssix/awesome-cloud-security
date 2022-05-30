@@ -108,8 +108,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * CNCF 云原生安全白皮书 v2 [地址](https://github.com/cncf/tag-security/tree/main/security-whitepaper/v2)
 * 初探 eBPF [地址](https://mp.weixin.qq.com/s/GvWKY4M5YvorC4JF2ztUvQ)
 * KubeCon + CloudNativeCon Europe 2022 相关视频 [地址](https://www.youtube.com/c/cloudnativefdn/videos)
-* 容器安全清单 container-security-checklist（英文）[地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
-* 从零开始的Kubernetes攻防 [地址](https://github.com/neargle/my-re0-k8s-security) ![GitHub stars](https://img.shields.io/github/stars/neargle/my-re0-k8s-security)
+* Terraform 使用入门以及在云上攻防中的作用 [地址](https://wiki.teamssix.com/CloudNative/Terraform/terraform-introductory.html)
+* 容器安全清单 container-security-checklist [地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
+* 从零开始的 Kubernetes 攻防 [地址](https://github.com/neargle/my-re0-k8s-security) ![GitHub stars](https://img.shields.io/github/stars/neargle/my-re0-k8s-security)
 * awesome-cloud-native-security from pen4uin [地址](https://github.com/pen4uin/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/pen4uin/awesome-cloud-native-security)
 * awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
 
