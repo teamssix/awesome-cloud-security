@@ -95,6 +95,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云上攻防：RED TEAMING FOR CLOUD [地址](http://avfisher.win/archives/1175)
 * 云上攻防二三事（续）[地址](http://avfisher.win/archives/1331)
 * 从云服务器 SSRF 漏洞到接管你的阿里云控制台 :fire: [地址](https://wiki.teamssix.com/CloudService/EC2/aliyun-console-takeover.html)
+* 云安全漏洞数据库 [地址](https://www.cloudvulndb.org/)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 
 ### 6 云原生文章
