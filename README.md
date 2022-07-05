@@ -152,6 +152,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云上公开资产枚举 CloudBrute [地址](https://github.com/0xsha/CloudBrute) ![GitHub stars](https://img.shields.io/github/stars/0xsha/CloudBrute)
 * 阿里云 ECS、策略组辅助小工具 alicloud-tools [地址](https://github.com/iiiusky/alicloud-tools) ![GitHub stars](https://img.shields.io/github/stars/iiiusky/alicloud-tools) `由「半人间丶」师傅补充，感谢支持`
 * 阿里云/腾讯云 AK 资源管理工具 [地址](https://github.com/wyzxxz/aksk_tool) ![Github stars](https://img.shields.io/github/stars/wyzxxz/aksk_tool) `由「Esonhugh」师傅补充，感谢支持`
+* 云环境利用框架 CF [地址](https://github.com/teamssix/cf) ![Github stars](https://img.shields.io/github/stars/teamssix/cf) :fire:
 * GCP IAM 权限提升方法 GCP-IAM-Privilege-Escalation [地址](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) `由「da Vinci【达文西】」师傅补充，感谢支持`
 * AWS AccessKey 泄漏利用工具 awsKeyTools [地址](https://github.com/Aabyss-Team/awsKeyTools)  ![GitHub stars](https://img.shields.io/github/stars/Aabyss-Team/awsKeyTools) `由「1derian」和「ShangRui-hash」师傅联合补充，感谢支持`
 * AWS 控制台接管利用工具 aws_consoler [地址](https://github.com/NetSPI/aws_consoler) ![GitHub stars](https://img.shields.io/github/stars/NetSPI/aws_consoler)
