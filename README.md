@@ -6,7 +6,7 @@
 <a href="http://wiki.peiqi.tech"><img alt="PeiQi Wiki" src="https://img.shields.io/badge/PeiQi-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue" /></a>
 </a>
 <a href="https://twitter.com/intent/tweet/?text=Awesome%20Cloud%20Security%20%20%E4%BA%91%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB%20%F0%9F%92%AB%20%0Ahttps%3A%2F%2Fgithub.com%2Fteamssix%2Fawesome-cloud-security%0A%23awesome%20%23cloud%20%23security%20%23cloudsecurity%20%23cybersecurtiy"><img alt="tweet" src="https://img.shields.io/twitter/url?url=https://github.com/teamssix/awesome-cloud-security" /></a>
-<a href="https://twitter.com/teamssix"><img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/teamssix.svg?style=social&label=Follow%20the%20author" /></a>
+<a href="https://twitter.com/teamssix"><img alt="Twitter" src="https://img.shields.io/twitter/follow/teamssix?label=Followers&style=social" /></a>
 <a href="https://github.com/teamssix"><img alt="Github" src="https://img.shields.io/github/followers/TeamsSix?style=social" /></a>
 </p>
 
