@@ -29,6 +29,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Hacking The Cloud（英文） [地址](https://hackingthe.cloud/)
 * Cloud Security Wiki（英文）[地址](https://cloudsecwiki.com/index.html)
 * 云服务漏洞库（英文）[地址](https://www.cloudvulndb.org/)
+* 2021 年云安全事件回顾（英文）[地址](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
 * T Wiki 云安全知识文库项目 [地址](https://github.com/teamssix/TWiki) ![GitHub stars](https://img.shields.io/github/stars/teamssix/TWiki) ` T Wiki 文库现已开源，可部署到自己本地方便内网阅读`
 * 云安全入门资料 [地址](https://github.com/Esonhugh/Attack_Code) ![GitHub stars](https://img.shields.io/github/stars/Esonhugh/Attack_Code)
 
@@ -54,6 +55,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Orca 博客（英文）[地址](https://orca.security/resources/blog/)
 * Praetorian 博客（英文）[地址](https://www.praetorian.com/blog)
 * Ermetic 博客（英文）[地址](https://ermetic.com/blog)
+* Christophe Tafani-Dereeper 博客（英文）[地址](https://blog.christophetd.fr/)
 
 
 ### 3 公众号
@@ -109,6 +111,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 从云服务器 SSRF 漏洞到接管你的阿里云控制台 [地址](https://wiki.teamssix.com/CloudService/EC2/aliyun-console-takeover.html)
 * 云安全漏洞数据库 [地址](https://www.cloudvulndb.org/)
 * 我用 CF 打穿了他的云上内网 :fire: [地址](https://zone.huoxian.cn/d/1341-cf)
+* Google Cloud Shell 命令注入（英文）[地址](https://bugra.ninja/posts/cloudshell-command-injection)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径 [地址](hhttps://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
 
@@ -132,8 +135,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * CNCF 云原生安全白皮书 v2 [地址](https://github.com/cncf/tag-security/tree/main/security-whitepaper/v2)
 * 初探 eBPF [地址](https://mp.weixin.qq.com/s/GvWKY4M5YvorC4JF2ztUvQ)
 * Terraform 使用入门以及在云上攻防中的作用 [地址](https://wiki.teamssix.com/CloudNative/Terraform/terraform-introductory.html)
-* 容器安全清单 container-security-checklist [地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
 * 从零开始的 Kubernetes 攻防 [地址](https://github.com/neargle/my-re0-k8s-security) ![GitHub stars](https://img.shields.io/github/stars/neargle/my-re0-k8s-security)
+* 容器安全清单 container-security-checklist [地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
 * awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
 
 
