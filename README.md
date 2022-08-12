@@ -56,6 +56,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Praetorian 博客（英文）[地址](https://www.praetorian.com/blog)
 * Ermetic 博客（英文）[地址](https://ermetic.com/blog)
 * Christophe Tafani-Dereeper 博客（英文）[地址](https://blog.christophetd.fr/)
+* 福布斯 Cloud 100（英文）[地址](https://forbes.com/lists/cloud100/)
 
 
 ### 3 公众号
@@ -112,6 +113,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云安全漏洞数据库 [地址](https://www.cloudvulndb.org/)
 * 我用 CF 打穿了他的云上内网 :fire: [地址](https://zone.huoxian.cn/d/1341-cf)
 * Google Cloud Shell 命令注入（英文）[地址](https://bugra.ninja/posts/cloudshell-command-injection)
+* 云计算隔离问题：PostgreSQL 的漏洞影响到多个云计算供应商（英文）[地址](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径 [地址](hhttps://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
 
