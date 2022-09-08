@@ -148,8 +148,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 #### 辅助工具
 
-* 在线搜索目标网站下的 AWS 资产 recon.cloud [地址](https://recon.cloud/)
-* 在线搜索公开的 S3 存储桶 buckets.grayhatwarfare.com [地址](https://buckets.grayhatwarfare.com/)
+* 在线搜索目标网站下的云资产 recon.cloud [地址](https://recon.cloud/)
+* 在线搜索公开的存储桶 buckets.grayhatwarfare.com [地址](https://buckets.grayhatwarfare.com/)
 * 在线多云管理平台 行云管家 [地址](https://www.cloudbility.com/) `由「半人间丶」师傅补充，感谢支持`
 * 腾讯云轻量服务器管理工具 [地址](https://www.qqvps.com/d/1011) `由「tanger」师傅补充，感谢支持`
 * 腾讯云官方 COS 辅助工具 [地址](https://cosbrowser.cloud.tencent.com/) `由「Esonhugh」师傅补充，感谢支持`
