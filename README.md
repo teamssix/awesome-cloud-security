@@ -35,7 +35,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 ### 2 博客资讯
 
-* TeamsSix 博客 [地址](https://teamssix.com/)
+* TeamsSix 的个人博客 [地址](https://teamssix.com/)
 * Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
 * Sysdig 云安全报告资讯（英文）[地址](https://sysdig.com/resources/reports/)
 * Sysdig 博客（英文）[地址](https://sysdig.com/blog/)
@@ -57,6 +57,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Ermetic 博客（英文）[地址](https://ermetic.com/blog)
 * Christophe Tafani-Dereeper 博客（英文）[地址](https://blog.christophetd.fr/)
 * 福布斯 Cloud 100（英文）[地址](https://forbes.com/lists/cloud100/)
+* Gafnit Amiga 的个人博客（英文）[地址](https://gafnit.blog/)
+* Nick Frichette 的个人博客（英文）[地址](https://frichetten.com/)
+* Chris Farris 的个人博客（英文）[地址](https://www.chrisfarris.com/)
 
 
 ### 3 公众号
