@@ -84,7 +84,16 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 火线云安全沙龙视频 [地址](https://space.bilibili.com/503330419/video)
 * KubeCon + CloudNativeCon Europe 2022 相关视频 [地址](https://www.youtube.com/c/cloudnativefdn/videos)
 
-### 6 云服务文章
+### 6 证书
+
+* Alibaba Cloud Certified Associate, ACA [地址](https://edu.alibabacloud.com/certification/aca_cloudsecurity)
+* Azure Security Engineer Associate [地址](https://learn.microsoft.com/en-us/certifications/azure-security-engineer/)
+* AWS Certified Security - Specialty [地址](https://aws.amazon.com/certification/certified-security-specialty/)
+* Certified Cloud Security Professional, CCSP [地址](https://www.isc2.org/Certifications/CCSP)
+* CompTIA Cloud+ [地址](https://www.comptia.org/certifications/cloud)
+* GCP Professional Cloud Security Engineer [地址](https://cloud.google.com/certification/cloud-security-engineer)
+
+### 7 云服务文章
 
 * AWS S3 对象存储攻防 :fire: [地址](https://zone.huoxian.cn/d/907-aws-s3)
 * AWS EC2 弹性计算服务攻防 [地址](https://zone.huoxian.cn/d/1022-aws-ec2)
@@ -122,7 +131,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径 [地址](hhttps://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
 
-### 7 云原生文章
+### 8 云原生文章
 
 * 特权模式下 Docker 逃逸手法总结 :fire: [地址](https://zone.huoxian.cn/d/1071-docker)
 * 容器逃逸方法检测指北（附检测脚本）[地址](https://zone.huoxian.cn/d/990)
