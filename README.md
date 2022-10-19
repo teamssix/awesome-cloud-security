@@ -60,6 +60,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Gafnit Amiga 的个人博客（英文）[地址](https://gafnit.blog/)
 * Nick Frichette 的个人博客（英文）[地址](https://frichetten.com/)
 * Chris Farris 的个人博客（英文）[地址](https://www.chrisfarris.com/)
+* HashiCorp 博客（英文）[地址](https://www.hashicorp.com/blog)
+* PeoplActive 博客（英文）[地址](https://peoplactive.com/blog/)
 
 
 ### 3 公众号
@@ -167,6 +169,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 在线多云管理平台 行云管家 [地址](https://www.cloudbility.com/) `由「半人间丶」师傅补充，感谢支持`
 * 腾讯云轻量服务器管理工具 [地址](https://www.qqvps.com/d/1011) `由「tanger」师傅补充，感谢支持`
 * 腾讯云官方 COS 辅助工具 [地址](https://cosbrowser.cloud.tencent.com/) `由「Esonhugh」师傅补充，感谢支持`
+* AK 等敏感信息查找工具 trufflehog [地址](https://github.com/trufflesecurity/trufflehog) ![GitHub stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog)
 * 多云基线扫描工具 ScoutSuite [地址](https://github.com/nccgroup/ScoutSuite) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite)
 * 阿里云官方 OSS 辅助工具 [地址](https://github.com/aliyun/oss-browser) ![GitHub stars](https://img.shields.io/github/stars/aliyun/oss-browser) `由「半人间丶」师傅补充，感谢支持`
 * S3 策略扫描工具 S3Scanner [地址](https://github.com/sa7mon/S3Scanner) ![GitHub stars](https://img.shields.io/github/stars/sa7mon/S3Scanner)
