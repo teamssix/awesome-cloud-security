@@ -135,8 +135,10 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 记录一次平平无奇的云上攻防过程 [地址](https://zone.huoxian.cn/d/2557)
 * Azure Cloud Shell 命令注入窃取用户的访问令牌（英文）[地址](https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens)
 * 一次简单的"云"上野战记录 [地址](https://mp.weixin.qq.com/s/wi8CoNwdpfJa6eMP4t1PCQ)
+* AWS 枚举（第一部分）（英文）[地址](https://securitycafe.ro/2022/11/01/aws-enumeration-part-1/)
+* AWS 权限提升（英文）[地址](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
-* Lightspin 2022 年 7 大云攻击路径 [地址](hhttps://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
+* Lightspin 2022 年 7 大云攻击路径（英文） [地址](https://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
 
 ### 8 云原生文章
 
@@ -176,13 +178,15 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 腾讯云官方 COS 辅助工具 [地址](https://cosbrowser.cloud.tencent.com/) `由「Esonhugh」师傅补充，感谢支持`
 * AK 等敏感信息查找工具 trufflehog [地址](https://github.com/trufflesecurity/trufflehog) ![GitHub stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog)
 * 多云基线扫描工具 ScoutSuite [地址](https://github.com/nccgroup/ScoutSuite) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite)
-* 阿里云官方 OSS 辅助工具 [地址](https://github.com/aliyun/oss-browser) ![GitHub stars](https://img.shields.io/github/stars/aliyun/oss-browser) `由「半人间丶」师傅补充，感谢支持`
+* 阿里云官方 OSS 管理工具 [地址](https://github.com/aliyun/oss-browser) ![GitHub stars](https://img.shields.io/github/stars/aliyun/oss-browser) `由「半人间丶」师傅补充，感谢支持`
 * S3 策略扫描工具 S3Scanner [地址](https://github.com/sa7mon/S3Scanner) ![GitHub stars](https://img.shields.io/github/stars/sa7mon/S3Scanner)
 * 支持多家国内的云厂商的云存储管理客户端 qiniuClient [地址](https://github.com/willnewii/qiniuClient) ![GitHub stars](https://img.shields.io/github/stars/willnewii/qiniuClient) `由「半人间丶」师傅补充，感谢支持`
+* AWS IAM 权限枚举工具 Principal Mapper [地址](https://github.com/nccgroup/PMapper) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/PMapper)
 * 开源多云安全合规扫描平台 RiskScanner [地址](https://github.com/riskscanner/riskscanner) ![GitHub stars](https://img.shields.io/github/stars/riskscanner/riskscanner) `由「想走安全的小白」师傅补充，感谢支持`
+* 云渗透信息收集工具 cloudfox [地址](https://github.com/BishopFox/cloudfox) ![GitHub stars](https://img.shields.io/github/stars/BishopFox/cloudfox)
 * 云服务资源枚举工具 cloud_enum [地址](https://github.com/initstring/cloud_enum) ![GitHub stars](https://img.shields.io/github/stars/initstring/cloud_enum)
 * 多云对象存储扫描工具 Cloud-Bucket-Leak-Detection-Tools [地址](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) ![GitHub stars](https://img.shields.io/github/stars/UzJu/Cloud-Bucket-Leak-Detection-Tools)
-* 云渗透信息收集工具 cloudfox [地址](https://github.com/BishopFox/cloudfox) ![GitHub stars](https://img.shields.io/github/stars/BishopFox/cloudfox)
+* AWS IAM 权限枚举工具 enumerate-iam [地址](https://github.com/andresriancho/enumerate-iam)  ![GitHub stars](https://img.shields.io/github/stars/andresriancho/enumerate-iam)
 * S3 公开存储桶密钥扫描工具 S3cret Scanner [地址](https://github.com/Eilonh/s3crets_scanner) ![GitHub stars](https://img.shields.io/github/stars/Eilonh/s3crets_scanner)
 
 #### 利用工具
