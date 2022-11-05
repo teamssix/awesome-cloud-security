@@ -128,7 +128,6 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云上攻防：RED TEAMING FOR CLOUD [地址](http://avfisher.win/archives/1175)
 * 云上攻防二三事（续）[地址](http://avfisher.win/archives/1331)
 * 从云服务器 SSRF 漏洞到接管你的阿里云控制台 [地址](https://wiki.teamssix.com/CloudService/EC2/aliyun-console-takeover.html)
-* 云安全漏洞数据库 [地址](https://www.cloudvulndb.org/)
 * 我用 CF 打穿了他的云上内网 :fire: [地址](https://zone.huoxian.cn/d/1341-cf)
 * Google Cloud Shell 命令注入（英文）[地址](https://bugra.ninja/posts/cloudshell-command-injection)
 * 云计算隔离问题：PostgreSQL 的漏洞影响到多个云计算供应商（英文）[地址](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities)
