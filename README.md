@@ -61,6 +61,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * HashiCorp 博客（英文）[地址](https://www.hashicorp.com/blog)
 * PeoplActive 博客（英文）[地址](https://peoplactive.com/blog/)
 * 绿盟技术博客 [地址](http://blog.nsfocus.net/tag/%e4%ba%91%e5%ae%89%e5%85%a8/)
+* devops 资讯（英文）[地址](https://devops.com/)
+* 0xd4y 博客（英文）[地址](https://0xd4y.com/)
 
 
 ### 3 公众号
@@ -135,6 +137,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Azure Cloud Shell 命令注入窃取用户的访问令牌（英文）[地址](https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens)
 * 一次简单的"云"上野战记录 [地址](https://mp.weixin.qq.com/s/wi8CoNwdpfJa6eMP4t1PCQ)
 * AWS 枚举（第一部分）（英文）[地址](https://securitycafe.ro/2022/11/01/aws-enumeration-part-1/)
+* GCP 渗透测试笔记（英文）[地址](https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/)
 * AWS 权限提升（英文）[地址](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径（英文） [地址](https://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
