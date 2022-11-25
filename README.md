@@ -63,6 +63,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 绿盟技术博客 [地址](http://blog.nsfocus.net/tag/%e4%ba%91%e5%ae%89%e5%85%a8/)
 * devops 资讯（英文）[地址](https://devops.com/)
 * 0xd4y 博客（英文）[地址](https://0xd4y.com/)
+* AWS 安全公告（英文）[地址](https://aws.amazon.com/security/security-bulletins)
 
 
 ### 3 公众号
@@ -90,7 +91,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 ### 5 视频
 
 * 火线云安全沙龙视频 [地址](https://space.bilibili.com/503330419/video)
-* KubeCon + CloudNativeCon Europe 2022 相关视频 [地址](https://www.youtube.com/c/cloudnativefdn/videos)
+* KubeCon + CloudNativeCon Europe 2022 相关视频（英文） [地址](https://www.youtube.com/c/cloudnativefdn/videos)
+* 0xd4y Hacking in the Cloud（英文）[地址](https://www.youtube.com/channel/UCSumP9z5Rzquqih-jpusTOQ)
 
 ### 6 证书
 
