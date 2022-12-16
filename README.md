@@ -297,7 +297,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 </table>
 
 
-### [想要一起补充？](https://wiki.teamssix.com/About/Contribute.html)
+### 想要一起补充？直接给本项目提 PR 或者使用右侧链接中的方法都可以：[补充说明地址](https://wiki.teamssix.com/About/Contribute.html)
 
 
 
