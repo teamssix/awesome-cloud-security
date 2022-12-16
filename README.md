@@ -250,10 +250,10 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
 * k8s 靶场部署工具 Kubernetes Goat [地址](https://github.com/madhuakula/kubernetes-goat) ![GitHub stars](https://img.shields.io/github/stars/madhuakula/kubernetes-goat) `由「UzJu」师傅补充，感谢支持`
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
-* AWS 靶场 AWSGoat [地址](https://github.com/ine-labs/AWSGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AWSGoat) `由「Kfzz1」师傅补充，感谢支持`
+* AWS 靶场 AWSGoat [地址](https://github.com/ine-labs/AWSGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AWSGoat)
 * 云原生靶场部署工具 metarget [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
 * 多云靶场搭建工具 TerraformGoat  [地址](https://github.com/HuoCorp/TerraformGoat) ![GitHub stars](https://img.shields.io/github/stars/HuoCorp/TerraformGoat)
-* Azure 靶场  AzureGoat [地址](https://github.com/ine-labs/AzureGoat)  ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AzureGoat)
+* Azure 靶场  AzureGoat [地址](https://github.com/ine-labs/AzureGoat)  ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AzureGoat) `由「Kfzz1」师傅补充，感谢支持`
 
 ## 贡献者 :confetti_ball:
 
