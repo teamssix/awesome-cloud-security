@@ -28,6 +28,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Cloud Security Wiki（英文）[地址](https://cloudsecwiki.com/index.html)
 * 云服务漏洞库（英文）[地址](https://www.cloudvulndb.org/)
 * 2021 年云安全事件回顾（英文）[地址](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
+* 云渗透笔记（英文）[地址](https://github.com/dafthack/CloudPentestCheatsheets) ![GitHub stars](https://img.shields.io/github/stars/dafthack/CloudPentestCheatsheets) `由「Kfzz1」师傅补充，感谢支持`
 * T Wiki 云安全知识文库项目 [地址](https://github.com/teamssix/TWiki) ![GitHub stars](https://img.shields.io/github/stars/teamssix/TWiki) ` T Wiki 文库现已开源，可部署到自己本地方便内网阅读`
 * 云安全入门资料 [地址](https://github.com/Esonhugh/Attack_Code) ![GitHub stars](https://img.shields.io/github/stars/Esonhugh/Attack_Code)
 * 云安全向导 [地址](https://github.com/GRQForCloud/cloud-security-guides) ![GitHub stars](https://img.shields.io/github/stars/GRQForCloud/cloud-security-guides)
@@ -192,7 +193,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云服务资源枚举工具 cloud_enum [地址](https://github.com/initstring/cloud_enum) ![GitHub stars](https://img.shields.io/github/stars/initstring/cloud_enum)
 * 多云对象存储扫描工具 Cloud-Bucket-Leak-Detection-Tools [地址](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) ![GitHub stars](https://img.shields.io/github/stars/UzJu/Cloud-Bucket-Leak-Detection-Tools)
 * AWS IAM 权限枚举工具 enumerate-iam [地址](https://github.com/andresriancho/enumerate-iam)  ![GitHub stars](https://img.shields.io/github/stars/andresriancho/enumerate-iam)
+* 多云资产收集工具 cloudlist [地址](https://github.com/projectdiscovery/cloudlist) ![GitHub stars](https://img.shields.io/github/stars/projectdiscovery/cloudlist) `由「Kfzz1」师傅补充，感谢支持`
 * S3 公开存储桶密钥扫描工具 S3cret Scanner [地址](https://github.com/Eilonh/s3crets_scanner) ![GitHub stars](https://img.shields.io/github/stars/Eilonh/s3crets_scanner)
+* BloodHound 收集 Azure 数据工具 AzureHound [地址](https://github.com/BloodHoundAD/AzureHound) ![GitHub stars](https://img.shields.io/github/stars/BloodHoundAD/AzureHound) `由「Kfzz1」师傅补充，感谢支持`
 * Azure AD 信息收集工具 AzureGraph [地址](https://github.com/JoelGMSec/AzureGraph) ![GitHub stars](https://img.shields.io/github/stars/JoelGMSec/AzureGraph) `由「Kfzz1」师傅补充，感谢支持`
 
 #### 利用工具
