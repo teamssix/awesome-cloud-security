@@ -35,6 +35,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 ### 2 博客资讯
 
+* 火线安全每日云安全资讯 [地址](https://cloudsec.huoxian.cn/docs/information)
+* 腾讯云鼎每日云安全资讯 [地址](https://cloudsec.tencent.com/info/list.html)
 * TeamsSix 的个人博客 [地址](https://teamssix.com/)
 * Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
 * Sysdig 云安全报告资讯（英文）[地址](https://sysdig.com/resources/reports/)
