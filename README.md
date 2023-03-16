@@ -75,7 +75,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 ### 3 公众号
 
-* 火线 Zone :fire: 
+* 火线 Zone :fire:
 * TeamsSix
 * 云鼎实验室
 * 绿盟科技研究通讯
@@ -131,7 +131,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 红队视角下的公有云基础组件安全（二）[地址](https://mp.weixin.qq.com/s/lL32lywlrnuyhJkQk5NAEw)
 * 利用 AWS RDS 读取实例凭证（英文）[地址](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
 * 利用 AWS RDS 读取实例凭证（中文翻译）[地址](https://zone.huoxian.cn/d/1141-aws-rdsaws)
-* 风险最高的10种AWS配置错误 [地址](https://mp.weixin.qq.com/s/quIpapbkFNay0JtUK4wODQ) 
+* 风险最高的10种AWS配置错误 [地址](https://mp.weixin.qq.com/s/quIpapbkFNay0JtUK4wODQ)
 * 公有云 IP 重用的威胁和防御方法分析 Paper（英文）[地址](https://arxiv.org/pdf/2204.05122.pdf)
 * 华为云 CTF cloud 非预期解之 k8s 渗透实战 [地址](https://annevi.cn/2020/12/21/%E5%8D%8E%E4%B8%BA%E4%BA%91ctf-cloud%E9%9D%9E%E9%A2%84%E6%9C%9F%E8%A7%A3%E4%B9%8Bk8s%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98/)
 * 企业迁移到公有云之前要问的5个问题 [地址](http://www.d1net.com/cloud/news/574569.html)
@@ -192,9 +192,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 阿里云官方 OSS 管理工具 [地址](https://github.com/aliyun/oss-browser) ![GitHub stars](https://img.shields.io/github/stars/aliyun/oss-browser) `由「半人间丶」师傅补充，感谢支持`
 * S3 策略扫描工具 S3Scanner [地址](https://github.com/sa7mon/S3Scanner) ![GitHub stars](https://img.shields.io/github/stars/sa7mon/S3Scanner)
 * 支持多家国内的云厂商的云存储管理客户端 qiniuClient [地址](https://github.com/willnewii/qiniuClient) ![GitHub stars](https://img.shields.io/github/stars/willnewii/qiniuClient) `由「半人间丶」师傅补充，感谢支持`
+* 云渗透信息收集工具 cloudfox [地址](https://github.com/BishopFox/cloudfox) ![GitHub stars](https://img.shields.io/github/stars/BishopFox/cloudfox)
 * AWS IAM 权限枚举工具 Principal Mapper [地址](https://github.com/nccgroup/PMapper) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/PMapper)
 * 开源多云安全合规扫描平台 RiskScanner [地址](https://github.com/riskscanner/riskscanner) ![GitHub stars](https://img.shields.io/github/stars/riskscanner/riskscanner) `由「想走安全的小白」师傅补充，感谢支持`
-* 云渗透信息收集工具 cloudfox [地址](https://github.com/BishopFox/cloudfox) ![GitHub stars](https://img.shields.io/github/stars/BishopFox/cloudfox)
 * 云服务资源枚举工具 cloud_enum [地址](https://github.com/initstring/cloud_enum) ![GitHub stars](https://img.shields.io/github/stars/initstring/cloud_enum)
 * 多云对象存储扫描工具 Cloud-Bucket-Leak-Detection-Tools [地址](https://github.com/UzJu/Cloud-Bucket-Leak-Detection-Tools) ![GitHub stars](https://img.shields.io/github/stars/UzJu/Cloud-Bucket-Leak-Detection-Tools)
 * AWS IAM 权限枚举工具 enumerate-iam [地址](https://github.com/andresriancho/enumerate-iam)  ![GitHub stars](https://img.shields.io/github/stars/andresriancho/enumerate-iam)
@@ -234,14 +234,14 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * CIS 基准检测工具 kube bench [地址](https://github.com/aquasecurity/kube-bench)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-bench) `由「zhengjim」师傅补充，感谢支持`
 * k8s 集群安全漏洞发现工具 kube hunter [地址](https://github.com/aquasecurity/kube-hunter)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-hunter) `由「zhengjim」师傅补充，感谢支持`
 * Docker 镜像扫描工具 Anchore [地址](https://github.com/anchore/syft/) ![GitHub stars](https://img.shields.io/github/stars/anchore/syft) `由「zxynull」师傅补充，感谢支持`
-* Docker 静态分析工具 Dagda [地址](https://github.com/eliasgranderubio/dagda/) ![GitHub stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) `由「zxynull」师傅补充，感谢支持`
 * k8s 集群风险权限扫描工具 KubiScan [地址](https://github.com/cyberark/KubiScan) ![GitHub stars](https://img.shields.io/github/stars/cyberark/KubiScan) `由「UzJu」师傅补充，感谢支持`
-* k8s 安全审计工具 kubestriker [地址](https://github.com/vchinnipilli/kubestriker) ![GitHub stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker) `由「zhengjim」师傅补充，感谢支持`
+* Docker 静态分析工具 Dagda [地址](https://github.com/eliasgranderubio/dagda/) ![GitHub stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) `由「zxynull」师傅补充，感谢支持`
 * k8s 安全风险检测工具 StackRox [地址](https://github.com/stackrox/stackrox) [工具介绍](https://www.stackrox.io/blog/open-source-stackrox-is-now-available/) ![GitHub stars](https://img.shields.io/github/stars/stackrox/stackrox) `由「m4d3bug」师傅补充，感谢支持`
+* k8s 安全审计工具 kubestriker [地址](https://github.com/vchinnipilli/kubestriker) ![GitHub stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker) `由「zhengjim」师傅补充，感谢支持`
 * 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「zhengjim」师傅补充，感谢支持`
 * 开源云原生安全防护平台 neuvector [地址](https://github.com/neuvector/neuvector) ![GitHub stars](https://img.shields.io/github/stars/neuvector/neuvector) `由「Idle Life」师傅补充，感谢支持`
 * k8s 调试辅助工具 validkube [地址](https://github.com/komodorio/validkube) ![GitHub stars](https://img.shields.io/github/stars/komodorio/validkube)
-* Terraform 可视化 [地址](https://github.com/hieven/terraform-visual) ![GitHub stars](https://img.shields.io/github/stars/hieven/terraform-visual) 
+* Terraform 可视化 [地址](https://github.com/hieven/terraform-visual) ![GitHub stars](https://img.shields.io/github/stars/hieven/terraform-visual)
 * 容器逃逸检测工具 container-escape-check [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check)
 
 
@@ -259,9 +259,11 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * k8s 靶场部署工具 Kubernetes Goat [地址](https://github.com/madhuakula/kubernetes-goat) ![GitHub stars](https://img.shields.io/github/stars/madhuakula/kubernetes-goat) `由「UzJu」师傅补充，感谢支持`
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
 * AWS 靶场 AWSGoat [地址](https://github.com/ine-labs/AWSGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AWSGoat)
+* CI/CD 靶场部署工具 [地址](https://github.com/cider-security-research/cicd-goat) ![GitHub stars](https://img.shields.io/github/stars/cider-security-research/cicd-goat) `由「Kfzz1」师傅补充，感谢支持`
 * 云原生靶场部署工具 metarget [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
-* Azure 靶场  AzureGoat [地址](https://github.com/ine-labs/AzureGoat)  ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AzureGoat) `由「Kfzz1」师傅补充，感谢支持`
+* Azure 靶场  AzureGoat [地址](https://github.com/ine-labs/AzureGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AzureGoat) `由「Kfzz1」师傅补充，感谢支持`
 * 多云靶场搭建工具 TerraformGoat  [地址](https://github.com/HuoCorp/TerraformGoat) ![GitHub stars](https://img.shields.io/github/stars/HuoCorp/TerraformGoat)
+* GCP 靶场部署工具 GCPGoat [地址](https://github.com/ine-labs/GCPGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/GCPGoat) `由「Kfzz1」师傅补充，感谢支持`
 
 ## 贡献者 :confetti_ball:
 
