@@ -312,18 +312,6 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 ### 想要一起补充？直接给本项目提 PR 或者使用右侧链接中的方法：[补充说明地址](https://wiki.teamssix.com/About/Contribute.html)
 
-
-
-## 云安全交流群 :cloud:
-
-添加 WgpSecBot 微信可以加入`云安全交流群`，搜索微信号`WgpSecBot`或扫描以下二维码可以添加它，添加后发送`云安全`就可以进群了。
-
-<div align=center><img width="300" src="./img/1649988782.png"></div>
-
-<div align=center><img width="600" src="./img/1650010640.png" div align=center/></div>
-
-如果想加入`狼组安全团队交流群`，可以直接和 WgpSecBot 说 `加群`，WgpSecBot  就会把你拉到狼组交流群了。
-
 ## 更新日志 :calendar:
 
 在 T Wiki 云安全文库的更新日志中，记录了 Awesome Cloud Security 项目和文库的更新情况，在 [wiki.teamssix.com/Changelog](https://wiki.teamssix.com/Changelog) 这里可以查看。
