@@ -147,6 +147,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 一次简单的"云"上野战记录 [地址](https://mp.weixin.qq.com/s/wi8CoNwdpfJa6eMP4t1PCQ)
 * AWS 枚举（第一部分）（英文）[地址](https://securitycafe.ro/2022/11/01/aws-enumeration-part-1/)
 * GCP 渗透测试笔记（英文）[地址](https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/)
+* 常规云服务业务侧攻防视角研究 [地址](https://mp.weixin.qq.com/s/2yaQ_W5K7BfmycMO2UcXJg)
+* 记一次打穿云上内网的攻防实战 [地址](https://zone.huoxian.cn/d/2766)
 * AWS 权限提升（英文）[地址](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径（英文） [地址](https://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
@@ -171,6 +173,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * CNCF 云原生安全白皮书 v2 [地址](https://github.com/cncf/tag-security/tree/main/security-whitepaper/v2)
 * 初探 eBPF [地址](https://mp.weixin.qq.com/s/GvWKY4M5YvorC4JF2ztUvQ)
 * Terraform 使用入门以及在云上攻防中的作用 [地址](https://wiki.teamssix.com/CloudNative/Terraform/terraform-introductory.html)
+* 云原生之 Kubernetes 安全 [地址](https://forum.butian.net/share/1095)
+* RCE 进入内网接管 K8s 并逃逸进 xx 网 [地址](https://mp.weixin.qq.com/s/UvjKHaVzhluc22trF46uBA)
 * 从零开始的 Kubernetes 攻防 [地址](https://github.com/neargle/my-re0-k8s-security) ![GitHub stars](https://img.shields.io/github/stars/neargle/my-re0-k8s-security)
 * 容器安全清单 container-security-checklist [地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
 * awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
