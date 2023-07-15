@@ -74,7 +74,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * CIS Benchmarks 下载页（英文）[地址](https://downloads.cisecurity.org)
 * 云安全资讯（每周更新一次）（英文）[地址](https://cloudseclist.com/past-issues)
 * 云原生实验室博客 [地址](https://icloudnative.io) `由「DVKunion」师傅补充，感谢支持`
-* 云计算市场资讯 [地址](https://interconnected.blog/tag/cloud-industry)
+* 云计算市场资讯（英文）[地址](https://interconnected.blog/tag/cloud-industry)
 
 ### 3 公众号
 
@@ -180,7 +180,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 红队视角下的公有云基础组件安全（二）[地址](https://mp.weixin.qq.com/s/lL32lywlrnuyhJkQk5NAEw)
 * 利用 AWS RDS 读取实例凭证（英文）[地址](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
 * 利用 AWS RDS 读取实例凭证（中文翻译）[地址](https://zone.huoxian.cn/d/1141-aws-rdsaws)
-* 风险最高的10种AWS配置错误 [地址](https://mp.weixin.qq.com/s/quIpapbkFNay0JtUK4wODQ)
+* 风险最高的 10 种 AWS 配置错误 [地址](https://mp.weixin.qq.com/s/quIpapbkFNay0JtUK4wODQ)
 * 公有云 IP 重用的威胁和防御方法分析 Paper（英文）[地址](https://arxiv.org/pdf/2204.05122.pdf)
 * 华为云 CTF cloud 非预期解之 k8s 渗透实战 [地址](https://annevi.cn/2020/12/21/%E5%8D%8E%E4%B8%BA%E4%BA%91ctf-cloud%E9%9D%9E%E9%A2%84%E6%9C%9F%E8%A7%A3%E4%B9%8Bk8s%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98/)
 * 企业迁移到公有云之前要问的5个问题 [地址](http://www.d1net.com/cloud/news/574569.html)
@@ -282,8 +282,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 **GCP**
 
 * GCP 官方 CLI 工具 [地址](https://cloud.google.com/sdk/gcloud/)
-* GCP 资源枚举 [地址](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/gcp_enum)
-* GCP 攻击面资源枚举 [地址](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/gcp_firewall_enum)
+* GCP 资源枚举工具 [地址](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/gcp_enum)
+* GCP 攻击面资源枚举工具 [地址](https://gitlab.com/gitlab-com/gl-security/threatmanagement/redteam/redteam-public/gcp_firewall_enum)
 * GCP 资源分析工具 Hayat [地址](https://github.com/DenizParlak/hayat) ![GitHub stars](https://img.shields.io/github/stars/DenizParlak/hayat)
 * GCP IAM 权限收集工具 gcp-iam-collector [地址](https://github.com/marcin-kolda/gcp-iam-collector) ![GitHub stars](https://img.shields.io/github/stars/marcin-kolda/gcp-iam-collector)
 * Google Workspace 目录转储工具 Google Workspace Directory Dump Tool [地址](https://github.com/RedTeamOperations/GoogleWorkspaceDirectoryDump) ![GitHub stars](https://img.shields.io/github/stars/RedTeamOperations/GoogleWorkspaceDirectoryDump)
@@ -311,7 +311,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 **多云**
 
-* 云环境利用框架 CF [地址](https://github.com/teamssix/cf) ![Github stars](https://img.shields.io/github/stars/teamssix/cf)
+* 云环境利用框架 CF [地址](https://github.com/teamssix/cf) ![Github stars](https://img.shields.io/github/stars/teamssix/cf) :fire:
 * 阿里云/腾讯云 AK 资源管理工具 [地址](https://github.com/wyzxxz/aksk_tool) ![Github stars](https://img.shields.io/github/stars/wyzxxz/aksk_tool) `由「Esonhugh」师傅补充，感谢支持`
 
 **AWS**
