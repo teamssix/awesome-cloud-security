@@ -307,11 +307,15 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 * 天翼云对象存储连接工具 [地址](https://www.ctyun.cn/document/10000101/10006768)
 
+**青云**
+
+* 青云官方 CLI 工具 [地址](https://docsv4.qingcloud.com/user_guide/development_docs/cli/install/install) `由 「苏打养乐多」师傅补充，感谢支持`
+
+
 #### 利用工具
 
 **多云**
 
-* 云环境利用框架 CF [地址](https://github.com/teamssix/cf) ![Github stars](https://img.shields.io/github/stars/teamssix/cf) :fire:
 * 阿里云/腾讯云 AK 资源管理工具 [地址](https://github.com/wyzxxz/aksk_tool) ![Github stars](https://img.shields.io/github/stars/wyzxxz/aksk_tool) `由「Esonhugh」师傅补充，感谢支持`
 
 **AWS**
@@ -330,7 +334,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Azure 安全评估 PowerShell 工具包 MicroBurst [地址](https://github.com/NetSPI/MicroBurst) ![GitHub stars](https://img.shields.io/github/stars/NetSPI/MicroBurst)
 * Azure AD 利用工具集 ROADtools [地址](https://github.com/dirkjanm/ROADtools) ![GitHub stars](https://img.shields.io/github/stars/dirkjanm/ROADtools)
 * Azure 红队利用工具 Stormspotter [地址](https://github.com/Azure/Stormspotter) ![GitHub stars](https://img.shields.io/github/stars/Azure/Stormspotter) `由「da Vinci【达文西】」师傅补充，感谢支持`
-* 枚举、喷洒、渗透 O365 AAD 帐户工具 TeamFiltration [地址](https://github.com/Flangvik/TeamFiltration) ![GitHub stars](https://img.shields.io/github/stars/Flangvik/TeamFiltration)
+* 枚举、喷洒、渗透 O365 AAD 账户工具 TeamFiltration [地址](https://github.com/Flangvik/TeamFiltration) ![GitHub stars](https://img.shields.io/github/stars/Flangvik/TeamFiltration)
 * Azure JWT 令牌操作工具集 TokenTactics [地址](https://github.com/rvrsh3ll/TokenTactics) ![GitHub stars](https://img.shields.io/github/stars/rvrsh3ll/TokenTactics)
 * Microsoft 365 安全工具箱 DCToolbox [地址](https://github.com/DanielChronlund/DCToolbox) ![GitHub stars](https://img.shields.io/github/stars/DanielChronlund/DCToolbox)
 * 滥用 Microsoft 365 OAuth 授权流程进行网络钓鱼攻击的概念验证脚本 Microsoft365_devicePhish [地址](https://github.com/optiv/Microsoft365_devicePhish) ![GitHub stars](https://img.shields.io/github/stars/optiv/Microsoft365_devicePhish)
@@ -446,6 +450,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
                     src="/img/1688880306.png"  style="width: 100px;" /><br />Ma1tobiose</a></td>
                 <td align="center"><img alt="DVKunion"
                     src="/img/1689259230.png"  style="width: 100px;" /><br />DVKunion</a></td>
+                <td align="center"><img alt="苏打养乐多"
+                    src="/img/1692362083.png"  style="width: 100px;" /><br />苏打养乐多</a></td>
 		</tr>
 </table>
 
