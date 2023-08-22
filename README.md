@@ -130,6 +130,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Shir Tamari [![Twitter Follow](https://img.shields.io/twitter/follow/shirtamari)](https://twitter.com/shirtamari)
 * Skyworship [![Twitter Follow](https://img.shields.io/twitter/follow/Skyworship2)](https://twitter.com/Skyworship2)
 * Thomas Naunheim [![Twitter Follow](https://img.shields.io/twitter/follow/Thomas_Live)](https://twitter.com/Thomas_Live)
+* Simon Décosse [![Twitter Follow](https://img.shields.io/twitter/follow/simondotsh)](https://twitter.com/simondotsh)
 
 ### 5 书籍
 
@@ -198,6 +199,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * GCP 渗透测试笔记（英文）[地址](https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/)
 * 常规云服务业务侧攻防视角研究 [地址](https://mp.weixin.qq.com/s/2yaQ_W5K7BfmycMO2UcXJg)
 * 记一次打穿云上内网的攻防实战 [地址](https://zone.huoxian.cn/d/2766)
+* 当 0day 和访问密钥在云上被结合利用时：应对 SugarCRM 0day 漏洞 (英文) [地址](https://unit42.paloaltonetworks.com/sugarcrm-cloud-incident-black-hat/)
 * AWS 权限提升（英文）[地址](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径（英文） [地址](https://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
@@ -270,6 +272,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * AWS 常见配置错误审计工具 YATAS [地址](https://github.com/padok-team/yatas) ![GitHub stars](https://img.shields.io/github/stars/padok-team/yatas)
 * Route53/CloudFront 漏洞评估工具 [地址](https://github.com/prevade/cloudjack) ![GitHub stars](https://img.shields.io/github/stars/prevade/cloudjack)
 * 检测多云环境中存在 dangling DNS 记录的工具 findmytakeover [地址](https://github.com/anirudhbiyani/findmytakeover) ![GitHub stars](https://img.shields.io/github/stars/anirudhbiyani/findmytakeover)
+* CloudTrail 日志分析 IAM 权限工具 Cloudtrail2IAM [地址](https://github.com/carlospolop/Cloudtrail2IAM) ![GitHub stars](https://img.shields.io/github/stars/carlospolop/Cloudtrail2IAM)
 
 **Azure**
 
@@ -339,6 +342,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Microsoft 365 安全工具箱 DCToolbox [地址](https://github.com/DanielChronlund/DCToolbox) ![GitHub stars](https://img.shields.io/github/stars/DanielChronlund/DCToolbox)
 * 滥用 Microsoft 365 OAuth 授权流程进行网络钓鱼攻击的概念验证脚本 Microsoft365_devicePhish [地址](https://github.com/optiv/Microsoft365_devicePhish) ![GitHub stars](https://img.shields.io/github/stars/optiv/Microsoft365_devicePhish)
 * Azure AD 身份保护 Cookie 重放测试工具 [地址](https://github.com/jsa2/aadcookiespoof) ![GitHub stars](https://img.shields.io/github/stars/jsa2/aadcookiespoof)
+* 用于攻击 Azure Function 应用程序的 PowerShell 工具 FuncoPop [地址](https://github.com/NetSPI/FuncoPop) ![GitHub stars](https://img.shields.io/github/stars/NetSPI/FuncoPop)
 
 **GCP**
 
@@ -346,6 +350,10 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * GCP Bucket 枚举工具 GCPBucketBrute [地址](https://github.com/RhinoSecurityLabs/GCPBucketBrute) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/GCPBucketBrute)
 * GCP IAM 权限提升方法 GCP-IAM-Privilege-Escalation [地址](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation) `由「da Vinci【达文西】」师傅补充，感谢支持`
 * GCP Token 复用工具 [地址](https://github.com/RedTeamOperations/GCPTokenReuse) ![GitHub stars](https://img.shields.io/github/stars/RedTeamOperations/GCPTokenReuse)
+
+**Google Workspace**
+
+* Simple Workspace ATT&CK Tool - SWAT [地址](https://github.com/elastic/SWAT) ![GitHub stars](https://img.shields.io/github/stars/elastic/SWAT)
 
 **阿里云**
 
