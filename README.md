@@ -30,6 +30,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云风险百科（英文）[地址](https://orca.security/resources/cloud-risk-encyclopedia/)
 * 火线云安全知识库 [地址](https://cloudsec.huoxian.cn/)
 * 云安全文库（英文）[地址](https://cloudsecdocs.com)
+* Sysdig 2023 年全球云威胁报告（英文） [地址](https://sysdig.com/blog/2023-global-cloud-threat-report)
 * 云渗透笔记 CloudPentestCheatsheets（英文）[地址](https://github.com/dafthack/CloudPentestCheatsheets) ![GitHub stars](https://img.shields.io/github/stars/dafthack/CloudPentestCheatsheets) `由「Kfzz1」师傅补充，感谢支持`
 * AWS 攻击知识库 WeirdAAL (英文) [地址](https://github.com/carnal0wnage/weirdAAL) ![GitHub stars](https://img.shields.io/github/stars/carnal0wnage/weirdAAL)
 * T Wiki 云安全知识文库项目 [地址](https://github.com/teamssix/TWiki) ![GitHub stars](https://img.shields.io/github/stars/teamssix/TWiki) ` T Wiki 文库现已开源，可部署到自己本地方便内网阅读`
@@ -38,43 +39,42 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 ### 2 博客资讯
 
-* 火线安全每日云安全资讯 [地址](https://cloudsec.huoxian.cn/docs/information)
-* 腾讯云鼎每日云安全资讯 [地址](https://cloudsec.tencent.com/info/list.html)
-* TeamsSix 的个人博客 [地址](https://teamssix.com/)
+* 0xd4y 博客（英文）[地址](https://0xd4y.com/)
+* Aqua 博客（英文）[地址](https://blog.aquasec.com/)
+* AWS 安全公告（英文）[地址](https://aws.amazon.com/security/security-bulletins)
+* Bridgecrew 博客（英文）[地址](https://bridgecrew.io/blog/)
+* Christophe Tafani-Dereeper 博客（英文）[地址](https://blog.christophetd.fr/)
+* Chris Farris 的个人博客（英文）[地址](https://www.chrisfarris.com/)
+* CIS Benchmarks 下载页（英文）[地址](https://downloads.cisecurity.org)
+* CNCF 博客（英文）[地址](https://www.cncf.io/blog/)
+* Deepfence 博客（英文）[地址](https://deepfence.io/blog/)
+* DevOps 安全博客（英文）[地址](https://www.conjur.org/blog/)
+* DevOps 资讯（英文）[地址](https://devops.com/)
+* Ermetic 博客（英文）[地址](https://ermetic.com/blog)
+* Gafnit Amiga 的个人博客（英文）[地址](https://gafnit.blog/)
+* HashiCorp 博客（英文）[地址](https://www.hashicorp.com/blog)
+* Humanitec 博客（英文）[地址](https://humanitec.com/blog)
+* Lacework 博客（英文）[地址](https://www.lacework.com/blog/)
 * Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
+* Nick Frichette 的个人博客（英文）[地址](https://frichetten.com/)
+* Orca 博客（英文）[地址](https://orca.security/resources/blog/)
+* PeoplActive 博客（英文）[地址](https://peoplactive.com/blog/)
+* Praetorian 博客（英文）[地址](https://www.praetorian.com/blog)
+* Rhino Security Labs 博客（英文）[地址](https://rhinosecuritylabs.com/blog/?category=cloud-security)
 * Sysdig 云安全报告资讯（英文）[地址](https://sysdig.com/resources/reports/)
 * Sysdig 博客（英文）[地址](https://sysdig.com/blog/)
-* 容器杂志资讯（英文）[地址](https://containerjournal.com/)
-* DevOps 安全博客（英文）[地址](https://www.conjur.org/blog/)
-* Aqua 博客（英文）[地址](https://blog.aquasec.com/)
-* Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
-* CNCF 博客（英文）[地址](https://www.cncf.io/blog/)
-* WIZ 博客（英文）[地址](https://www.wiz.io/blog/)
-* Rhino Security Labs 博客（英文）[地址](https://rhinosecuritylabs.com/blog/?category=cloud-security)
-* Bridgecrew 博客（英文）[地址](https://bridgecrew.io/blog/)
+* TeamsSix 的个人博客 [地址](https://teamssix.com/)
 * Trend Micro 博客（英文）[地址](https://www.trendmicro.com/en_us/devops.html)
+* WIZ 博客（英文）[地址](https://www.wiz.io/blog/)
 * 安全大道资讯（英文）[地址](https://securityboulevard.com/cloud-security/)
-* Deepfence 博客（英文）[地址](https://deepfence.io/blog/)
-* Lacework 博客（英文）[地址](https://www.lacework.com/blog/)
-* Humanitec 博客（英文）[地址](https://humanitec.com/blog)
-* Orca 博客（英文）[地址](https://orca.security/resources/blog/)
-* Praetorian 博客（英文）[地址](https://www.praetorian.com/blog)
-* Ermetic 博客（英文）[地址](https://ermetic.com/blog)
-* Christophe Tafani-Dereeper 博客（英文）[地址](https://blog.christophetd.fr/)
 * 福布斯 Cloud 100（英文）[地址](https://forbes.com/lists/cloud100/)
-* Gafnit Amiga 的个人博客（英文）[地址](https://gafnit.blog/)
-* Nick Frichette 的个人博客（英文）[地址](https://frichetten.com/)
-* Chris Farris 的个人博客（英文）[地址](https://www.chrisfarris.com/)
-* HashiCorp 博客（英文）[地址](https://www.hashicorp.com/blog)
-* PeoplActive 博客（英文）[地址](https://peoplactive.com/blog/)
+* 火线安全每日云安全资讯 [地址](https://cloudsec.huoxian.cn/docs/information)
 * 绿盟技术博客 [地址](http://blog.nsfocus.net/tag/%e4%ba%91%e5%ae%89%e5%85%a8/)
-* devops 资讯（英文）[地址](https://devops.com/)
-* 0xd4y 博客（英文）[地址](https://0xd4y.com/)
-* AWS 安全公告（英文）[地址](https://aws.amazon.com/security/security-bulletins)
-* CIS Benchmarks 下载页（英文）[地址](https://downloads.cisecurity.org)
+* 容器杂志资讯（英文）[地址](https://containerjournal.com/)
+* 腾讯云鼎每日云安全资讯 [地址](https://cloudsec.tencent.com/info/list.html)
 * 云安全资讯（每周更新一次）（英文）[地址](https://cloudseclist.com/past-issues)
-* 云原生实验室博客 [地址](https://icloudnative.io) `由「DVKunion」师傅补充，感谢支持`
 * 云计算市场资讯（英文）[地址](https://interconnected.blog/tag/cloud-industry)
+* 云原生实验室博客 [地址](https://icloudnative.io) `由「DVKunion」师傅补充，感谢支持`
 
 ### 3 公众号
 
@@ -94,7 +94,6 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 ### 4 推特
 
-* TeamsSix [![Twitter Follow](https://img.shields.io/twitter/follow/teamssix)](https://twitter.com/teamssix)
 * 0xd4y [![Twitter Follow](https://img.shields.io/twitter/follow/0xd4y)](https://twitter.com/0xd4y)
 * Andy Robbins [![Twitter Follow](https://img.shields.io/twitter/follow/_wald0)](https://twitter.com/_wald0)
 * Beau Bullock [![Twitter Follow](https://img.shields.io/twitter/follow/dafthack)](https://twitter.com/dafthack)
@@ -128,9 +127,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Sean Metcalf [![Twitter Follow](https://img.shields.io/twitter/follow/PyroTek3)](https://twitter.com/PyroTek3)
 * Seth Art [![Twitter Follow](https://img.shields.io/twitter/follow/sethsec)](https://twitter.com/sethsec)
 * Shir Tamari [![Twitter Follow](https://img.shields.io/twitter/follow/shirtamari)](https://twitter.com/shirtamari)
+* Simon Décosse [![Twitter Follow](https://img.shields.io/twitter/follow/simondotsh)](https://twitter.com/simondotsh)
 * Skyworship [![Twitter Follow](https://img.shields.io/twitter/follow/Skyworship2)](https://twitter.com/Skyworship2)
 * Thomas Naunheim [![Twitter Follow](https://img.shields.io/twitter/follow/Thomas_Live)](https://twitter.com/Thomas_Live)
-* Simon Décosse [![Twitter Follow](https://img.shields.io/twitter/follow/simondotsh)](https://twitter.com/simondotsh)
 
 ### 5 书籍
 
@@ -140,10 +139,10 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 ### 6 视频
 
-* 火线云安全沙龙视频 [地址](https://space.bilibili.com/503330419)
-* CNCF 频道（英文）[地址](https://youtube.com/@cncf)
 * 0xd4y 频道（英文）[地址](https://www.youtube.com/@0xd4y)
+* CNCF 频道（英文）[地址](https://youtube.com/@cncf)
 * WIZ 频道（英文）[地址](https://www.youtube.com/@wizsecurity)
+* 火线云安全沙龙视频 [地址](https://space.bilibili.com/503330419)
 
 ### 7 证书
 
@@ -162,73 +161,110 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 ### 8 云服务文章
 
-* AWS S3 对象存储攻防 :fire: [地址](https://zone.huoxian.cn/d/907-aws-s3)
-* AWS EC2 弹性计算服务攻防 [地址](https://zone.huoxian.cn/d/1022-aws-ec2)
-* 阿里云 OSS 对象存储攻防 :fire: [地址](https://zone.huoxian.cn/d/918-oss)
-* 阿里云 ECS 攻防 [地址](https://zone.huoxian.cn/d/1064-ecs)
-* 腾讯云 COS 对象存储攻防 [地址](https://zone.huoxian.cn/d/949-cos)
-* 腾讯云服务器攻防（CVM+轻量应用服务器）[地址](https://zone.huoxian.cn/d/1028-cvm)
-* 华为云 OBS 对象存储攻防 [地址](https://zone.huoxian.cn/d/962-obs)
-* 华为云 ECS 弹性云服务器攻防 [地址](https://zone.huoxian.cn/d/1074-ecs)
-* 谷歌云 对象存储攻防 [地址](https://zone.huoxian.cn/d/931)
-* 谷歌云 Compute Engine 攻防 [地址](https://zone.huoxian.cn/d/1043-compute-engine)
-* 微软云 对象存储攻防 [地址](https://zone.huoxian.cn/d/940)
-* 微软云 VM 攻防 [地址](https://zone.huoxian.cn/d/1083-vm)
-* 浅谈云上攻防——云服务器攻防矩阵 :fire: [地址](https://cloud.tencent.com/developer/article/1931560)
-* 针对 AWS Lambda 的运行时攻击 [地址](https://mp.weixin.qq.com/s/duF1Z0EDC3n_G378Aq_XYA)
+**综合**
+
+* 浅谈云上攻防——云服务器攻防矩阵 [地址](https://cloud.tencent.com/developer/article/1931560)
 * 浅谈云上攻防——对象存储服务访问策略评估机制研究 [地址](https://mp.weixin.qq.com/s/ncWGrMsIAvh9HEK1QC5IGQ)
 * 红队视角下的公有云基础组件安全 [地址](https://mp.weixin.qq.com/s/r0DuASP6gH_48b5sJ1DCTw)
 * 红队视角下的公有云基础组件安全（二）[地址](https://mp.weixin.qq.com/s/lL32lywlrnuyhJkQk5NAEw)
-* 利用 AWS RDS 读取实例凭证（英文）[地址](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
-* 利用 AWS RDS 读取实例凭证（中文翻译）[地址](https://zone.huoxian.cn/d/1141-aws-rdsaws)
-* 风险最高的 10 种 AWS 配置错误 [地址](https://mp.weixin.qq.com/s/quIpapbkFNay0JtUK4wODQ)
 * 公有云 IP 重用的威胁和防御方法分析 Paper（英文）[地址](https://arxiv.org/pdf/2204.05122.pdf)
-* 华为云 CTF cloud 非预期解之 k8s 渗透实战 [地址](https://annevi.cn/2020/12/21/%E5%8D%8E%E4%B8%BA%E4%BA%91ctf-cloud%E9%9D%9E%E9%A2%84%E6%9C%9F%E8%A7%A3%E4%B9%8Bk8s%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98/)
 * 企业迁移到公有云之前要问的5个问题 [地址](http://www.d1net.com/cloud/news/574569.html)
-* 在 AWS 下查看自己所拥有的权限 [地址](https://wiki.teamssix.com/CloudService/IAM/list-attached-user-policies.html)
 * 云上攻防：RED TEAMING FOR CLOUD [地址](http://avfisher.win/archives/1175)
 * 云上攻防二三事（续）[地址](http://avfisher.win/archives/1331)
-* 从云服务器 SSRF 漏洞到接管你的阿里云控制台 [地址](https://wiki.teamssix.com/CloudService/EC2/aliyun-console-takeover.html)
-* 我用 CF 打穿了他的云上内网 :fire: [地址](https://zone.huoxian.cn/d/1341-cf)
-* Google Cloud Shell 命令注入（英文）[地址](https://bugra.ninja/posts/cloudshell-command-injection)
 * 云计算隔离问题：PostgreSQL 的漏洞影响到多个云计算供应商（英文）[地址](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities)
-* 记录一次平平无奇的云上攻防过程 [地址](https://zone.huoxian.cn/d/2557)
-* Azure Cloud Shell 命令注入窃取用户的访问令牌（英文）[地址](https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens)
-* 一次简单的"云"上野战记录 [地址](https://mp.weixin.qq.com/s/wi8CoNwdpfJa6eMP4t1PCQ)
-* AWS 枚举（第一部分）（英文）[地址](https://securitycafe.ro/2022/11/01/aws-enumeration-part-1/)
-* GCP 渗透测试笔记（英文）[地址](https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/)
 * 常规云服务业务侧攻防视角研究 [地址](https://mp.weixin.qq.com/s/2yaQ_W5K7BfmycMO2UcXJg)
-* 记一次打穿云上内网的攻防实战 [地址](https://zone.huoxian.cn/d/2766)
-* 当 0day 和访问密钥在云上被结合利用时：应对 SugarCRM 0day 漏洞 (英文) [地址](https://unit42.paloaltonetworks.com/sugarcrm-cloud-incident-black-hat/)
-* AWS 权限提升（英文）[地址](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径（英文） [地址](https://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
 
+**AWS**
+
+* AWS S3 对象存储攻防 [地址](https://zone.huoxian.cn/d/907-aws-s3)
+* AWS EC2 弹性计算服务攻防 [地址](https://zone.huoxian.cn/d/1022-aws-ec2)
+* 针对 AWS Lambda 的运行时攻击 [地址](https://mp.weixin.qq.com/s/duF1Z0EDC3n_G378Aq_XYA)
+* 利用 AWS RDS 读取实例凭证（英文）[地址](https://blog.lightspin.io/aws-rds-critical-security-vulnerability)
+* 利用 AWS RDS 读取实例凭证（中文翻译）[地址](https://zone.huoxian.cn/d/1141-aws-rdsaws)
+* 风险最高的 10 种 AWS 配置错误 [地址](https://mp.weixin.qq.com/s/quIpapbkFNay0JtUK4wODQ)
+* 在 AWS 下查看自己所拥有的权限 [地址](https://wiki.teamssix.com/CloudService/IAM/list-attached-user-policies.html)
+* AWS 枚举（第一部分）（英文）[地址](https://securitycafe.ro/2022/11/01/aws-enumeration-part-1/)
+* 当 0day 和访问密钥在云上被结合利用时：应对 SugarCRM 0day 漏洞 (英文) [地址](https://unit42.paloaltonetworks.com/sugarcrm-cloud-incident-black-hat/)
+* 利用 AWS 官方对 log4j 漏洞的热补丁实现容器逃逸（英文）[地址](https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/)
+* AWS 权限提升（英文）[地址](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation)
+
+**Azure**
+
+* 微软云 对象存储攻防 [地址](https://zone.huoxian.cn/d/940)
+* 微软云 VM 攻防 [地址](https://zone.huoxian.cn/d/1083-vm)
+* Azure Cloud Shell 命令注入窃取用户的访问令牌（英文）[地址](https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens)
+
+**GCP**
+
+* 谷歌云 对象存储攻防 [地址](https://zone.huoxian.cn/d/931)
+* 谷歌云 Compute Engine 攻防 [地址](https://zone.huoxian.cn/d/1043-compute-engine)
+* Google Cloud Shell 命令注入（英文）[地址](https://bugra.ninja/posts/cloudshell-command-injection)
+* GCP 渗透测试笔记（英文）[地址](https://0xd4y.com/2022/10/01/GCP-Penetration-Testing-Notes/)
+
+**阿里云**
+
+* 阿里云 OSS 对象存储攻防 [地址](https://zone.huoxian.cn/d/918-oss)
+* 阿里云 ECS 攻防 [地址](https://zone.huoxian.cn/d/1064-ecs)
+* 从云服务器 SSRF 漏洞到接管你的阿里云控制台 [地址](https://wiki.teamssix.com/CloudService/EC2/aliyun-console-takeover.html)
+* 我用 CF 打穿了他的云上内网 [地址](https://zone.huoxian.cn/d/1341-cf)
+* 记录一次平平无奇的云上攻防过程 [地址](https://zone.huoxian.cn/d/2557)
+* 一次简单的"云"上野战记录 [地址](https://mp.weixin.qq.com/s/wi8CoNwdpfJa6eMP4t1PCQ)
+* 记一次打穿云上内网的攻防实战 [地址](https://zone.huoxian.cn/d/2766)
+
+**腾讯云**
+
+* 腾讯云 COS 对象存储攻防 [地址](https://zone.huoxian.cn/d/949-cos)
+* 腾讯云服务器攻防（CVM+轻量应用服务器）[地址](https://zone.huoxian.cn/d/1028-cvm)
+
+**华为云**
+
+* 华为云 OBS 对象存储攻防 [地址](https://zone.huoxian.cn/d/962-obs)
+* 华为云 ECS 弹性云服务器攻防 [地址](https://zone.huoxian.cn/d/1074-ecs)
+* 华为云 CTF cloud 非预期解之 k8s 渗透实战 [地址](https://annevi.cn/2020/12/21/%E5%8D%8E%E4%B8%BA%E4%BA%91ctf-cloud%E9%9D%9E%E9%A2%84%E6%9C%9F%E8%A7%A3%E4%B9%8Bk8s%E6%B8%97%E9%80%8F%E5%AE%9E%E6%88%98/)
+
 ### 9 云原生文章
 
-* 特权模式下 Docker 逃逸手法总结 :fire: [地址](https://zone.huoxian.cn/d/1071-docker)
-* 容器逃逸方法检测指北（附检测脚本）[地址](https://zone.huoxian.cn/d/990)
-* Terraform 中文教程 :fire: [地址](https://lonegunmanb.github.io/introduction-terraform/)
-* 利用 gateway-api，我支配了 kubernetes [地址](https://mp.weixin.qq.com/s/Y4F72s0JSyvjLBN3iNyUZg)
+**综合**
+
 * 红蓝对抗中的云原生漏洞挖掘及利用实录 [地址](https://security.tencent.com/index.php/blog/msg/183)
-* 利用 AWS 官方对 log4j 漏洞的热补丁实现容器逃逸（英文）[地址](https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/)
 * CIS 基准检测手册（英文） [地址](https://www.cisecurity.org/benchmark/kubernetes) `由「zhengjim」师傅补充，感谢支持`
-* Docker 核心技术与实现原理 [地址](https://draveness.me/docker/)  `由「zxynull」师傅补充，感谢支持`
 * 浅谈 Linux Cgroup 机制 [地址](https://zhuanlan.zhihu.com/p/81668069)  `由「zxynull」师傅补充，感谢支持`
-* 使用 eBPF 逃逸容器技术分析与实践 [地址 ](https://security.tencent.com/index.php/blog/msg/206) `由「zxynull」师傅补充，感谢支持`
-* 内核态 eBPF 程序实现容器逃逸与隐藏账号rootkit [地址 ](https://www.cnxct.com/container-escape-in-linux-kernel-space-by-ebpf/?f=wb&continueFlag=0ba98c50fdecece390192b7dd4adf11d) `由「zxynull」师傅补充，感谢支持`
-* 基于 eBPF 实现容器运行时安全 [地址](https://www.ebpf.top/post/ebpf_container_security/)  `由「zxynull」师傅补充，感谢支持`
-* 浅析 k8s 各种未授权攻击方法 [地址](https://zone.huoxian.cn/d/1153-k8s)
-* APISIX CVE-2022-29266 漏洞分析与复现 [地址](https://mp.weixin.qq.com/s/Un-9y_UhWDw9svHKb-JQVQ)
 * 保障云和容器安全的十个注意事项（英文）[地址](https://sysdig.com/blog/considerations-securing-cloud-containers/)
 * CNCF 云原生安全白皮书 v2 [地址](https://github.com/cncf/tag-security/tree/main/security-whitepaper/v2)
-* 初探 eBPF [地址](https://mp.weixin.qq.com/s/GvWKY4M5YvorC4JF2ztUvQ)
-* Terraform 使用入门以及在云上攻防中的作用 [地址](https://wiki.teamssix.com/CloudNative/Terraform/terraform-introductory.html)
+* awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
+
+**Docker**
+
+* 特权模式下 Docker 逃逸手法总结 [地址](https://zone.huoxian.cn/d/1071-docker)
+* 容器逃逸方法检测指北（附检测脚本）[地址](https://zone.huoxian.cn/d/990)
+* Docker 核心技术与实现原理 [地址](https://draveness.me/docker/)  `由「zxynull」师傅补充，感谢支持`
+* 容器安全清单 container-security-checklist [地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
+
+**Kubernetes**
+
+* 利用 gateway-api，我支配了 kubernetes [地址](https://mp.weixin.qq.com/s/Y4F72s0JSyvjLBN3iNyUZg)
+* 浅析 k8s 各种未授权攻击方法 [地址](https://zone.huoxian.cn/d/1153-k8s)
 * 云原生之 Kubernetes 安全 [地址](https://forum.butian.net/share/1095)
 * RCE 进入内网接管 K8s 并逃逸进 xx 网 [地址](https://mp.weixin.qq.com/s/UvjKHaVzhluc22trF46uBA)
 * 从零开始的 Kubernetes 攻防 [地址](https://github.com/neargle/my-re0-k8s-security) ![GitHub stars](https://img.shields.io/github/stars/neargle/my-re0-k8s-security)
-* 容器安全清单 container-security-checklist [地址](https://github.com/krol3/container-security-checklist) ![GitHub stars](https://img.shields.io/github/stars/krol3/container-security-checklist) `由「zxynull」师傅补充，感谢支持`
-* awesome-cloud-native-security from Metarget [地址](https://github.com/Metarget/awesome-cloud-native-security) ![GitHub stars](https://img.shields.io/github/stars/Metarget/awesome-cloud-native-security)
+
+**eBPF**
+
+* 使用 eBPF 逃逸容器技术分析与实践 [地址 ](https://security.tencent.com/index.php/blog/msg/206) `由「zxynull」师傅补充，感谢支持`
+* 内核态 eBPF 程序实现容器逃逸与隐藏账号rootkit [地址 ](https://www.cnxct.com/container-escape-in-linux-kernel-space-by-ebpf/?f=wb&continueFlag=0ba98c50fdecece390192b7dd4adf11d) `由「zxynull」师傅补充，感谢支持`
+* 基于 eBPF 实现容器运行时安全 [地址](https://www.ebpf.top/post/ebpf_container_security/)  `由「zxynull」师傅补充，感谢支持`
+* 初探 eBPF [地址](https://mp.weixin.qq.com/s/GvWKY4M5YvorC4JF2ztUvQ)
+
+**Terraform**
+
+* Terraform 中文教程 [地址](https://lonegunmanb.github.io/introduction-terraform/)
+* Terraform 使用入门以及在云上攻防中的作用 [地址](https://wiki.teamssix.com/CloudNative/Terraform/terraform-introductory.html)
+
+**APISIX**
+
+* APISIX CVE-2022-29266 漏洞分析与复现 [地址](https://mp.weixin.qq.com/s/Un-9y_UhWDw9svHKb-JQVQ)
 
 
 ## 0x02 工具 :hammer_and_wrench:
@@ -237,14 +273,16 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 #### 辅助工具
 
-**多云**
+<br>
+
+**综合**
 
 * 在线搜索目标网站下的云资产 recon.cloud [地址](https://recon.cloud/)
 * 在线多云管理平台 行云管家 [地址](https://www.cloudbility.com/) `由「半人间丶」师傅补充，感谢支持`
 * AK 等敏感信息查找工具 trufflehog [地址](https://github.com/trufflesecurity/trufflehog) ![GitHub stars](https://img.shields.io/github/stars/trufflesecurity/trufflehog)
 * 多云基线扫描工具 ScoutSuite [地址](https://github.com/nccgroup/ScoutSuite) ![GitHub stars](https://img.shields.io/github/stars/nccgroup/ScoutSuite)
-* 基础设施关系绘制工具 Cartography [地址](https://github.com/lyft/cartography) ![GitHub stars](https://img.shields.io/github/stars/lyft/cartography)
 * 云安全态势管理工具 CloudSploit [地址](https://github.com/aquasecurity/cloudsploit) ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/cloudsploit) `由「da Vinci【达文西】」师傅补充，感谢支持`
+* 基础设施关系绘制工具 Cartography [地址](https://github.com/lyft/cartography) ![GitHub stars](https://img.shields.io/github/stars/lyft/cartography)
 * 多云对象存储管理工具 qiniuClient [地址](https://github.com/willnewii/qiniuClient) ![GitHub stars](https://img.shields.io/github/stars/willnewii/qiniuClient) `由「半人间丶」师傅补充，感谢支持`
 * 云渗透信息收集工具 cloudfox [地址](https://github.com/BishopFox/cloudfox) ![GitHub stars](https://img.shields.io/github/stars/BishopFox/cloudfox)
 * 云服务资源枚举工具 cloud_enum [地址](https://github.com/initstring/cloud_enum) ![GitHub stars](https://img.shields.io/github/stars/initstring/cloud_enum)
@@ -270,8 +308,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * AWS IAM 权限枚举工具 enumerate-iam [地址](https://github.com/andresriancho/enumerate-iam)  ![GitHub stars](https://img.shields.io/github/stars/andresriancho/enumerate-iam)
 * S3 公开存储桶密钥扫描工具 S3cret Scanner [地址](https://github.com/Eilonh/s3crets_scanner) ![GitHub stars](https://img.shields.io/github/stars/Eilonh/s3crets_scanner)
 * AWS 常见配置错误审计工具 YATAS [地址](https://github.com/padok-team/yatas) ![GitHub stars](https://img.shields.io/github/stars/padok-team/yatas)
-* Route53/CloudFront 漏洞评估工具 [地址](https://github.com/prevade/cloudjack) ![GitHub stars](https://img.shields.io/github/stars/prevade/cloudjack)
 * 检测多云环境中存在 dangling DNS 记录的工具 findmytakeover [地址](https://github.com/anirudhbiyani/findmytakeover) ![GitHub stars](https://img.shields.io/github/stars/anirudhbiyani/findmytakeover)
+* Route53/CloudFront 漏洞评估工具 [地址](https://github.com/prevade/cloudjack) ![GitHub stars](https://img.shields.io/github/stars/prevade/cloudjack)
 * CloudTrail 日志分析 IAM 权限工具 Cloudtrail2IAM [地址](https://github.com/carlospolop/Cloudtrail2IAM) ![GitHub stars](https://img.shields.io/github/stars/carlospolop/Cloudtrail2IAM)
 
 **Azure**
@@ -314,8 +352,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 * 青云官方 CLI 工具 [地址](https://docsv4.qingcloud.com/user_guide/development_docs/cli/install/install) `由 「苏打养乐多」师傅补充，感谢支持`
 
-
 #### 利用工具
+
+<br>
 
 **多云**
 
@@ -328,16 +367,16 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * AWS Lambda 密码喷洒工具 CredKing [地址](https://github.com/ustayready/CredKing) ![GitHub stars](https://img.shields.io/github/stars/ustayready/CredKing)
 * AWS AccessKey 泄漏利用工具 awsKeyTools [地址](https://github.com/Aabyss-Team/awsKeyTools)  ![GitHub stars](https://img.shields.io/github/stars/Aabyss-Team/awsKeyTools) `由「1derian」和「ShangRui-hash」师傅联合补充，感谢支持`
 * AWS 渗透测试工具 Endgame [地址](https://github.com/DavidDikker/endgame) ![GitHub stars](https://img.shields.io/github/stars/DavidDikker/endgame)
-* AWS 红队利用脚本 Redboto [地址](https://github.com/ihamburglar/Redboto) ![GitHub stars](https://img.shields.io/github/stars/ihamburglar/Redboto)
 * AWS 控制台接管利用工具 aws_consoler [地址](https://github.com/NetSPI/aws_consoler) ![GitHub stars](https://img.shields.io/github/stars/NetSPI/aws_consoler)
+* AWS 红队利用脚本 Redboto [地址](https://github.com/ihamburglar/Redboto) ![GitHub stars](https://img.shields.io/github/stars/ihamburglar/Redboto)
 * AWS 域控卷影拷贝工具 CloudCopy [地址](https://github.com/Static-Flow/CloudCopy) ![GitHub stars](https://img.shields.io/github/stars/Static-Flow/CloudCopy)
 
 **Azure**
 
 * Azure 安全评估 PowerShell 工具包 MicroBurst [地址](https://github.com/NetSPI/MicroBurst) ![GitHub stars](https://img.shields.io/github/stars/NetSPI/MicroBurst)
-* Azure AD 利用工具集 ROADtools [地址](https://github.com/dirkjanm/ROADtools) ![GitHub stars](https://img.shields.io/github/stars/dirkjanm/ROADtools)
 * Azure 红队利用工具 Stormspotter [地址](https://github.com/Azure/Stormspotter) ![GitHub stars](https://img.shields.io/github/stars/Azure/Stormspotter) `由「da Vinci【达文西】」师傅补充，感谢支持`
-* 枚举、喷洒、渗透 O365 AAD 账户工具 TeamFiltration [地址](https://github.com/Flangvik/TeamFiltration) ![GitHub stars](https://img.shields.io/github/stars/Flangvik/TeamFiltration)
+* Azure AD 利用工具集 ROADtools [地址](https://github.com/dirkjanm/ROADtools) ![GitHub stars](https://img.shields.io/github/stars/dirkjanm/ROADtools)
+* 枚举、喷洒、渗透 O365 AAD 帐户工具 TeamFiltration [地址](https://github.com/Flangvik/TeamFiltration) ![GitHub stars](https://img.shields.io/github/stars/Flangvik/TeamFiltration)
 * Azure JWT 令牌操作工具集 TokenTactics [地址](https://github.com/rvrsh3ll/TokenTactics) ![GitHub stars](https://img.shields.io/github/stars/rvrsh3ll/TokenTactics)
 * Microsoft 365 安全工具箱 DCToolbox [地址](https://github.com/DanielChronlund/DCToolbox) ![GitHub stars](https://img.shields.io/github/stars/DanielChronlund/DCToolbox)
 * 滥用 Microsoft 365 OAuth 授权流程进行网络钓鱼攻击的概念验证脚本 Microsoft365_devicePhish [地址](https://github.com/optiv/Microsoft365_devicePhish) ![GitHub stars](https://img.shields.io/github/stars/optiv/Microsoft365_devicePhish)
@@ -370,27 +409,40 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 #### 辅助工具
 
+<br>
+
+**综合**
+
+* 开源的云原生安全平台 HummerRisk [地址](https://github.com/HummerRisk/HummerRisk) ![GitHub stars](https://img.shields.io/github/stars/HummerRisk/HummerRisk) `由「Ma1tobiose」师傅补充，感谢支持`
+* 开源云原生安全防护平台 neuvector [地址](https://github.com/neuvector/neuvector) ![GitHub stars](https://img.shields.io/github/stars/neuvector/neuvector) `由「Idle Life」师傅补充，感谢支持`
+
+**Docker**
+
 * 一个支持在线分析容器镜像的网站 contains [地址](https://contains.dev/) `由「zxynull」师傅补充，感谢支持`
 * 容器镜像分析工具 DIVE [地址](https://github.com/wagoodman/dive) ![GitHub stars](https://img.shields.io/github/stars/wagoodman/dive) `由「zxynull」师傅补充，感谢支持`
-* 基于终端 UI 的 k8s 集群管理工具 k9s [地址](https://github.com/derailed/k9s) ![GitHub stars](https://img.shields.io/github/stars/derailed/k9s)
 * 镜像扫描工具 trivy [地址](https://github.com/aquasecurity/trivy) ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/trivy) `由「zxynull」师傅补充，感谢支持`
 * 容器镜像漏洞静态扫描工具 Clair [地址](https://github.com/quay/clair) ![GitHub stars](https://img.shields.io/github/stars/quay/clair) `由「zxynull」师傅补充，感谢支持`
 * 检查生产环境中部署容器的最佳实践 Docker_Bench_Security [地址](https://github.com/docker/docker-bench-security) ![GitHub stars](https://img.shields.io/github/stars/docker/docker-bench-security) `由「zxynull」师傅补充，感谢支持`
 * 原生支持容器的系统可见性工具 sysdig [地址](https://github.com/draios/sysdig) ![GitHub stars](https://img.shields.io/github/stars/draios/sysdig) `由「zxynull」师傅补充，感谢支持`
+* Docker 镜像扫描工具 Anchore [地址](https://github.com/anchore/syft/) ![GitHub stars](https://img.shields.io/github/stars/anchore/syft) `由「zxynull」师傅补充，感谢支持`
+* Docker 静态分析工具 Dagda [地址](https://github.com/eliasgranderubio/dagda/) ![GitHub stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) `由「zxynull」师傅补充，感谢支持`
+* 容器逃逸检测工具 container-escape-check [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check)
+
+**Kubernetes**
+
+* 基于终端 UI 的 k8s 集群管理工具 k9s [地址](https://github.com/derailed/k9s) ![GitHub stars](https://img.shields.io/github/stars/derailed/k9s)
 * k8s 异常活动检测工具 Falco [地址](https://github.com/falcosecurity/falco) ![GitHub stars](https://img.shields.io/github/stars/falcosecurity/falco) `由「zxynull」师傅补充，感谢支持`
 * CIS 基准检测工具 kube bench [地址](https://github.com/aquasecurity/kube-bench)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-bench) `由「zhengjim」师傅补充，感谢支持`
-* Docker 镜像扫描工具 Anchore [地址](https://github.com/anchore/syft/) ![GitHub stars](https://img.shields.io/github/stars/anchore/syft) `由「zxynull」师傅补充，感谢支持`
 * k8s 集群安全漏洞发现工具 kube hunter [地址](https://github.com/aquasecurity/kube-hunter)  ![GitHub stars](https://img.shields.io/github/stars/aquasecurity/kube-hunter) `由「zhengjim」师傅补充，感谢支持`
-* 开源的云原生安全平台 HummerRisk [地址](https://github.com/HummerRisk/HummerRisk) ![GitHub stars](https://img.shields.io/github/stars/HummerRisk/HummerRisk) `由「Ma1tobiose」师傅补充，感谢支持`
 * k8s 集群风险权限扫描工具 KubiScan [地址](https://github.com/cyberark/KubiScan) ![GitHub stars](https://img.shields.io/github/stars/cyberark/KubiScan) `由「UzJu」师傅补充，感谢支持`
-* Docker 静态分析工具 Dagda [地址](https://github.com/eliasgranderubio/dagda/) ![GitHub stars](https://img.shields.io/github/stars/eliasgranderubio/dagda) `由「zxynull」师傅补充，感谢支持`
 * k8s 安全风险检测工具 StackRox [地址](https://github.com/stackrox/stackrox) [工具介绍](https://www.stackrox.io/blog/open-source-stackrox-is-now-available/) ![GitHub stars](https://img.shields.io/github/stars/stackrox/stackrox) `由「m4d3bug」师傅补充，感谢支持`
 * k8s 安全审计工具 kubestriker [地址](https://github.com/vchinnipilli/kubestriker) ![GitHub stars](https://img.shields.io/github/stars/vchinnipilli/kubestriker) `由「zhengjim」师傅补充，感谢支持`
 * 基于 kubectl 的红队 k8s 安全评估工具 red kube [地址](https://github.com/lightspin-tech/red-kube) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/red-kube) `由「zhengjim」师傅补充，感谢支持`
-* 开源云原生安全防护平台 neuvector [地址](https://github.com/neuvector/neuvector) ![GitHub stars](https://img.shields.io/github/stars/neuvector/neuvector) `由「Idle Life」师傅补充，感谢支持`
 * k8s 调试辅助工具 validkube [地址](https://github.com/komodorio/validkube) ![GitHub stars](https://img.shields.io/github/stars/komodorio/validkube)
+
+**Terraform**
+
 * Terraform 可视化 [地址](https://github.com/hieven/terraform-visual) ![GitHub stars](https://img.shields.io/github/stars/hieven/terraform-visual)
-* 容器逃逸检测工具 container-escape-check [地址](https://github.com/teamssix/container-escape-check) ![GitHub stars](https://img.shields.io/github/stars/teamssix/container-escape-check)
 
 
 #### 利用工具
