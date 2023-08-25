@@ -56,6 +56,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Humanitec 博客（英文）[地址](https://humanitec.com/blog)
 * Lacework 博客（英文）[地址](https://www.lacework.com/blog/)
 * Lightspin 博客（英文）[地址](https://blog.lightspin.io/)
+* Mystic0x1 博客（英文）[地址](https://mystic0x1.github.io/)
 * Nick Frichette 的个人博客（英文）[地址](https://frichetten.com/)
 * Orca 博客（英文）[地址](https://orca.security/resources/blog/)
 * PeoplActive 博客（英文）[地址](https://peoplactive.com/blog/)
@@ -103,6 +104,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Dr. Nestori Syynimaa [![Twitter Follow](https://img.shields.io/twitter/follow/DrAzureAD)](https://twitter.com/DrAzureAD)
 * Emilien Socchi [![Twitter Follow](https://img.shields.io/twitter/follow/emiliensocchi)](https://twitter.com/emiliensocchi)
 * Fabian Bader [![Twitter Follow](https://img.shields.io/twitter/follow/fabian_bader)](https://twitter.com/fabian_bader)
+* Fawaz [![Twitter Follow](https://img.shields.io/twitter/follow/0xFawaz)](https://twitter.com/0xFawaz)
 * gafnit [![Twitter Follow](https://img.shields.io/twitter/follow/gafnitav)](https://twitter.com/gafnitav)
 * inversecosᵘʷᵘ [![Twitter Follow](https://img.shields.io/twitter/follow/inversecos)](https://twitter.com/inversecos)
 * Jason Ostrom [![Twitter Follow](https://img.shields.io/twitter/follow/securitypuck)](https://twitter.com/securitypuck)
@@ -118,6 +120,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * Nick Frichette [![Twitter Follow](https://img.shields.io/twitter/follow/Frichette_n)](https://twitter.com/Frichette_n)
 * Nikhil Mittal [![Twitter Follow](https://img.shields.io/twitter/follow/nikhil_mitt)](https://twitter.com/nikhil_mitt)
 * Nir Ohfeld [![Twitter Follow](https://img.shields.io/twitter/follow/nirohfeld)](https://twitter.com/nirohfeld)
+* Raunak Parmar [![Twitter Follow](https://img.shields.io/twitter/follow/trouble1_raunak)](https://twitter.com/trouble1_raunak)
 * Rhino Security Labs [![Twitter Follow](https://img.shields.io/twitter/follow/RhinoSecurity)](https://twitter.com/RhinoSecurity)
 * Roberto Rodriguez [![Twitter Follow](https://img.shields.io/twitter/follow/Cyb3rWard0g)](https://twitter.com/Cyb3rWard0g)
 * rootsecdev [![Twitter Follow](https://img.shields.io/twitter/follow/rootsecdev)](https://twitter.com/rootsecdev)
@@ -188,6 +191,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * AWS 枚举（第一部分）（英文）[地址](https://securitycafe.ro/2022/11/01/aws-enumeration-part-1/)
 * 当 0day 和访问密钥在云上被结合利用时：应对 SugarCRM 0day 漏洞 (英文) [地址](https://unit42.paloaltonetworks.com/sugarcrm-cloud-incident-black-hat/)
 * 利用 AWS 官方对 log4j 漏洞的热补丁实现容器逃逸（英文）[地址](https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/)
+* AWS 创建后门的几种方法（英文）[地址](https://mystic0x1.github.io/posts/methods-to-backdoor-an-aws-account)
 * AWS 权限提升（英文）[地址](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation)
 
 **Azure**
@@ -359,6 +363,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 **多云**
 
 * 阿里云/腾讯云 AK 资源管理工具 [地址](https://github.com/wyzxxz/aksk_tool) ![Github stars](https://img.shields.io/github/stars/wyzxxz/aksk_tool) `由「Esonhugh」师傅补充，感谢支持`
+* 支持 GUI 的 AWS、GCP 利用工具 Vajra [地址](https://github.com/TROUBLE-1/Vajra) ![Github stars](https://img.shields.io/github/stars/TROUBLE-1/Vajra) `由「Kfzz1」师傅补充，感谢支持`
 
 **AWS**
 
@@ -455,16 +460,23 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 ## 0x03 靶场 :dart:
 
+### 云服务靶场
+
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
 * 在线免费的 AWS 渗透测试靶场 Free AWS Security Labs [地址](https://pentesting.cloud/) `由「cr」师傅补充，感谢支持`
-* k8s 靶场部署工具 Kubernetes Goat [地址](https://github.com/madhuakula/kubernetes-goat) ![GitHub stars](https://img.shields.io/github/stars/madhuakula/kubernetes-goat) `由「UzJu」师傅补充，感谢支持`
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
-* CI/CD 靶场部署工具 [地址](https://github.com/cider-security-research/cicd-goat) ![GitHub stars](https://img.shields.io/github/stars/cider-security-research/cicd-goat) `由「Kfzz1」师傅补充，感谢支持`
 * AWS 靶场 AWSGoat [地址](https://github.com/ine-labs/AWSGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AWSGoat)
-* 云原生靶场部署工具 metarget [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
 * Azure 靶场  AzureGoat [地址](https://github.com/ine-labs/AzureGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AzureGoat) `由「Kfzz1」师傅补充，感谢支持`
 * 多云靶场搭建工具 TerraformGoat  [地址](https://github.com/HuoCorp/TerraformGoat) ![GitHub stars](https://img.shields.io/github/stars/HuoCorp/TerraformGoat)
+* AWS IAM 靶场 IAM Vulnerable [地址](https://github.com/BishopFox/iam-vulnerable) ![GitHub stars](https://img.shields.io/github/stars/BishopFox/iam-vulnerable)
 * GCP 靶场部署工具 GCPGoat [地址](https://github.com/ine-labs/GCPGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/GCPGoat) `由「Kfzz1」师傅补充，感谢支持`
+
+### 云原生靶场
+
+* k8s 靶场部署工具 Kubernetes Goat [地址](https://github.com/madhuakula/kubernetes-goat) ![GitHub stars](https://img.shields.io/github/stars/madhuakula/kubernetes-goat) `由「UzJu」师傅补充，感谢支持`
+* CI/CD 靶场部署工具 [地址](https://github.com/cider-security-research/cicd-goat) ![GitHub stars](https://img.shields.io/github/stars/cider-security-research/cicd-goat) `由「Kfzz1」师傅补充，感谢支持`
+* 云原生靶场部署工具 metarget [地址](https://github.com/Metarget/metarget) ![GitHub stars](https://img.shields.io/github/stars/Metarget/metarget)
+
 
 ## 贡献者 :confetti_ball:
 
