@@ -1,13 +1,13 @@
 <h1 align="center">Awesome Cloud Security 云安全资源汇总 💫 </h1>
 <p align="center">
-<a href="https://github.com/teamssix/awesome-cloud-security/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/teamssix/awesome-cloud-security" /></a>
-<a href="https://wiki.teamssix.com"><img alt="T Wiki" src="https://img.shields.io/badge/T%20Wiki%20-%E4%BA%91%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue" /></a>
-<a href="https://wiki.wgpsec.org"><img alt="WgpSec Wiki" src="https://img.shields.io/badge/%E7%8B%BC%E7%BB%84%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue" /></a>
-<a href="http://wiki.peiqi.tech"><img alt="PeiQi Wiki" src="https://img.shields.io/badge/PeiQi-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue" /></a>
-</a>
-<a href="https://twitter.com/intent/tweet/?text=Awesome%20Cloud%20Security%20%20%E4%BA%91%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB%20%F0%9F%92%AB%20%0Ahttps%3A%2F%2Fgithub.com%2Fteamssix%2Fawesome-cloud-security%0A%23awesome%20%23cloud%20%23security%20%23cloudsecurity%20%23cybersecurtiy"><img alt="tweet" src="https://img.shields.io/twitter/url?url=https://github.com/teamssix/awesome-cloud-security" /></a>
-<a href="https://twitter.com/teamssix"><img alt="Twitter" src="https://img.shields.io/twitter/follow/teamssix?label=Followers&style=social" /></a>
-<a href="https://github.com/teamssix"><img alt="Github" src="https://img.shields.io/github/followers/TeamsSix?style=social" /></a>
+    <a href="https://github.com/teamssix/awesome-cloud-security/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/teamssix/awesome-cloud-security" /></a>
+    <a href="https://wiki.teamssix.com"><img alt="T Wiki" src="https://img.shields.io/badge/T%20Wiki%20-%E4%BA%91%E5%AE%89%E5%85%A8%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue" /></a>
+    <a href="https://wiki.wgpsec.org"><img alt="WgpSec Wiki" src="https://img.shields.io/badge/%E7%8B%BC%E7%BB%84%E5%AE%89%E5%85%A8%E5%9B%A2%E9%98%9F-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue" /></a>
+    <a href="http://wiki.peiqi.tech"><img alt="PeiQi Wiki" src="https://img.shields.io/badge/PeiQi-%E7%9F%A5%E8%AF%86%E6%96%87%E5%BA%93-blue" /></a>
+    </a>
+    <a href="https://twitter.com/intent/tweet/?text=Awesome%20Cloud%20Security%20%20%E4%BA%91%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB%20%F0%9F%92%AB%20%0Ahttps%3A%2F%2Fgithub.com%2Fteamssix%2Fawesome-cloud-security%0A%23awesome%20%23cloud%20%23security%20%23cloudsecurity%20%23cybersecurtiy"><img alt="tweet" src="https://img.shields.io/twitter/url?url=https://github.com/teamssix/awesome-cloud-security" /></a>
+    <a href="https://twitter.com/teamssix"><img alt="Twitter" src="https://img.shields.io/twitter/follow/teamssix?label=Followers&style=social" /></a>
+    <a href="https://github.com/teamssix"><img alt="Github" src="https://img.shields.io/github/followers/TeamsSix?style=social" /></a>
 </p>
 
 
@@ -176,6 +176,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云上攻防二三事（续）[地址](http://avfisher.win/archives/1331)
 * 云计算隔离问题：PostgreSQL 的漏洞影响到多个云计算供应商（英文）[地址](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities)
 * 常规云服务业务侧攻防视角研究 [地址](https://mp.weixin.qq.com/s/2yaQ_W5K7BfmycMO2UcXJg)
+* 云安全学习建议与方向（英文）[地址](https://www.nojones.net/posts/breaking-into-cloudsec)
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径（英文） [地址](https://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
 
@@ -199,6 +200,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 微软云 对象存储攻防 [地址](https://zone.huoxian.cn/d/940)
 * 微软云 VM 攻防 [地址](https://zone.huoxian.cn/d/1083-vm)
 * Azure Cloud Shell 命令注入窃取用户的访问令牌（英文）[地址](https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens)
+* Azure 资源收集项目 Awesome-Azure-Pentest [地址](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) ![GitHub stars](https://img.shields.io/github/stars/Kyuu-Ji/Awesome-Azure-Pentest)
 
 **GCP**
 
@@ -484,47 +486,46 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 <table>
     <tr>
-        <td align="center"><img alt="TeamsSix"
-                    src="/img/1651741861.png" style="width: 100px;"/><br />TeamsSix</td>
-        <td align="center"><img alt="1derian"
-                    src="/img/1650108029.png"  style="width: 100px;" /><br />1derian</td>
-        <td align="center"><img alt="ShangRui-hash"
-                    src="/img/1650108092.png"  style="width: 100px;" /><br />ShangRui-hash</td>
-        <td align="center"><img alt="半人间丶"
-                    src="/img/1650108207.png"  style="width: 100px;" /><br />半人间丶</td>
-        <td align="center"><img alt="UzJu"
-                    src="/img/1650253985.png"  style="width: 100px;" /><br />UzJu</a></td>
-        <td align="center"><img alt="Idle Life"
-                    src="/img/1650865577.png"  style="width: 100px;" /><br />Idle Life</td>
+        <td align="center"><img alt="TeamsSix" src="/img/1651741861.png" style="width: 100px;" /><br />TeamsSix</td>
+        <td align="center"><img alt="1derian" src="/img/1650108029.png" style="width: 100px;" /><br />1derian</td>
+        <td align="center"><img alt="ShangRui-hash" src="/img/1650108092.png" style="width: 100px;" /><br />ShangRui-hash</td>
+        <td align="center"><img alt="半人间丶" src="/img/1650108207.png" style="width: 100px;" /><br />半人间丶</td>
+        <td align="center"><img alt="UzJu" src="/img/1650253985.png" style="width: 100px;" /><br />UzJu</a>
+        </td>
+        <td align="center"><img alt="Idle Life" src="/img/1650865577.png" style="width: 100px;" /><br />Idle Life</td>
     </tr>
     <tr>
-        <td align="center"><img alt="zhengjim"
-                    src="/img/1650942808.png"  style="width: 100px;" /><br />zhengjim</a></td>
-        <td align="center"><img alt="zxynull"
-                    src="/img/1651146804.png"  style="width: 100px;" /><br />zxynull</a></td>
-        <td align="center"><img alt="m4d3bug"
-                    src="/img/1651740464.png"  style="width: 100px;" /><br />m4d3bug</a></td>
-        <td align="center"><img alt="da Vinci【达文西】"
-                    src="/img/1651917214.png"  style="width: 100px;" /><br />da Vinci【达文西】</a></td>
-        <td align="center"><img alt="tanger"
-                    src="/img/1653815174.png"  style="width: 100px;" /><br />tanger</a></td>
-				<td align="center"><img alt="想走安全的小白"
-                    src="/img/1654852861.png"  style="width: 100px;" /><br />想走安全的小白</a></td>
+        <td align="center"><img alt="zhengjim" src="/img/1650942808.png" style="width: 100px;" /><br />zhengjim</a>
+        </td>
+        <td align="center"><img alt="zxynull" src="/img/1651146804.png" style="width: 100px;" /><br />zxynull</a>
+        </td>
+        <td align="center"><img alt="m4d3bug" src="/img/1651740464.png" style="width: 100px;" /><br />m4d3bug</a>
+        </td>
+        <td align="center"><img alt="da Vinci【达文西】" src="/img/1651917214.png" style="width: 100px;" /><br />da Vinci【达文西】</a>
+        </td>
+        <td align="center"><img alt="tanger" src="/img/1653815174.png" style="width: 100px;" /><br />tanger</a>
+        </td>
+        <td align="center"><img alt="想走安全的小白" src="/img/1654852861.png" style="width: 100px;" /><br />想走安全的小白</a>
+        </td>
     </tr>
-		<tr>
-        <td align="center"><img alt="Esonhugh"
-                    src="/img/1654854214.png"  style="width: 100px;" /><br />Esonhugh</a></td>
-				<td align="center"><img alt="Kfzz1"
-                    src="/img/1667370152.png"  style="width: 100px;" /><br />Kfzz1</a></td>
-                <td align="center"><img alt="cr"
-                    src="/img/1684313513.png"  style="width: 100px;" /><br />cr</a></td>
-                <td align="center"><img alt="Ma1tobiose"
-                    src="/img/1688880306.png"  style="width: 100px;" /><br />Ma1tobiose</a></td>
-                <td align="center"><img alt="DVKunion"
-                    src="/img/1689259230.png"  style="width: 100px;" /><br />DVKunion</a></td>
-                <td align="center"><img alt="苏打养乐多"
-                    src="/img/1692362083.png"  style="width: 100px;" /><br />苏打养乐多</a></td>
-		</tr>
+    <tr>
+        <td align="center"><img alt="Esonhugh" src="/img/1654854214.png" style="width: 100px;" /><br />Esonhugh</a>
+        </td>
+        <td align="center"><img alt="Kfzz1" src="/img/1667370152.png" style="width: 100px;" /><br />Kfzz1</a>
+        </td>
+        <td align="center"><img alt="cr" src="/img/1684313513.png" style="width: 100px;" /><br />cr</a>
+        </td>
+        <td align="center"><img alt="Ma1tobiose" src="/img/1688880306.png" style="width: 100px;" /><br />Ma1tobiose</a>
+        </td>
+        <td align="center"><img alt="DVKunion" src="/img/1689259230.png" style="width: 100px;" /><br />DVKunion</a>
+        </td>
+        <td align="center"><img alt="苏打养乐多" src="/img/1692362083.png" style="width: 100px;" /><br />苏打养乐多</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"><img alt="橘子怪" src="/img/1694685251.png" style="width: 100px;" /><br />橘子怪</a>
+        </td>
+    </tr>
 </table>
 
 
