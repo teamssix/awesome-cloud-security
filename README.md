@@ -92,6 +92,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云计算D1net
 * 云原生社区动态
 * 大可不加冰
+* 小佑科技 `由「宅独青年」师傅补充，感谢支持`
 
 ### 4 推特
 
@@ -200,7 +201,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 微软云 对象存储攻防 [地址](https://zone.huoxian.cn/d/940)
 * 微软云 VM 攻防 [地址](https://zone.huoxian.cn/d/1083-vm)
 * Azure Cloud Shell 命令注入窃取用户的访问令牌（英文）[地址](https://blog.lightspin.io/azure-cloud-shell-command-injection-stealing-users-access-tokens)
-* Azure 资源收集项目 Awesome-Azure-Pentest [地址](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) ![GitHub stars](https://img.shields.io/github/stars/Kyuu-Ji/Awesome-Azure-Pentest)
+* Azure 资源收集项目 Awesome-Azure-Pentest [地址](https://github.com/Kyuu-Ji/Awesome-Azure-Pentest) ![GitHub stars](https://img.shields.io/github/stars/Kyuu-Ji/Awesome-Azure-Pentest) `由「橘子怪」师傅补充，感谢支持`
 
 **GCP**
 
@@ -272,6 +273,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 * APISIX CVE-2022-29266 漏洞分析与复现 [地址](https://mp.weixin.qq.com/s/Un-9y_UhWDw9svHKb-JQVQ)
 
+**CI/CD**
+
+* CI/CD 攻击场景 - KCon 2023 议题 [地址](https://github.com/knownsec/KCon/blob/master/2023/CICD%E6%94%BB%E5%87%BB%E5%9C%BA%E6%99%AF.pdf) `由「宅独青年」师傅补充，感谢支持`
 
 ## 0x02 工具 :hammer_and_wrench:
 
@@ -524,6 +528,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
     </tr>
     <tr>
         <td align="center"><img alt="橘子怪" src="/img/1694685251.png" style="width: 100px;" /><br />橘子怪</a>
+        </td>
+        <td align="center"><img alt="宅独青年" src="/img/2000000016.png" style="width: 100px;" /><br />宅独青年</a>
         </td>
     </tr>
 </table>
