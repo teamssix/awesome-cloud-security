@@ -7,8 +7,8 @@
     </a>
     <a href="https://twitter.com/intent/tweet/?text=Awesome%20Cloud%20Security%20%20%E4%BA%91%E5%AE%89%E5%85%A8%E8%B5%84%E6%BA%90%E6%B1%87%E6%80%BB%20%F0%9F%92%AB%20%0Ahttps%3A%2F%2Fgithub.com%2Fteamssix%2Fawesome-cloud-security%0A%23awesome%20%23cloud%20%23security%20%23cloudsecurity%20%23cybersecurtiy"><img alt="tweet" src="https://img.shields.io/twitter/url?url=https://github.com/teamssix/awesome-cloud-security" /></a>
     <a href="https://twitter.com/teamssix"><img alt="Twitter" src="https://img.shields.io/twitter/follow/teamssix?label=Followers&style=social" /></a>
-    <a href="https://github.com/teamssix"><img alt="Github" src="https://img.shields.io/github/followers/TeamsSix?style=social" /></a>
 </p>
+
 
 
 Awesome Cloud Security 项目是从 T Wiki 云安全知识文库独立出来的一个项目， T Wiki 云安全知识文库中包含了自己在云安全方向的学习笔记以及大家一起贡献补充的云安全资源， T Wiki 云安全知识文库地址：[wiki.teamssix.com](https://wiki.teamssix.com)
@@ -305,6 +305,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云上攻击模拟工具 Leonidas [地址](https://github.com/WithSecureLabs/leonidas) ![GitHub stars](https://img.shields.io/github/stars/WithSecureLabs/leonidas)
 * 开源的轻量级云管平台 CloudExplorer Lite [地址](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) ![GitHub stars](https://img.shields.io/github/stars/CloudExplorer-Dev/CloudExplorer-Lite)
 * 红队云操作系统 RedCloudOS [地址](https://github.com/RedTeamOperations/RedCloud-OS) ![GitHub stars](https://img.shields.io/github/stars/RedTeamOperations/RedCloud-OS)
+* 云资产管理工具 cloudTools [地址](https://github.com/dark-kingA/cloudTools) ![GitHub stars](https://img.shields.io/github/stars/dark-kingA/cloudTools)
 * 云服务枚举工具 cloud service enum [地址](https://github.com/NotSoSecure/cloud-service-enum) ![GitHub stars](https://img.shields.io/github/stars/NotSoSecure/cloud-service-enum)
 
 **AWS**
@@ -470,6 +471,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 * 在线收费的包含云安全实验的靶场 Attack Defense [地址](https://attackdefense.pentesteracademy.com/listing?labtype=cloud-services&subtype=cloud-services-amazon-s3)
 * 在线免费的 AWS 渗透测试靶场 Free AWS Security Labs [地址](https://pentesting.cloud/) `由「cr」师傅补充，感谢支持`
+* 在线多云渗透靶场 pwnedlabs [地址](https://pwnedlabs.io) `由「RBPi」师傅补充，感谢支持`
 * AWS 靶场部署工具 cloudgoat [地址](https://github.com/RhinoSecurityLabs/cloudgoat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/cloudgoat)
 * AWS 靶场 AWSGoat [地址](https://github.com/ine-labs/AWSGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AWSGoat)
 * Azure 靶场  AzureGoat [地址](https://github.com/ine-labs/AzureGoat) ![GitHub stars](https://img.shields.io/github/stars/ine-labs/AzureGoat) `由「Kfzz1」师傅补充，感谢支持`
@@ -530,6 +532,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
         <td align="center"><img alt="橘子怪" src="/img/1694685251.png" style="width: 100px;" /><br />橘子怪</a>
         </td>
         <td align="center"><img alt="宅独青年" src="/img/2000000016.png" style="width: 100px;" /><br />宅独青年</a>
+        </td>
+				<td align="center"><img alt="弱鸡" src="/img/2000000017.png" style="width: 100px;" /><br />弱鸡</a>
         </td>
     </tr>
 </table>
