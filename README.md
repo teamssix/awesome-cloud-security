@@ -305,7 +305,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云上攻击模拟工具 Leonidas [地址](https://github.com/WithSecureLabs/leonidas) ![GitHub stars](https://img.shields.io/github/stars/WithSecureLabs/leonidas)
 * 开源的轻量级云管平台 CloudExplorer Lite [地址](https://github.com/CloudExplorer-Dev/CloudExplorer-Lite) ![GitHub stars](https://img.shields.io/github/stars/CloudExplorer-Dev/CloudExplorer-Lite)
 * 红队云操作系统 RedCloudOS [地址](https://github.com/RedTeamOperations/RedCloud-OS) ![GitHub stars](https://img.shields.io/github/stars/RedTeamOperations/RedCloud-OS)
-* 云资产管理工具 cloudTools [地址](https://github.com/dark-kingA/cloudTools) ![GitHub stars](https://img.shields.io/github/stars/dark-kingA/cloudTools)
+* 云资产管理工具 cloudTools [地址](https://github.com/dark-kingA/cloudTools) ![GitHub stars](https://img.shields.io/github/stars/dark-kingA/cloudTools) `由「弱鸡」师傅补充，感谢支持`
 * 云服务枚举工具 cloud service enum [地址](https://github.com/NotSoSecure/cloud-service-enum) ![GitHub stars](https://img.shields.io/github/stars/NotSoSecure/cloud-service-enum)
 
 **AWS**
@@ -537,6 +537,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
         </td>
     </tr>
 </table>
+
 
 
 ### 想要一起补充？直接给本项目提 PR 或者使用右侧链接中的方法：[补充说明地址](https://wiki.teamssix.com/About/Contribute.html)
