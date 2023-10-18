@@ -178,6 +178,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云计算隔离问题：PostgreSQL 的漏洞影响到多个云计算供应商（英文）[地址](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities)
 * 常规云服务业务侧攻防视角研究 [地址](https://mp.weixin.qq.com/s/2yaQ_W5K7BfmycMO2UcXJg)
 * 云安全学习建议与方向（英文）[地址](https://www.nojones.net/posts/breaking-into-cloudsec)
+* 60 种云攻击的方法（英文）[地址](https://redteamrecipe.com/60-Method-For-Cloud-Attacks/) `由「程皮糖别皮」师傅补充，感谢支持`
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径（英文） [地址](https://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
 
@@ -536,6 +537,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 				<td align="center"><img alt="弱鸡" src="/img/2000000017.png" style="width: 100px;" /><br />弱鸡</a>
         </td>
 				<td align="center"><img alt="RBPi" src="/img/2000000021.png" style="width: 100px;" /><br />RBPi</a>
+        </td>
+        <td align="center"><img alt="程皮糖别皮" src="/img/2000000022.png" style="width: 100px;" /><br />程皮糖别皮</a>
         </td>
     </tr>
 </table>
