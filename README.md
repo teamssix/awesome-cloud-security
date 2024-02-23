@@ -23,7 +23,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 * T Wiki 云安全知识文库 :fire: [地址](https://wiki.teamssix.com/)
 * Hacking The Cloud（英文） [地址](https://hackingthe.cloud/)
-* Cloud Security Wiki（英文）[地址](https://cloudsecwiki.com/index.html)
+* Cloud Security Wiki By NotSoSecure（英文）[地址](https://cloudsecwiki.com/index.html)
+* Cloud Security Wiki By WithSecure（英文）[地址](https://www.secwiki.cloud/)  `由「Kagantua」师傅补充，感谢支持`
 * 云服务漏洞库（英文）[地址](https://www.cloudvulndb.org/)
 * 2021 年云安全事件回顾（英文）[地址](https://blog.christophetd.fr/cloud-security-breaches-and-vulnerabilities-2021-in-review/)
 * 云渗透技巧 HackTricks Cloud（英文）[地址](https://cloud.hacktricks.xyz)
@@ -178,7 +179,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云计算隔离问题：PostgreSQL 的漏洞影响到多个云计算供应商（英文）[地址](https://www.wiz.io/blog/the-cloud-has-an-isolation-problem-postgresql-vulnerabilities)
 * 常规云服务业务侧攻防视角研究 [地址](https://mp.weixin.qq.com/s/2yaQ_W5K7BfmycMO2UcXJg)
 * 云安全学习建议与方向（英文）[地址](https://www.nojones.net/posts/breaking-into-cloudsec)
-* 60 种云攻击的方法（英文）[地址](https://redteamrecipe.com/60-Method-For-Cloud-Attacks/) `由「程皮糖别皮」师傅补充，感谢支持`
+* 60 种云攻击的方法（英文）[地址](https://redteamrecipe.com/60-methods-for-cloud-attacksrtc0009) `由「程皮糖别皮」师傅补充，感谢支持`
 * 云服务安全漏洞汇总 [地址](https://github.com/hashishrajan/cloud-security-vulnerabilities) ![GitHub stars](https://img.shields.io/github/stars/hashishrajan/cloud-security-vulnerabilities)
 * Lightspin 2022 年 7 大云攻击路径（英文） [地址](https://github.com/lightspin-tech/lightspin-2022-top-7-attack-paths) ![GitHub stars](https://img.shields.io/github/stars/lightspin-tech/lightspin-2022-top-7-attack-paths)
 
@@ -313,6 +314,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 
 * 在线搜索公开的存储桶 buckets.grayhatwarfare.com [地址](https://buckets.grayhatwarfare.com/)
 * AWS 文档 GPT 工具 [地址](https://www.awsdocsgpt.com)
+* 本地 AWS 环境部署工具 LocalStack [地址](https://github.com/localstack/localstack) ![GitHub stars](https://img.shields.io/github/stars/localstack/localstack) `由「Esonhugh」师傅补充，感谢支持`
 * AWS 官方 CLI 工具 [地址](https://github.com/aws/aws-cli) ![GitHub stars](https://img.shields.io/github/stars/aws/aws-cli)
 * AWS 环境分析工具 CloudMapper [地址](https://github.com/duo-labs/cloudmapper) ![GitHub stars](https://img.shields.io/github/stars/duo-labs/cloudmapper)
 * S3 策略扫描工具 S3Scanner [地址](https://github.com/sa7mon/S3Scanner) ![GitHub stars](https://img.shields.io/github/stars/sa7mon/S3Scanner)
@@ -539,6 +541,8 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 				<td align="center"><img alt="RBPi" src="/img/2000000021.png" style="width: 100px;" /><br />RBPi</a>
         </td>
         <td align="center"><img alt="程皮糖别皮" src="/img/2000000022.png" style="width: 100px;" /><br />程皮糖别皮</a>
+        </td>
+        <td align="center"><img alt="Kagantua" src="/img/2000000026.png" style="width: 100px;" /><br />Kagantua</a>
         </td>
     </tr>
 </table>
