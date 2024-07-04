@@ -94,7 +94,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 云原生社区动态
 * 大可不加冰
 * 小佑科技 `由「宅独青年」师傅补充，感谢支持`
-* 喵苗安全 `由 「Yaney」师傅补充， 感谢支持`
+* 喵苗安全 `由「Yaney」师傅补充， 感谢支持`
 
 ### 4 推特
 
