@@ -95,6 +95,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 大可不加冰
 * 小佑科技 `由「宅独青年」师傅补充，感谢支持`
 * 喵苗安全 `由「Yaney」师傅补充，感谢支持`
+* Bypass `由「glan」师傅补充，感谢支持`
 
 ### 4 推特
 
@@ -553,7 +554,9 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
         </td>
         <td align="center"><img alt="Poker" src="/img/2000000032.png" style="width: 100px;" /><br />Poker</a>
         </td>
-				<td align="center"><img alt="Yaney" src="/img/2000000040.png" style="width: 100px;" /><br />Yaney</a>
+        <td align="center"><img alt="Yaney" src="/img/2000000040.png" style="width: 100px;" /><br />Yaney</a>
+        </td>
+        <td align="center"><img alt="glan" src="/img/2000000043.png" style="width: 100px;" /><br />glan</a>
         </td>
     </tr>
 </table>
