@@ -199,6 +199,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 利用 AWS 官方对 log4j 漏洞的热补丁实现容器逃逸（英文）[地址](https://unit42.paloaltonetworks.com/aws-log4shell-hot-patch-vulnerabilities/)
 * AWS 创建后门的几种方法（英文）[地址](https://mystic0x1.github.io/posts/methods-to-backdoor-an-aws-account)
 * AWS 权限提升（英文）[地址](https://github.com/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/AWS-IAM-Privilege-Escalation)
+* AWS Buckets [s3dns](https://github.com/olizimmermann/s3dns) 一种**基于被动 DNS 的 S3（及其他云）存储桶发现工具**，通过在侦察过程中解析 **CNAME 记录和 IP 地址** 来识别云存储资源，**非常适合用于隐蔽、早期地发现云存储暴露面**。
 
 **Azure**
 
