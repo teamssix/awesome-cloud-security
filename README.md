@@ -143,6 +143,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 《云原生安全-攻防实践与体系构建》
 * 《Hacking Kubernetes》
 * 《Hands-On AWS Penetration Testing with Kali Linux》
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ### 6 视频
 
