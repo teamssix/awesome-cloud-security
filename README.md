@@ -469,6 +469,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * 容器安全工具集 veinmind-tools [地址](https://github.com/chaitin/veinmind-tools) ![GitHub stars](https://img.shields.io/github/stars/chaitin/veinmind-tools)
 * k8s 渗透测试工具 Peirates [地址](https://github.com/inguardians/peirates) ![GitHub stars](https://img.shields.io/github/stars/inguardians/peirates) `由「Idle Life」师傅补充，感谢支持`
 * 容器渗透测试工具 BOtB [地址](https://github.com/brompwnie/botb) ![GitHub stars](https://img.shields.io/github/stars/brompwnie/botb) `由「Idle Life」师傅补充，感谢支持`
+* 自主 AI 云原生渗透平台 Darkmoon（覆盖 Kubernetes，含 MCP 宿主与本地隐私网关） [地址](https://github.com/ASCIT31/Dark-Moon) ![GitHub stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon)
 * 容器利用工具 CCAT [地址](https://github.com/RhinoSecurityLabs/ccat) ![GitHub stars](https://img.shields.io/github/stars/RhinoSecurityLabs/ccat) `由「zhengjim」师傅补充，感谢支持`
 
 ## 0x03 靶场 :dart:
