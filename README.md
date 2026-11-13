@@ -156,7 +156,7 @@ The Awesome Cloud Security project is from the T Wiki cloud security knowledge b
 * AWS 安全认证-专业 AWS Certified Security - Specialty [地址](https://aws.amazon.com/certification/certified-security-specialty/)
 * AWS 认证解决方案架构师-助理 AWS Certified Solutions Architect – Associate [地址](https://aws.amazon.com/cn/certification/certified-solutions-architect-associate/)
 * Azure 基础知识认证 Azure Fundamentals [地址](https://learn.microsoft.com/certifications/azure-fundamentals/)
-* Azure 安全工程师助理 Azure Security Engineer Associate [地址](https://learn.microsoft.com/certifications/azure-security-engineer/)
+* 微软云和 AI 安全工程师助理 Microsoft Certified: Cloud and AI Security Engineer Associate (SC-500) [地址](https://learn.microsoft.com/credentials/certifications/cloud-and-ai-security-engineer-associate/)
 * CompTIA Cloud+ [地址](https://www.comptia.org/certifications/cloud)
 * GCP 专业云安全工程师 GCP Professional Cloud Security Engineer [地址](https://cloud.google.com/learn/certification/cloud-security-engineer)
 * GCP 云工程师助理 Associate Cloud Engineer [地址](https://cloud.google.com/learn/certification/cloud-engineer)
